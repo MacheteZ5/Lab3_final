@@ -1,0 +1,27 @@
+﻿@using Lab3_1229918.Models
+@model IEnumerable<Lab3_1229918.Models.Inventario>
+
+@{
+    ViewBag.Title = "ConPed";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Realizar Pedido</title>
+</head>
+<body>
+    <div>
+        <p><center>Por favor, ingrese los datos para facturación</center></p>
+        <form name="factura" action="HacerPedido" method="post">
+            Nombre:   <input type="text" name="Persona" required />
+            NIT:      <input type="text" name="NIT" required />
+            Direción:  <input type="text" name="direcciondelcliente" /> <br /><br />
+            Producto: <input type ="text" name="nombre">
+           <br> Cantidad: <input type="number" name="cantidad" /><br />
+            <input type="submit" name="facturar" value="Realizar Pedido" />
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,59 @@
+﻿@model Lab3_1229918.Models.Inventario
+@{
+    ViewBag.Title = "ConecciónB";
+}
+
+<h2>ConecciónB</h2>
+
+<form action="busqueda" method="post">
+    <label>Nombre: <input type="text" name="nombre" value=" " /></label><br />
+    <input type="submit" name="enviar" value="Buscar" />
+</form>
+
+<br /><div>
+    <form action="ConPed" method="post">
+        <input type="submit" name="enviar" value="Hacer Pedido" />
+    </form>
+</div><br />
+
+<br /><div>
+    <form action="InOrden" method="post">
+        <input type="submit" name="enviar" value="Recorrido InOrden" />
+    </form>
+    <form action="PreOrden" method="post">
+        <input type="submit" name="enviar" value="Recorrido PreOrden" />
+    </form>
+    <form action="PosOrden" method="post">
+        <input type="submit" name="enviar" value="Recorrido PosOrden" />
+    </form>
+
+</div><br />
+
+<br />
+<div>
+    <form action="eliminar" method="post">
+        <label>Nombre: <input type="text" name="nombre" value=" " /></label><br />
+        <input type="submit" name="enviar" value="Eliminar Un Dato" />
+    </form>
+</div><br />
+
+<br />
+<div>
+    <form action="Index2" method="post">
+        <input type="submit" name="enviar" value="Mostrar toda la lectura del archivo" />
+    </form>
+</div>
+
+<br />
+<div>
+    <form action="Json" method="post">
+        <input type="submit" name="enviar" value="Serializar los nodos" />
+    </form>
+</div>
+
+<br />
+<div>
+    <form action="JsonDeserialización" method="post">
+        <input type="submit" name="enviar" value="Deserializar los nodos" />
+    </form>
+</div>

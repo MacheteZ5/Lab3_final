@@ -1,0 +1,1000 @@
+{"ID":1,"Nombre":" REMEDY Calazime Skin Protectant","Cantidad":10,"Descripción":"Adverse effect of amphetamines, subsequent encounter","Precio":"$540.21","CasaFarmaceutica":"Medline Industries, Inc"}
+{"ID":2,"Nombre":" LOESTRIN Fe 1/20","Cantidad":5,"Descripción":"Asymptomatic varicose veins of right lower extremity","Precio":"$825.55","CasaFarmaceutica":"Teva Women's Health, Inc."}
+{"ID":3,"Nombre":" Milk of Magnesia","Cantidad":2,"Descripción":"Disp fx of lateral epicondyl of r humer, 7thP","Precio":"$937.66","CasaFarmaceutica":"Walgreen Company"}
+{"ID":4,"Nombre":" Pollens - Weeds and Garden Plants, Ragweed, Giant Ambrosia trifida","Cantidad":8,"Descripción":"Poisoning by succinimides and oxazolidinediones, undet","Precio":"$812.10","CasaFarmaceutica":"Jubilant HollisterStier LLC"}
+{"ID":5,"Nombre":" Colloidal Silver","Cantidad":3,"Descripción":"Unspecified injury of lung, bilateral, initial encounter","Precio":"$514.56","CasaFarmaceutica":"Apotheca Company"}
+{"ID":6,"Nombre":" Venlafaxine","Cantidad":11,"Descripción":"Other superficial bite of unspecified back wall of thorax","Precio":"$858.27","CasaFarmaceutica":"Clinical Solutions Wholesale"}
+{"ID":7,"Nombre":" Prednisone","Cantidad":5,"Descripción":"Fibrous dysplasia (monostotic), unspecified shoulder","Precio":"$159.61","CasaFarmaceutica":"Qualitest Pharmaceuticals"}
+{"ID":8,"Nombre":" Regular Strength Aspirin EC","Cantidad":11,"Descripción":"Struck by falling object on oth powered watercraft, init","Precio":"$136.34","CasaFarmaceutica":"NCS HealthCare of KY, Inc dba Vangard Labs"}
+{"ID":9,"Nombre":" Divalproex Sodium","Cantidad":9,"Descripción":"Partial traumatic transphalangeal amputation of l rng fngr","Precio":"$336.21","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":10,"Nombre":" ControlRx","Cantidad":13,"Descripción":"Corrosion of second degree back of right hand, sequela","Precio":"$699.66","CasaFarmaceutica":"3M ESPE Dental Products"}
+{"ID":11,"Nombre":" CITALOPRAM","Cantidad":5,"Descripción":"Milt op w thermal radn effect of nuclear weapon, milt, init","Precio":"$328.92","CasaFarmaceutica":"International Labs, Inc."}
+{"ID":12,"Nombre":" Solutions","Cantidad":6,"Descripción":"Injury of acoustic nerve, left side, subsequent encounter","Precio":"$734.89","CasaFarmaceutica":"Avon Products, Inc."}
+{"ID":13,"Nombre":" Treatment Set TS330359","Cantidad":4,"Descripción":"Laceration w/o fb of l idx fngr w damage to nail, subs","Precio":"$676.95","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":14,"Nombre":" Corlopam","Cantidad":11,"Descripción":"Personal history of (healed) osteoporosis fracture","Precio":"$547.39","CasaFarmaceutica":"Hospira, Inc."}
+{"ID":15,"Nombre":" ESIKA","Cantidad":3,"Descripción":"Adverse effect of unsp drug/meds/biol subst, subs","Precio":"$546.45","CasaFarmaceutica":"Ventura Corporation (San Juan, P.R)"}
+{"ID":16,"Nombre":" Restless Mind","Cantidad":15,"Descripción":"Corrosion of second degree of left knee, initial encounter","Precio":"$114.82","CasaFarmaceutica":"King Bio Inc."}
+{"ID":17,"Nombre":" Quetiapine fumarate","Cantidad":12,"Descripción":"Burn of second degree of unspecified foot, sequela","Precio":"$118.81","CasaFarmaceutica":"Major Pharmaceuticals"}
+{"ID":18,"Nombre":" Tri-Vitamin with Fluoride","Cantidad":3,"Descripción":"Multiple fx of pelvis w unstable disrupt of pelvic ring","Precio":"$209.88","CasaFarmaceutica":"Sancilio & Company Inc"}
+{"ID":19,"Nombre":" Lidocaine Hydrochloride","Cantidad":7,"Descripción":"Rickettsialpox due to Rickettsia akari","Precio":"$814.86","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":20,"Nombre":" Acyclovir","Cantidad":1,"Descripción":"Heat syncope","Precio":"$931.69","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":21,"Nombre":" SHAKING SMOOTHIE ALOE MASK","Cantidad":6,"Descripción":"Assault by hot fluids, subsequent encounter","Precio":"$786.55","CasaFarmaceutica":"NATURE REPUBLIC CO., LTD."}
+{"ID":22,"Nombre":" Fluconazole","Cantidad":2,"Descripción":"Crushing injury of left thumb, initial encounter","Precio":"$361.17","CasaFarmaceutica":"Citron Pharma LLC"}
+{"ID":23,"Nombre":" Oil-Free Daily Face","Cantidad":3,"Descripción":"Cataract with neovascularization, left eye","Precio":"$852.38","CasaFarmaceutica":"Walgreen Company"}
+{"ID":24,"Nombre":" Nitrofurantoin (monohydrate/macrocrystals)","Cantidad":11,"Descripción":"Post-traumatic urethral stricture, male, meatal","Precio":"$728.06","CasaFarmaceutica":"Eon Labs, Inc."}
+{"ID":25,"Nombre":" MiraLAX","Cantidad":15,"Descripción":"Unsp open wound of left lesser toe(s) w damage to nail, init","Precio":"$619.83","CasaFarmaceutica":"Cardinal Health"}
+{"ID":26,"Nombre":" Tilia Fe","Cantidad":4,"Descripción":"Mech compl of int fix of left femur, sequela","Precio":"$852.19","CasaFarmaceutica":"Watson Pharma, Inc."}
+{"ID":27,"Nombre":" Nabumetone","Cantidad":7,"Descripción":"Anterior dislocation of left ulnohumeral joint","Precio":"$598.36","CasaFarmaceutica":"Par Pharmaceutical Inc."}
+{"ID":28,"Nombre":" TRUFFLE EX WRINKLE SLEEPING MASK","Cantidad":11,"Descripción":"Displ commnt fx shaft of unsp femr, 7thP","Precio":"$353.42","CasaFarmaceutica":"NATURE REPUBLIC CO., LTD."}
+{"ID":29,"Nombre":" Pradaxa","Cantidad":12,"Descripción":"Other specified hereditary hemolytic anemias","Precio":"$336.73","CasaFarmaceutica":"Boehringer Ingelheim Pharmaceuticals Inc."}
+{"ID":30,"Nombre":" Ignatia Bryophyllum","Cantidad":4,"Descripción":"Pain due to nervous system prosth dev/grft, init","Precio":"$456.36","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":31,"Nombre":" Multi-Vitamin Fluoride Drops","Cantidad":7,"Descripción":"Unilateral post-traumatic osteoarthritis, unspecified hip","Precio":"$295.99","CasaFarmaceutica":"H.J. Harkins Company, Inc."}
+{"ID":32,"Nombre":" Doxycyclate Hyclate","Cantidad":5,"Descripción":"Dissection of aorta","Precio":"$538.37","CasaFarmaceutica":"Golden State Medical Supply, Inc."}
+{"ID":33,"Nombre":" Prednisone","Cantidad":4,"Descripción":"Congenital renal artery stenosis","Precio":"$298.98","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":34,"Nombre":" Vicks VapoDrops","Cantidad":2,"Descripción":"Sprain of other specified parts of left knee, sequela","Precio":"$527.44","CasaFarmaceutica":"Procter & Gamble Manufacturing Company"}
+{"ID":35,"Nombre":" Quality Choice Cold and Sore Throat","Cantidad":9,"Descripción":"Antepartum hemorrhage with afibrinogenemia, first trimester","Precio":"$688.82","CasaFarmaceutica":"Chain Drug Marketing Association"}
+{"ID":36,"Nombre":" RHIZOPUS ARRHIZUS VAR ARRHIZUS","Cantidad":4,"Descripción":"Drug-induced tremor","Precio":"$658.24","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":37,"Nombre":" Noble Lion Medicated Balm","Cantidad":5,"Descripción":"Nondisplaced Zone I fracture of sacrum, sequela","Precio":"$633.19","CasaFarmaceutica":"ABBP (ARRINGTON, BATTLE, BELL & PERRY), LLC"}
+{"ID":38,"Nombre":" dextroamphetamine sulfate","Cantidad":13,"Descripción":"Underdosing of unspecified psychodysleptics","Precio":"$45.20","CasaFarmaceutica":"Talec Pharma, LLC"}
+{"ID":39,"Nombre":" Pollens - Weeds and Garden Plants, Sagebrush, Mugwort Artemisia vulgaris","Cantidad":7,"Descripción":"Insect bite (nonvenomous) of scrotum and testes, subs encntr","Precio":"$88.45","CasaFarmaceutica":"Jubilant HollisterStier LLC"}
+{"ID":40,"Nombre":" TIGAN","Cantidad":2,"Descripción":"Episcleritis periodica fugax, left eye","Precio":"$789.04","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":41,"Nombre":" IQ Dental Mepivacaine","Cantidad":11,"Descripción":"Extreme immaturity of NB, gestatnl age 26 completed weeks","Precio":"$809.61","CasaFarmaceutica":"IQ Dental"}
+{"ID":42,"Nombre":" CLADOSPORIUM SPHAEROSPERMUM","Cantidad":13,"Descripción":"Oth place in single-family (private) house as place","Precio":"$202.12","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":43,"Nombre":" Brontuss","Cantidad":3,"Descripción":"Hemiplga following nontraumatic subarachnoid hemorrhage","Precio":"$475.44","CasaFarmaceutica":"Portal Inc."}
+{"ID":44,"Nombre":" 4 in 1 Pressed Mineral SPF 15 Blush Medium","Cantidad":3,"Descripción":"Deviated nasal septum","Precio":"$734.15","CasaFarmaceutica":"PUR MINERALS"}
+{"ID":45,"Nombre":" Orapred","Cantidad":3,"Descripción":"Nondisp intartic fx unsp calcaneus, subs for fx w routn heal","Precio":"$265.26","CasaFarmaceutica":"Concordia Pharmaceuticals Inc."}
+{"ID":46,"Nombre":" Moore Medical Antacid","Cantidad":1,"Descripción":"Nondisp seg fx shaft of unsp tibia, 7thN","Precio":"$172.60","CasaFarmaceutica":"Moore Medical LLC"}
+{"ID":47,"Nombre":" balance-n-brighten","Cantidad":5,"Descripción":"Ped w convey injured in collision w hv veh in traf, sequela","Precio":"$121.28","CasaFarmaceutica":"LAURA GELLER MAKE UP INC."}
+{"ID":48,"Nombre":" Secura EPC Skin Care Starter Kit","Cantidad":9,"Descripción":"Infection of intervertebral disc (pyogenic), lumbar region","Precio":"$30.05","CasaFarmaceutica":"Smith & Nephew, Inc."}
+{"ID":49,"Nombre":" Allergenic Extracts Standardized Mite","Cantidad":7,"Descripción":"Encounter for examination and observation for oth reasons","Precio":"$98.30","CasaFarmaceutica":"Greer Laboratories, Inc."}
+{"ID":50,"Nombre":" Laxative pills","Cantidad":4,"Descripción":"Disp fx of lateral malleolus of unsp fibula, 7thN","Precio":"$779.79","CasaFarmaceutica":"Freds Inc"}
+{"ID":51,"Nombre":" Bio Argimony","Cantidad":4,"Descripción":"Toxic effect of cobra venom, accidental, init","Precio":"$634.71","CasaFarmaceutica":"BioActive Nutritional, Inc."}
+{"ID":52,"Nombre":" Xolox","Cantidad":14,"Descripción":"Conjunctival hyperemia","Precio":"$920.90","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":53,"Nombre":" HYDRACLEAR HYDRATING ACNE GEL","Cantidad":3,"Descripción":"Disp fx of lateral malleolus of r fibula, 7thG","Precio":"$186.66","CasaFarmaceutica":"KATE SOMERVILLE SKINCARE, LLC"}
+{"ID":54,"Nombre":" Aqua Rush Serum","Cantidad":15,"Descripción":"Pnctr w/o fb of unsp eyelid and periocular area, sequela","Precio":"$756.15","CasaFarmaceutica":"AMI Cosmetic Co.,Ltd."}
+{"ID":55,"Nombre":" Saccharomyces","Cantidad":7,"Descripción":"Adverse effect of unsp drug/meds/biol subst, init","Precio":"$902.76","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":56,"Nombre":" FAST RELIEF ARTROSAMIN","Cantidad":8,"Descripción":"Displaced transverse fx shaft of right ulna, sequela","Precio":"$23.50","CasaFarmaceutica":"Chemco Corporation"}
+{"ID":57,"Nombre":" flormar REBORN BB SUNSCREEN BROAD SPECTRUM SPF 30 CP07 Nude Beige","Cantidad":1,"Descripción":"Laceration without foreign body, right knee, init encntr","Precio":"$391.70","CasaFarmaceutica":"Kosan Kozmetik Sanayi ve Ticaret A.S."}
+{"ID":58,"Nombre":" MENOMUNE - A/C/Y/W-135 COMBINED","Cantidad":9,"Descripción":"Poisoning by antineopl and immunosup drugs, assault, sequela","Precio":"$502.97","CasaFarmaceutica":"Sanofi Pasteur Inc."}
+{"ID":59,"Nombre":" Navy Bean","Cantidad":1,"Descripción":"Person outside 3-whl mv inj in clsn w hv veh in traf, subs","Precio":"$30.64","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":60,"Nombre":" Exelon","Cantidad":2,"Descripción":"Toxic effect of methanol, assault, sequela","Precio":"$755.38","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":61,"Nombre":" Amoxicillin","Cantidad":3,"Descripción":"Torus fracture of upper end of left humerus, init","Precio":"$985.44","CasaFarmaceutica":"Teva Pharmaceuticals USA Inc"}
+{"ID":62,"Nombre":" ENALAPRIL MALEATE","Cantidad":5,"Descripción":"Type 1 diabetes mellitus with other specified complication","Precio":"$674.64","CasaFarmaceutica":"Wockhardt USA LLC."}
+{"ID":63,"Nombre":" Hydrochlorothiazide","Cantidad":6,"Descripción":"Residual stage of open-angle glaucoma, unspecified eye","Precio":"$169.53","CasaFarmaceutica":"Carilion Materials Management"}
+{"ID":64,"Nombre":" Gnaphalium Stannum","Cantidad":6,"Descripción":"Dislocation of sacroiliac and sacrococcygeal joint, init","Precio":"$857.20","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":65,"Nombre":" Tranexamic Acid","Cantidad":1,"Descripción":"Other specified injuries of thyroid gland, subs encntr","Precio":"$623.09","CasaFarmaceutica":"APP Pharmaceuticals, LLC"}
+{"ID":66,"Nombre":" Metformin Hydrochloride","Cantidad":9,"Descripción":"Oth diab with prolif diabetic rtnop with trctn dtch macula","Precio":"$232.69","CasaFarmaceutica":"PD-Rx Pharmaceuticals, Inc."}
+{"ID":67,"Nombre":" Octreotide Acetate","Cantidad":12,"Descripción":"Oth fx shaft of rad, unsp arm, subs for clos fx w nonunion","Precio":"$91.00","CasaFarmaceutica":"SUN PHARMACEUTICAL INDUSTRIES LIMITED"}
+{"ID":68,"Nombre":" Lorazepam","Cantidad":9,"Descripción":"Displ spiral fx shaft of l tibia, init for opn fx type I/2","Precio":"$439.78","CasaFarmaceutica":"Hospira, Inc."}
+{"ID":69,"Nombre":" Triple Antibiotic","Cantidad":14,"Descripción":"Animal-rider injured in collision w rail trn/veh","Precio":"$95.94","CasaFarmaceutica":"Rite Aid Corporation"}
+{"ID":70,"Nombre":" LISINOPRIL","Cantidad":14,"Descripción":"Displ lateral mass fx 1st cervcal vert, 7thD","Precio":"$300.58","CasaFarmaceutica":"Lake Erie Medical DBA Quality Care Products LLC"}
+{"ID":71,"Nombre":" Desmopressin Acetate","Cantidad":3,"Descripción":"Pathological fracture, left finger(s)","Precio":"$376.26","CasaFarmaceutica":"BluePoint Laboratories"}
+{"ID":72,"Nombre":" Allopurinol","Cantidad":4,"Descripción":"Other superficial bite of right ring finger","Precio":"$620.40","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":73,"Nombre":" Dots Apple Cinnamon Anti-Bacterial Hand Sanitizer","Cantidad":4,"Descripción":"Laceration of blood vessel of right index finger","Precio":"$94.27","CasaFarmaceutica":"ALILY (ZHANGZHOU) BATH PRODUCTS LTD."}
+{"ID":74,"Nombre":" OP Dark Tanning Gel 4","Cantidad":8,"Descripción":"Fracture of lateral condyle of humerus","Precio":"$95.56","CasaFarmaceutica":"Sun & Skin Care Research, LLC"}
+{"ID":75,"Nombre":" GAS AND COLIC KIDS RELIEF","Cantidad":4,"Descripción":"Strain of left quadriceps muscle, fascia and tendon, subs","Precio":"$839.23","CasaFarmaceutica":"HOMEOLAB USA INC"}
+{"ID":76,"Nombre":" FreshKote Lubricant Eye Drops","Cantidad":13,"Descripción":"Disp fx of l tibial spin, 7thM","Precio":"$502.36","CasaFarmaceutica":"FOCUS Laboratories, Inc."}
+{"ID":77,"Nombre":" Cough and Cold","Cantidad":3,"Descripción":"Traum hemor cereb, w LOC >24 hr w/o ret consc w surv, subs","Precio":"$763.08","CasaFarmaceutica":"Selder, S.A. de C.V."}
+{"ID":78,"Nombre":" Telmisartan","Cantidad":12,"Descripción":"Toxic effect of unsp gases, fumes and vapors, accidental","Precio":"$36.10","CasaFarmaceutica":"Glenmark Generics Inc., USA"}
+{"ID":79,"Nombre":" Fire Ant","Cantidad":2,"Descripción":"Other urethral stricture","Precio":"$103.25","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":80,"Nombre":" Irbesartan","Cantidad":11,"Descripción":"Other physeal fracture of right calcaneus, init","Precio":"$287.54","CasaFarmaceutica":"American Health Packaging"}
+{"ID":81,"Nombre":" Hydromorphone HCl","Cantidad":3,"Descripción":"Other specified injuries of unspecified foot, subs encntr","Precio":"$958.41","CasaFarmaceutica":"Cantrell Drug Company"}
+{"ID":82,"Nombre":" Follistim AQ","Cantidad":5,"Descripción":"Other specified disorders of synovium and tendon, elbow","Precio":"$244.36","CasaFarmaceutica":"Organon USA Inc."}
+{"ID":83,"Nombre":" Bumetanide","Cantidad":13,"Descripción":"Nondisp fx of lateral condyle of right femur, init","Precio":"$988.88","CasaFarmaceutica":"Baxter Healthcare Corporation"}
+{"ID":84,"Nombre":" Medi Stem Eye","Cantidad":2,"Descripción":"Lac w/o fb of r frnt wl of thorax w penet thor cavity, subs","Precio":"$618.38","CasaFarmaceutica":"AMI Cosmetic Co.,Ltd."}
+{"ID":85,"Nombre":" Metoclopramide","Cantidad":5,"Descripción":"Laceration w/o fb of l little finger w damage to nail","Precio":"$584.50","CasaFarmaceutica":"American Health Packaging"}
+{"ID":86,"Nombre":" OXYCODONE AND ACETAMINOPHEN","Cantidad":11,"Descripción":"Unsp fracture of right femur, subs for clos fx w malunion","Precio":"$930.11","CasaFarmaceutica":"Mallinckrodt, Inc."}
+{"ID":87,"Nombre":" Carvedilol","Cantidad":5,"Descripción":"Other specified disorders of breast","Precio":"$689.86","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":88,"Nombre":" Meteoric Iron Prunus","Cantidad":15,"Descripción":"Pilar and trichodermal cyst","Precio":"$261.04","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":89,"Nombre":" healthy accents multi symptom cold","Cantidad":13,"Descripción":"Nondisp fx of ant wall of l acetab, subs for fx w routn heal","Precio":"$914.94","CasaFarmaceutica":"DZA Brands LLC"}
+{"ID":90,"Nombre":" Good Sense Childrens Pain and Fever","Cantidad":6,"Descripción":"Toxic effect of venom of black widow spider, self-harm, init","Precio":"$758.38","CasaFarmaceutica":"L. Perrigo Company"}
+{"ID":91,"Nombre":" DR.ISAO VITA WHITE SERUM","Cantidad":1,"Descripción":"Adverse effect of antineoplastic and immunosup drugs, subs","Precio":"$419.56","CasaFarmaceutica":"IASO Inc"}
+{"ID":92,"Nombre":" Sisal","Cantidad":15,"Descripción":"Toxic effect of other specified inorganic substances","Precio":"$584.33","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":93,"Nombre":" Nabumetone","Cantidad":1,"Descripción":"Exposure to ignition of oth clothing and apparel, subs","Precio":"$744.68","CasaFarmaceutica":"Blenheim Pharmacal, Inc."}
+{"ID":94,"Nombre":" Crest 3D White","Cantidad":11,"Descripción":"Subluxation and dislocation of C1/C2 cervical vertebrae","Precio":"$246.50","CasaFarmaceutica":"The Procter & Gamble Manufacturing Company"}
+{"ID":95,"Nombre":" Equate Cool and Heat","Cantidad":6,"Descripción":"Unsp athscl nonaut bio bypass of the extremities, left leg","Precio":"$147.48","CasaFarmaceutica":"Wal-Mart Stores Inc"}
+{"ID":96,"Nombre":" donepezil hydrochloride","Cantidad":9,"Descripción":"Sltr-haris Type II physl fx upr end rad, unsp arm, 7thK","Precio":"$76.99","CasaFarmaceutica":"McKesson Packaging Services a business unit of McKesson Corporation"}
+{"ID":97,"Nombre":" Pravastatin Sodium","Cantidad":15,"Descripción":"Laceration of dorsal vein of right foot, initial encounter","Precio":"$659.40","CasaFarmaceutica":"MedVantx, Inc."}
+{"ID":98,"Nombre":" Flurazepam","Cantidad":15,"Descripción":"Major depressive disorder, single episode","Precio":"$484.67","CasaFarmaceutica":"Golden State Medical Supply, Inc."}
+{"ID":99,"Nombre":" Retisert","Cantidad":3,"Descripción":"Unsp inj msl/fasc/tnd post grp at thi lev, unsp thigh, sqla","Precio":"$947.48","CasaFarmaceutica":"Bausch & Lomb Incorporated"}
+{"ID":100,"Nombre":" Amlodipine besylate/atorvastatin calcium","Cantidad":7,"Descripción":"Occup of 3-whl mv injured in clsn w statnry object nontraf","Precio":"$755.96","CasaFarmaceutica":"Mylan Pharmaceuticals Inc."}
+{"ID":101,"Nombre":" Inflammation","Cantidad":6,"Descripción":"Person outsd 3-whl mv inj in nonclsn trnsp acc nontraf, subs","Precio":"$961.00","CasaFarmaceutica":"Apotheca Company"}
+{"ID":102,"Nombre":" Gelato APF","Cantidad":1,"Descripción":"Other contact with rat, sequela","Precio":"$481.16","CasaFarmaceutica":"Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc"}
+{"ID":103,"Nombre":" Desipramine Hydrochloride","Cantidad":4,"Descripción":"Unspecified superficial injury of right forearm, init encntr","Precio":"$488.41","CasaFarmaceutica":"KAISER FOUNDATION HOSPITALS"}
+{"ID":104,"Nombre":" Acyclovir","Cantidad":6,"Descripción":"Diab with prolif diabetic rtnop with trctn dtch macula, bi","Precio":"$412.05","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":105,"Nombre":" Correct and Perfect Spot Treatment","Cantidad":3,"Descripción":"Poisoning by chloramphenicol group, self-harm, sequela","Precio":"$833.65","CasaFarmaceutica":"Dr. Dennis Gross Skincare, LLC"}
+{"ID":106,"Nombre":" Methocarbamol","Cantidad":6,"Descripción":"Accidental malfunction of hunting rifle, subs encntr","Precio":"$807.15","CasaFarmaceutica":"Sandoz Inc"}
+{"ID":107,"Nombre":" Picato","Cantidad":9,"Descripción":"Other disorders of the right eye following cataract surgery","Precio":"$884.86","CasaFarmaceutica":"LEO Pharma Inc."}
+{"ID":108,"Nombre":" DEPRESSION COMPOSITION","Cantidad":5,"Descripción":"Sucked into jet engine","Precio":"$241.03","CasaFarmaceutica":"Synergy Formulas, Inc."}
+{"ID":109,"Nombre":" SHISEIDO SHEER MATIFYING COMPACT (REFILL)","Cantidad":6,"Descripción":"Toxic effect of carb monx from utility gas, assault, subs","Precio":"$362.36","CasaFarmaceutica":"SHISEIDO CO., LTD."}
+{"ID":110,"Nombre":" Eve Lom Brilliant Cover Concealer Broad Spectrum SPF 15 Sunscreen","Cantidad":1,"Descripción":"Parasomnia, unspecified","Precio":"$906.08","CasaFarmaceutica":"Space Brands Limited"}
+{"ID":111,"Nombre":" Aspirin","Cantidad":15,"Descripción":"Mature T/NK-cell lymphomas, unsp, intrathoracic lymph nodes","Precio":"$356.25","CasaFarmaceutica":"Bedrock Brands, LLC (ST. JOSEPH)"}
+{"ID":112,"Nombre":" Standardized Mite, Dermatophagoides pteronyssinus, Intradermal, 30 AU per mL","Cantidad":13,"Descripción":"Displaced fracture of body of unspecified talus, sequela","Precio":"$926.87","CasaFarmaceutica":"Jubilant HollisterStier LLC"}
+{"ID":113,"Nombre":" Moxifloxacin","Cantidad":15,"Descripción":"Disorders of acoustic nerve","Precio":"$650.98","CasaFarmaceutica":"Dr. Reddy's Laboratories Limited"}
+{"ID":114,"Nombre":" Vicodin","Cantidad":10,"Descripción":"Ped w convey injured in collision w pedl cyc nontraf, init","Precio":"$925.01","CasaFarmaceutica":"AbbVie Inc."}
+{"ID":115,"Nombre":" GLUCOPHAGE","Cantidad":9,"Descripción":"Other secondary chronic gout, right shoulder, with tophus","Precio":"$605.13","CasaFarmaceutica":"PD-Rx Pharmaceuticals, Inc."}
+{"ID":116,"Nombre":" Degree","Cantidad":6,"Descripción":"Pre-existing type 1 diabetes mellitus, in the puerperium","Precio":"$335.98","CasaFarmaceutica":"Conopco Inc. d/b/a Unilever"}
+{"ID":117,"Nombre":" Renes Carbo Special Order","Cantidad":3,"Descripción":"Leakage of coronary artery bypass graft, sequela","Precio":"$709.42","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":118,"Nombre":" Amitriptyline Hydrochloride","Cantidad":13,"Descripción":"Unsp fx head of unsp femur, subs for clos fx w routn heal","Precio":"$943.87","CasaFarmaceutica":"Mylan Pharmaceuticals Inc."}
+{"ID":119,"Nombre":" Metronidazole","Cantidad":4,"Descripción":"Pressure ulcer of unspecified hip","Precio":"$992.67","CasaFarmaceutica":"BluePoint Laboratories"}
+{"ID":120,"Nombre":" Venlafaxine hydrochloride","Cantidad":12,"Descripción":"Oth traum nondisp spondylolysis of sixth cervcal vert, 7thK","Precio":"$437.38","CasaFarmaceutica":"Dr. Reddy's Laboratories Limited"}
+{"ID":121,"Nombre":" CVS COLD AND HOT MEDICATED XL","Cantidad":1,"Descripción":"Oth disp fx of upper end of unsp humerus, init for opn fx","Precio":"$454.36","CasaFarmaceutica":"CVS PHARMACY, INC."}
+{"ID":122,"Nombre":" ROPINIROLE HYDROCHLORIDE","Cantidad":7,"Descripción":"Traumatic rupture of unsp ulnocarpal (palmar) ligament","Precio":"$303.71","CasaFarmaceutica":"Major Pharmaceuticals"}
+{"ID":123,"Nombre":" Synthroid","Cantidad":2,"Descripción":"Fracture of one rib","Precio":"$560.88","CasaFarmaceutica":"State of Florida DOH Central Pharmacy"}
+{"ID":124,"Nombre":" Zyprexa","Cantidad":15,"Descripción":"Corrosion of respiratory tract, part unsp, init encntr","Precio":"$598.30","CasaFarmaceutica":"Dispensing Solutions, Inc."}
+{"ID":125,"Nombre":" Terrasil Itch, Rash and Pain Relief","Cantidad":1,"Descripción":"Wedge comprsn fx fifth lum vert, subs for fx w routn heal","Precio":"$313.80","CasaFarmaceutica":"Aidance Skincare & Topical Solutions, LLC"}
+{"ID":126,"Nombre":" Aplicare Povidone-iodine Scrub","Cantidad":5,"Descripción":"Beta thalassemia","Precio":"$165.07","CasaFarmaceutica":"Aplicare, Inc."}
+{"ID":127,"Nombre":" Lovastatin","Cantidad":12,"Descripción":"Stress fracture, right finger(s)","Precio":"$417.08","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":128,"Nombre":" FungaZoil Advanced","Cantidad":11,"Descripción":"Dermatochalasis of unspecified eye, unspecified eyelid","Precio":"$377.15","CasaFarmaceutica":"Pedifix"}
+{"ID":129,"Nombre":" ropinirole hydrochloride","Cantidad":10,"Descripción":"Encounter for exam and obs following alleged physical abuse","Precio":"$453.96","CasaFarmaceutica":"Cadila Healthcare Limited"}
+{"ID":130,"Nombre":" Gillette Mach 3 Invisible","Cantidad":8,"Descripción":"Inadequate sleep hygiene","Precio":"$446.32","CasaFarmaceutica":"Procter & Gamble Manufacturing Company"}
+{"ID":131,"Nombre":" Felodipine","Cantidad":2,"Descripción":"Underdosing of unsp systemic anti-infect/parasit, sequela","Precio":"$132.04","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":132,"Nombre":" Berry Scented Hand Sanitizer","Cantidad":5,"Descripción":"Strain of intrinsic msl/tnd at ank/ft level, left foot","Precio":"$556.89","CasaFarmaceutica":"Townley, Inc."}
+{"ID":133,"Nombre":" Flu Relief Therapy","Cantidad":10,"Descripción":"NIHSS score 4","Precio":"$545.52","CasaFarmaceutica":"Walgreens"}
+{"ID":134,"Nombre":" Ranitidine","Cantidad":4,"Descripción":"Superficial frostbite of unspecified finger(s)","Precio":"$599.01","CasaFarmaceutica":"Valu Merchandisers Company"}
+{"ID":135,"Nombre":" Love and Beauty Peach Mango Anti-Bacterial Hand Sanitizer","Cantidad":13,"Descripción":"Dislocation of metatarsophalangeal joint of unsp toe(s)","Precio":"$303.49","CasaFarmaceutica":"ALILY (ZHANGZHOU) BATH PRODUCTS LTD."}
+{"ID":136,"Nombre":" BAROX","Cantidad":13,"Descripción":"Oth fracture of upper end of left ulna, init for clos fx","Precio":"$942.97","CasaFarmaceutica":"Dr.JangLab Inc."}
+{"ID":137,"Nombre":" Next Choice","Cantidad":8,"Descripción":"Driver of bus injured in collision w unsp mv in traf, init","Precio":"$319.78","CasaFarmaceutica":"H.J. Harkins Company, Inc."}
+{"ID":138,"Nombre":" Bupropion Hydrochloride","Cantidad":1,"Descripción":"Vertebral artery compression syndromes, site unspecified","Precio":"$183.33","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":139,"Nombre":" Tormentilla Cochlearia Menstrual Support","Cantidad":2,"Descripción":"Sltr-haris Type II physl fx low end rad, r arm, 7thP","Precio":"$208.52","CasaFarmaceutica":"Uriel Pharmacy Inc"}
+{"ID":140,"Nombre":" Dial For Men Dandruff Control Hair and Body Wash","Cantidad":3,"Descripción":"Stable burst fracture of T5-T6 vertebra, sequela","Precio":"$563.10","CasaFarmaceutica":"The Dial Corporation"}
+{"ID":141,"Nombre":" Daytime","Cantidad":8,"Descripción":"Psychological abuse, suspected","Precio":"$861.88","CasaFarmaceutica":"Premier Value (Chain Drug Consortium, LLC)"}
+{"ID":142,"Nombre":" Good Neighbor Pharmacy","Cantidad":10,"Descripción":"Burns of oth parts of unsp eye and adnexa, init encntr","Precio":"$531.93","CasaFarmaceutica":"AMERISOURCEBERGEN DRUG CORPORATION"}
+{"ID":143,"Nombre":" Hydrocodone Bitartrate And Acetaminophen","Cantidad":13,"Descripción":"Varicose veins of left lower extremity with ulcer of calf","Precio":"$349.47","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":144,"Nombre":" Pleo San Pseu","Cantidad":2,"Descripción":"Exposure to bed fire due to unsp burning material, sequela","Precio":"$229.52","CasaFarmaceutica":"Sanum Kehlbeck GmbH & Co. KG"}
+{"ID":145,"Nombre":" Quackgrass Pollen","Cantidad":12,"Descripción":"Secondary neuroendocrine tumors","Precio":"$827.99","CasaFarmaceutica":"Allermed Laboratories, Inc."}
+{"ID":146,"Nombre":" AZITHROMYCIN","Cantidad":9,"Descripción":"Person outside car injured in nonclsn trnsp accident nontraf","Precio":"$90.13","CasaFarmaceutica":"WOCKHARDT USA LLC."}
+{"ID":147,"Nombre":" Tobramycin","Cantidad":9,"Descripción":"Secondary malignant neoplasm of unsp part of nervous system","Precio":"$354.16","CasaFarmaceutica":"Mylan Institutional LLC"}
+{"ID":148,"Nombre":" AMBIEN","Cantidad":7,"Descripción":"Sepsis due to Enterococcus","Precio":"$170.50","CasaFarmaceutica":"STAT Rx USA LLC"}
+{"ID":149,"Nombre":" Hydrocodone Bitartrate And Acetaminophen","Cantidad":8,"Descripción":"Coma scale, best motor response, obeys commands, admit","Precio":"$934.71","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":150,"Nombre":" Vagistat-3","Cantidad":11,"Descripción":"Burn of second degree of unspecified thigh, subs encntr","Precio":"$473.92","CasaFarmaceutica":"Novartis Consumer Health, Inc."}
+{"ID":151,"Nombre":" Famotidine","Cantidad":15,"Descripción":"Hit by falling object due to accident to fishing boat, init","Precio":"$954.93","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":152,"Nombre":" Standardized Redtop Grass","Cantidad":5,"Descripción":"Sltr-haris Type III physl fx upr end rad, r arm, 7thD","Precio":"$41.33","CasaFarmaceutica":"Allermed Laboratories, Inc."}
+{"ID":153,"Nombre":" Darby","Cantidad":6,"Descripción":"Exposure to tanning bed, sequela","Precio":"$122.59","CasaFarmaceutica":"Darby Dental Supply Co Inc"}
+{"ID":154,"Nombre":" Compro","Cantidad":10,"Descripción":"Nondisp fx of trapezium, right wrist, subs for fx w nonunion","Precio":"$79.86","CasaFarmaceutica":"PD-Rx Pharmaceuticals, Inc."}
+{"ID":155,"Nombre":" Clear Proof Acne System","Cantidad":5,"Descripción":"Angular blepharoconjunctivitis, right eye","Precio":"$717.84","CasaFarmaceutica":"Mary Kay Inc."}
+{"ID":156,"Nombre":" Esterified Estrogens and Methyltestosterone","Cantidad":3,"Descripción":"Unsp superficial injuries of breast, unsp breast, subs","Precio":"$884.47","CasaFarmaceutica":"ANIP Acquisition Company"}
+{"ID":157,"Nombre":" Babyganics","Cantidad":2,"Descripción":"Pedestrian on foot injured in collision w hv veh in traf","Precio":"$947.28","CasaFarmaceutica":"Autumn Harp, Inc."}
+{"ID":158,"Nombre":" ENALAPRIL MALEATE","Cantidad":9,"Descripción":"Acquired absence of unspecified wrist","Precio":"$440.36","CasaFarmaceutica":"Unit Dose Services"}
+{"ID":159,"Nombre":" PCXX NEUTRAL GEL PINA COLADA","Cantidad":1,"Descripción":"Nondisp fx of lateral cuneiform of r ft, 7thP","Precio":"$451.42","CasaFarmaceutica":"Ross Healthcare Inc."}
+{"ID":160,"Nombre":" LEADER Caldyphen","Cantidad":10,"Descripción":"Di George's syndrome","Precio":"$212.74","CasaFarmaceutica":"Cardinal Health"}
+{"ID":161,"Nombre":" Terazosin Hydrochloride","Cantidad":1,"Descripción":"Recurrent dislocation, elbow","Precio":"$878.59","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":162,"Nombre":" BARLEY MALT","Cantidad":14,"Descripción":"Corros 1st deg of unsp site unsp lower limb, ex ank/ft, sqla","Precio":"$739.91","CasaFarmaceutica":"Allergy Laboratories, Inc."}
+{"ID":163,"Nombre":" Any Mi Natural Magic BB No.5","Cantidad":13,"Descripción":"Disp fx (avulsion) of medial epicondyle of left humerus","Precio":"$232.30","CasaFarmaceutica":"K.N.Life Co., Ltd."}
+{"ID":164,"Nombre":" NAPROXEN","Cantidad":2,"Descripción":"Subluxation of unsp interphaln joint of unsp finger, init","Precio":"$359.66","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":165,"Nombre":" Viscum Tiliae","Cantidad":9,"Descripción":"Sltr-haris Type IV physl fx upper end humer, unsp arm, init","Precio":"$464.10","CasaFarmaceutica":"Uriel Pharmacy Inc"}
+{"ID":166,"Nombre":" Extra Strength Non-Aspirin","Cantidad":14,"Descripción":"Nondisp fx of intermed cuneiform of l foot, init for opn fx","Precio":"$587.31","CasaFarmaceutica":"VALUE MERCHANDISERS COMPANY, INC."}
+{"ID":167,"Nombre":" Levofloxacin","Cantidad":6,"Descripción":"Disp fx of distal pole of navicular bone of r wrist, sequela","Precio":"$998.88","CasaFarmaceutica":"Greenstone LLC"}
+{"ID":168,"Nombre":" Neomycin and Polymyxin B Sulfates and Bacitracin Zinc","Cantidad":11,"Descripción":"Ankylosing hyperostosis, occipito-atlanto-axial region","Precio":"$792.99","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":169,"Nombre":" rx act nasal","Cantidad":10,"Descripción":"Pnctr of abd wall w fb, r low q w/o penet perit cav, sqla","Precio":"$20.04","CasaFarmaceutica":"H E B"}
+{"ID":170,"Nombre":" Unscented SPF 17","Cantidad":8,"Descripción":"Other specified injuries of external genitals, sequela","Precio":"$472.41","CasaFarmaceutica":"CoValence, Inc."}
+{"ID":171,"Nombre":" Nystatin","Cantidad":9,"Descripción":"Subcutaneous panniculitis-like T-cell lymphoma","Precio":"$284.97","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":172,"Nombre":" DOCTORS CHOICE","Cantidad":5,"Descripción":"Infections of cervix in pregnancy, second trimester","Precio":"$517.73","CasaFarmaceutica":"Massco Dental A Division of Dunagin Pharmaceuticals"}
+{"ID":173,"Nombre":" FEXOFENADINE HYDROCHLORIDE","Cantidad":11,"Descripción":"Assault by oth gas, air or spring-operated gun, subs encntr","Precio":"$477.95","CasaFarmaceutica":"Sun Pharmaceutical Industries Limited"}
+{"ID":174,"Nombre":" Eucerin Redness Relief Daily Perfecting","Cantidad":9,"Descripción":"Subluxation of unsp interphalangeal joint of r mid finger","Precio":"$589.12","CasaFarmaceutica":"Beiersdorf Inc"}
+{"ID":175,"Nombre":" VELCADE","Cantidad":2,"Descripción":"Nondisp oblique fx shaft of humerus, right arm, sequela","Precio":"$961.67","CasaFarmaceutica":"Millennium Pharmaceuticals, Inc."}
+{"ID":176,"Nombre":" Curad Oral Saline Laxative","Cantidad":12,"Descripción":"Occupant (driver) of hv veh injured in unsp traf, init","Precio":"$502.62","CasaFarmaceutica":"Medline Industries, Inc."}
+{"ID":177,"Nombre":" Caduet","Cantidad":11,"Descripción":"Car driver injured in collision w SUV nontraf, sequela","Precio":"$369.26","CasaFarmaceutica":"Pfizer Laboratories Div Pfizer Inc"}
+{"ID":178,"Nombre":" Zicam","Cantidad":14,"Descripción":"Puncture wound with foreign body, right lower leg, sequela","Precio":"$529.68","CasaFarmaceutica":"Matrixx Initiatives, Inc."}
+{"ID":179,"Nombre":" Chlorpromazine Hydrochloride","Cantidad":11,"Descripción":"Unsp injury of blood vessel of other finger, init encntr","Precio":"$602.42","CasaFarmaceutica":"NCS HealthCare of KY, Inc dba Vangard Labs"}
+{"ID":180,"Nombre":" RITE AID RENEWAL","Cantidad":10,"Descripción":"Postthrom syndrome w ulcer and inflam of unsp low extrm","Precio":"$925.39","CasaFarmaceutica":"RITE AID CORPORATION"}
+{"ID":181,"Nombre":" Earths Best Cold Relief Vapor","Cantidad":10,"Descripción":"Driver of pk-up/van inj in clsn w 2/3-whl mv nontraf, sqla","Precio":"$16.43","CasaFarmaceutica":"The Hain Celestial Group, Inc"}
+{"ID":182,"Nombre":" Terrasil IPL Relief","Cantidad":6,"Descripción":"Unsp comp of fb acc left in body following remov cath/pack","Precio":"$939.32","CasaFarmaceutica":"Aidance Skincare & Topical Solutions, LLC"}
+{"ID":183,"Nombre":" Antacid","Cantidad":6,"Descripción":"Puncture wound w foreign body of unsp part of head, init","Precio":"$111.53","CasaFarmaceutica":"Meijer Distribution Inc"}
+{"ID":184,"Nombre":" Lunesta","Cantidad":3,"Descripción":"Other specified injuries of left thigh","Precio":"$880.37","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":185,"Nombre":" Verapamil Hydrochloride","Cantidad":3,"Descripción":"Trochanteric bursitis","Precio":"$132.94","CasaFarmaceutica":"Aphena Pharma Solutions - Tennessee, LLC"}
+{"ID":186,"Nombre":" Naturasil","Cantidad":3,"Descripción":"Complete traumatic amp of unsp forearm, level unsp, subs","Precio":"$674.61","CasaFarmaceutica":"Nature's Innovation, Inc."}
+{"ID":187,"Nombre":" MATTE MOISTURE TINT SUNSCREEN BROAD SPECTRUM SPF 15","Cantidad":7,"Descripción":"Fx unsp tarsal bone(s) of unsp foot, subs for fx w nonunion","Precio":"$881.73","CasaFarmaceutica":"Jouer Cosmetics LLC"}
+{"ID":188,"Nombre":" Levetiracetam","Cantidad":13,"Descripción":"Passenger of amblnc/fire eng injured nontraf, init","Precio":"$261.23","CasaFarmaceutica":"Breckenridge Pharmaceutical, Inc."}
+{"ID":189,"Nombre":" Metoprolol Tartrate","Cantidad":3,"Descripción":"Pathological fracture in neoplastic disease, ankle and foot","Precio":"$333.85","CasaFarmaceutica":"West-ward Pharmaceutical Corp"}
+{"ID":190,"Nombre":" Diltiazem Hydrochloride","Cantidad":10,"Descripción":"Prsn brd/alit a 3-whl mv inj pick-up truck, pk-up/van, subs","Precio":"$685.30","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":191,"Nombre":" Methscopolamine Bromide","Cantidad":14,"Descripción":"Dislocation of oth carpometacarpal joint of right hand, subs","Precio":"$14.77","CasaFarmaceutica":"E. Fougera & Co. a division of Fougera Pharmaceuticals Inc."}
+{"ID":192,"Nombre":" Zanaflex","Cantidad":7,"Descripción":"Person outsd car inj in clsn w nonmtr vehicle in traf, init","Precio":"$999.26","CasaFarmaceutica":"Acorda Therapeutics, Inc."}
+{"ID":193,"Nombre":" Paroxetine","Cantidad":5,"Descripción":"Sprain of interphalangeal joint of left ring finger","Precio":"$344.17","CasaFarmaceutica":"Lake Erie Medical DBA Quality Care Products LLC"}
+{"ID":194,"Nombre":" Dry Idea","Cantidad":10,"Descripción":"Complete traumatic MCP amputation of right ring finger","Precio":"$478.07","CasaFarmaceutica":"VVF Illinois Services"}
+{"ID":195,"Nombre":" Formaldehyde","Cantidad":9,"Descripción":"Pathological fracture, right foot, subs for fx w delay heal","Precio":"$860.65","CasaFarmaceutica":"Deseret Biologicals, Inc."}
+{"ID":196,"Nombre":" Alprazolam","Cantidad":12,"Descripción":"Injury of conjunctiva and corneal abrasion w/o fb, left eye","Precio":"$564.33","CasaFarmaceutica":"Aidarex Pharmaceuticals LLC"}
+{"ID":197,"Nombre":" HYDRALIFE BB CREME Enhancing Moisturizer For Immediate Beauty SPF 30","Cantidad":10,"Descripción":"Sprain of interphalangeal joint of unsp finger, init encntr","Precio":"$492.48","CasaFarmaceutica":"Parfums Christian Dior"}
+{"ID":198,"Nombre":" Dextrose","Cantidad":1,"Descripción":"Tuberculous peritonitis","Precio":"$925.93","CasaFarmaceutica":"Baxter Healthcare Corporation"}
+{"ID":199,"Nombre":" cephalexin","Cantidad":15,"Descripción":"Toxic effect of ingested mushrooms, accidental","Precio":"$979.77","CasaFarmaceutica":"Lake Erie Medical DBA Quality Care Products LLC"}
+{"ID":200,"Nombre":" Buspirone HCl","Cantidad":5,"Descripción":"Ankylosis, left ankle","Precio":"$442.80","CasaFarmaceutica":"Rebel Distributors Corp."}
+{"ID":201,"Nombre":" Loratadine and Pseudoephedrine Sulfate","Cantidad":3,"Descripción":"Unsp mtrcy rider injured in clsn w hv veh nontraf, sequela","Precio":"$489.61","CasaFarmaceutica":"Chain Drug Marketing Association Inc."}
+{"ID":202,"Nombre":" Loperamide Hydrochloride","Cantidad":6,"Descripción":"Corrosion of second degree of left axilla, subs encntr","Precio":"$295.98","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":203,"Nombre":" SORGHUM HALEPENSE POLLEN","Cantidad":8,"Descripción":"Occup of pk-up/van inj in nonclsn trnsp acc in traf, sequela","Precio":"$326.43","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":204,"Nombre":" Ailanthus","Cantidad":6,"Descripción":"Idiopathic chronic gout, left elbow, without tophus (tophi)","Precio":"$824.38","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":205,"Nombre":" Enulose","Cantidad":14,"Descripción":"Inj flexor musc/fasc/tend unsp finger at forearm level, subs","Precio":"$326.17","CasaFarmaceutica":"Actavis Inc."}
+{"ID":206,"Nombre":" Plan B One-Step","Cantidad":12,"Descripción":"Mobile home as the place of occurrence of the external cause","Precio":"$120.50","CasaFarmaceutica":"Teva Women's Health, Inc."}
+{"ID":207,"Nombre":" Verapamil Hydrochloride","Cantidad":14,"Descripción":"Disp fx of unsp tibial tuberosity, 7thR","Precio":"$325.56","CasaFarmaceutica":"NCS HealthCare of KY, Inc dba Vangard Labs"}
+{"ID":208,"Nombre":" Prevacid SoluTab","Cantidad":14,"Descripción":"Other specified hemorrhagic conditions","Precio":"$250.39","CasaFarmaceutica":"Takeda Pharmaceuticals America, Inc."}
+{"ID":209,"Nombre":" Dandruff","Cantidad":14,"Descripción":"Cannabis use, unspecified with anxiety disorder","Precio":"$65.09","CasaFarmaceutica":"Your Military"}
+{"ID":210,"Nombre":" RISPERIDONE","Cantidad":15,"Descripción":"Unsp inj extensor musc/fasc/tend r thm at wrs/hnd lv, subs","Precio":"$77.42","CasaFarmaceutica":"WOCKHARDT USA LLC"}
+{"ID":211,"Nombre":" ELOCTATE","Cantidad":5,"Descripción":"Disp fx of intermed cuneiform of unsp ft, 7thK","Precio":"$638.02","CasaFarmaceutica":"Biogen Idec Inc."}
+{"ID":212,"Nombre":" Glipizide","Cantidad":9,"Descripción":"Nondisplaced transverse fracture of right acetabulum","Precio":"$426.90","CasaFarmaceutica":"Apotex Corp."}
+{"ID":213,"Nombre":" sunmark tension headache","Cantidad":7,"Descripción":"Unsp foreign body in esophagus causing oth injury, subs","Precio":"$247.30","CasaFarmaceutica":"McKesson"}
+{"ID":214,"Nombre":" Antipyrine and Benzocaine","Cantidad":2,"Descripción":"Displ avuls fx (chip fracture) of r talus, init for opn fx","Precio":"$130.70","CasaFarmaceutica":"County Line Pharmaceuticals, LLC"}
+{"ID":215,"Nombre":" Choice Personal Care Theraputic Blue Ice","Cantidad":9,"Descripción":"Nondisp fx of lunate, unsp wrist, init for clos fx","Precio":"$372.31","CasaFarmaceutica":"My Import Inc"}
+{"ID":216,"Nombre":" Zenchent","Cantidad":6,"Descripción":"Foreign body on external eye, part unspecified, right eye","Precio":"$838.56","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":217,"Nombre":" Tamsulosin hydrochloride","Cantidad":3,"Descripción":"Unspecified fracture of lower end of right ulna","Precio":"$381.00","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":218,"Nombre":" Diabetes","Cantidad":14,"Descripción":"Struck by falling object on fishing boat","Precio":"$999.91","CasaFarmaceutica":"Newton Laboratories, Inc."}
+{"ID":219,"Nombre":" Anti-Bacterial Hand","Cantidad":3,"Descripción":"Oth extrartic fx low end l rad, init for opn fx type 3A/B/C","Precio":"$679.02","CasaFarmaceutica":"Bath & Body Works, Inc."}
+{"ID":220,"Nombre":" good sense pain relief","Cantidad":4,"Descripción":"Fracture of base of skull, left side, sequela","Precio":"$139.94","CasaFarmaceutica":"L Perrigo Company"}
+{"ID":221,"Nombre":" Levothyroxine Sodium","Cantidad":9,"Descripción":"Fistula of vagina to small intestine","Precio":"$352.23","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":222,"Nombre":" DUAL ACTION CHERRY COUGH SUPPRESSANT ORAL ANESTHETIC","Cantidad":5,"Descripción":"Volume depletion, unspecified","Precio":"$462.82","CasaFarmaceutica":"Ricola Ag"}
+{"ID":223,"Nombre":" Bystolic","Cantidad":3,"Descripción":"Underdosing of unspecified narcotics, sequela","Precio":"$798.92","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":224,"Nombre":" Evamist","Cantidad":10,"Descripción":"Occupant (driver) of 3-whl mv injured in unsp traf, sequela","Precio":"$351.20","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":225,"Nombre":" Exuviance CoverBlend Skin Caring Foundation","Cantidad":2,"Descripción":"Age-rel osteopor w crnt path fx, unsp low leg, 7thP","Precio":"$282.88","CasaFarmaceutica":"NeoStrata Company Inc."}
+{"ID":226,"Nombre":" Tranylcypromine Sulfate","Cantidad":3,"Descripción":"Viral cardiomyopathy","Precio":"$803.93","CasaFarmaceutica":"Par Pharmaceutical, Inc."}
+{"ID":227,"Nombre":" Tramadol Hydrochloride","Cantidad":1,"Descripción":"Oth fx upper end of r radius, subs for clos fx w routn heal","Precio":"$191.51","CasaFarmaceutica":"Proficient Rx LP"}
+{"ID":228,"Nombre":" Adidas","Cantidad":12,"Descripción":"Oth cond rel to interstit emphysema origin in perinat period","Precio":"$380.14","CasaFarmaceutica":"Coty US LLC"}
+{"ID":229,"Nombre":" Captopril","Cantidad":6,"Descripción":"Poisoning by macrolides, assault","Precio":"$187.57","CasaFarmaceutica":"Apotex Corp."}
+{"ID":230,"Nombre":" Daytime","Cantidad":4,"Descripción":"Passenger on bus injured in clsn w ped/anml nontraf, init","Precio":"$44.17","CasaFarmaceutica":"Good Sense (Geiss, Destin & Dunn, Inc.)"}
+{"ID":231,"Nombre":" Olay Complete All Day","Cantidad":5,"Descripción":"Disp fx of posterior wall of right acetabulum, sequela","Precio":"$242.10","CasaFarmaceutica":"Procter & Gamble Manufacturing Company"}
+{"ID":232,"Nombre":" Live Better","Cantidad":6,"Descripción":"Trichomonal prostatitis","Precio":"$46.14","CasaFarmaceutica":"The Great Atlantic & Pacific Tea Company"}
+{"ID":233,"Nombre":" Ceftriaxone Sodium","Cantidad":5,"Descripción":"Mech compl of ventricular intracranial shunt, subs","Precio":"$145.21","CasaFarmaceutica":"Sandoz Inc"}
+{"ID":234,"Nombre":" Hard Candy Correction Creme","Cantidad":13,"Descripción":"Unspecified disorder of synovium and tendon, left upper arm","Precio":"$206.88","CasaFarmaceutica":"Xtreme Color Inc."}
+{"ID":235,"Nombre":" Escitalopram","Cantidad":4,"Descripción":"Severely displaced Zone I fracture of sacrum, init","Precio":"$564.34","CasaFarmaceutica":"Accord Healthcare Inc."}
+{"ID":236,"Nombre":" Triple Antibiotic Plus Pain Relief","Cantidad":1,"Descripción":"Displ bicondylar fx unsp tibia, subs for clos fx w malunion","Precio":"$32.73","CasaFarmaceutica":"Kareway Product, Inc."}
+{"ID":237,"Nombre":" Diazepam","Cantidad":2,"Descripción":"Nondisp pilon fx unsp tibia, init for opn fx type I/2","Precio":"$620.20","CasaFarmaceutica":"Cardinal Health"}
+{"ID":238,"Nombre":" Yeastaway","Cantidad":13,"Descripción":"Contusion of front wall of thorax","Precio":"$939.11","CasaFarmaceutica":"Laboratoires Boiron"}
+{"ID":239,"Nombre":" Acetaminophen","Cantidad":15,"Descripción":"Burn 2nd deg mul sites of right lower limb, ex ank/ft, subs","Precio":"$40.49","CasaFarmaceutica":"Family Dollar (FAMILY WELLNESS)"}
+{"ID":240,"Nombre":" Pedi-Quick OneStep Corn Removers","Cantidad":14,"Descripción":"Encntr for testing of male prtnr of pt w recur preg loss","Precio":"$19.62","CasaFarmaceutica":"PEDIFIX, INC."}
+{"ID":241,"Nombre":" Allergies Rocky MTNS. U.S.","Cantidad":4,"Descripción":"Pnctr w fb of abd wall, epigst rgn w penet perit cav, init","Precio":"$284.85","CasaFarmaceutica":"King Bio Inc."}
+{"ID":242,"Nombre":" Denti-Care Denti-Freeze","Cantidad":1,"Descripción":"Fx coronoid process of mandible, unspecified side, init","Precio":"$544.62","CasaFarmaceutica":"AR Medicom Inc"}
+{"ID":243,"Nombre":" Pro-Den Rx","Cantidad":8,"Descripción":"Oth fx low end r ulna, 7thJ","Precio":"$175.98","CasaFarmaceutica":"Zila Therapeutics, Inc."}
+{"ID":244,"Nombre":" Pacerone","Cantidad":12,"Descripción":"Other traumatic spondylolisthesis of sixth cervical vertebra","Precio":"$646.53","CasaFarmaceutica":"Upsher-Smith Laboratories, Inc."}
+{"ID":245,"Nombre":" Gyne-Lotrimin 3","Cantidad":9,"Descripción":"Nondisp fx of medial phalanx of right middle finger, init","Precio":"$300.91","CasaFarmaceutica":"MSD Consumer Care, Inc."}
+{"ID":246,"Nombre":" CORZIDE","Cantidad":8,"Descripción":"Other endosseous dental implant failure","Precio":"$964.16","CasaFarmaceutica":"Pfizer Laboratories Div Pfizer Inc"}
+{"ID":247,"Nombre":" Metformin Hydrochloride","Cantidad":14,"Descripción":"Chronic osteomyelitis w draining sinus, left radius and ulna","Precio":"$84.86","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":248,"Nombre":" anti diarrheal","Cantidad":2,"Descripción":"Chronic myeloproliferative disease","Precio":"$106.82","CasaFarmaceutica":"Publix Super Markets Inc"}
+{"ID":249,"Nombre":" HEM-EASY RELIEF Herbal Hemorrhoidal","Cantidad":3,"Descripción":"Corrosion of first degree of unspecified thigh, subs encntr","Precio":"$784.13","CasaFarmaceutica":"Batool Pharma International, Inc"}
+{"ID":250,"Nombre":" SHISEIDO UV PROTECTIVE FOUNDATION","Cantidad":14,"Descripción":"Hyperplastic and giant kidney","Precio":"$102.73","CasaFarmaceutica":"SHISEIDO AMERICAS CORPORATION"}
+{"ID":251,"Nombre":" TopiCool Pain Relief","Cantidad":9,"Descripción":"Nondisp pilon fx l tibia, 7thN","Precio":"$335.77","CasaFarmaceutica":"TENSproducts, Inc."}
+{"ID":252,"Nombre":" Rheumaforce","Cantidad":8,"Descripción":"Disp fx of posterior wall of right acetabulum, sequela","Precio":"$345.81","CasaFarmaceutica":"BioActive Nutritional, Inc."}
+{"ID":253,"Nombre":" Allegra Allergy","Cantidad":4,"Descripción":"Poisoning by other psychotropic drugs, undetermined","Precio":"$257.27","CasaFarmaceutica":"Chattem, Inc."}
+{"ID":254,"Nombre":" Glipizide","Cantidad":3,"Descripción":"Sprain of other part of right wrist and hand, init encntr","Precio":"$394.62","CasaFarmaceutica":"American Health Packaging"}
+{"ID":255,"Nombre":" careone allergy relief","Cantidad":10,"Descripción":"Oth physl fx upper end of r fibula, subs for fx w routn heal","Precio":"$147.97","CasaFarmaceutica":"American Sales Company"}
+{"ID":256,"Nombre":" Ropinirole","Cantidad":3,"Descripción":"Laceration of left kidney, unspecified degree, sequela","Precio":"$250.08","CasaFarmaceutica":"Trigen Laboratories, Inc."}
+{"ID":257,"Nombre":" Lovastatin","Cantidad":10,"Descripción":"Oth traum nondisp spondylolysis of 7th cervcal vert, 7thK","Precio":"$317.07","CasaFarmaceutica":"St Marys Medical Park Pharmacy"}
+{"ID":258,"Nombre":" Venlafaxine Hydrochloride","Cantidad":15,"Descripción":"Basal cell carcinoma skin/ upper limb, including shoulder","Precio":"$835.38","CasaFarmaceutica":"Kremers Urban Pharmaceuticals Inc."}
+{"ID":259,"Nombre":" Chest Cold","Cantidad":8,"Descripción":"Sltr-haris Type IV physeal fx lower end of right tibia","Precio":"$113.71","CasaFarmaceutica":"Home Sweet Homeopathics"}
+{"ID":260,"Nombre":" Levothyroxine sodium","Cantidad":9,"Descripción":"Nondisp fx of third metatarsal bone, l foot, init for opn fx","Precio":"$945.75","CasaFarmaceutica":"Lake Erie Medical DBA Quality Care Products LLC"}
+{"ID":261,"Nombre":" Epinephrine","Cantidad":7,"Descripción":"Partial traumatic amp of two or more right lesser toes, subs","Precio":"$78.42","CasaFarmaceutica":"Amphastar Pharmaceuticals, Inc."}
+{"ID":262,"Nombre":" Lovastatin","Cantidad":12,"Descripción":"Newborn affected by maternal infec/parastc diseases","Precio":"$648.14","CasaFarmaceutica":"BluePoint Laboratories"}
+{"ID":263,"Nombre":" Mold Antigens","Cantidad":11,"Descripción":"Trisomy 21, mosaicism (mitotic nondisjunction)","Precio":"$745.41","CasaFarmaceutica":"Apotheca Company"}
+{"ID":264,"Nombre":" Morphine Sulfate","Cantidad":4,"Descripción":"Other complications of amputation stump","Precio":"$689.85","CasaFarmaceutica":"West-ward Pharmaceutical Corp."}
+{"ID":265,"Nombre":" Goat Epithelium","Cantidad":13,"Descripción":"Maternal care for viable fetus in abd preg, second tri, oth","Precio":"$437.75","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":266,"Nombre":" Indigo Carmine","Cantidad":4,"Descripción":"Lac w/o fb of r frnt wl of thorax w penet thoracic cavity","Precio":"$91.15","CasaFarmaceutica":"American Regent, Inc."}
+{"ID":267,"Nombre":" Aurum 17 Special Order","Cantidad":2,"Descripción":"Retained (old) intraocular foreign body, magnetic","Precio":"$483.90","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":268,"Nombre":" Zep Provisions Pot and Pan Premium","Cantidad":7,"Descripción":"Type I occipital condyle fracture, left side, sequela","Precio":"$604.80","CasaFarmaceutica":"Zep Inc."}
+{"ID":269,"Nombre":" Potassium Chloride","Cantidad":4,"Descripción":"Driver of bus injured in collision w nonmtr vehicle in traf","Precio":"$232.74","CasaFarmaceutica":"Upsher-Smith Laboratories, Inc."}
+{"ID":270,"Nombre":" Diazepam","Cantidad":9,"Descripción":"Toxic effect of contact w stingray, undetermined, subs","Precio":"$946.39","CasaFarmaceutica":"KAISER FOUNDATION HOSPITALS"}
+{"ID":271,"Nombre":" Bladder Irritation","Cantidad":5,"Descripción":"Retinal detachment with giant retinal tear, left eye","Precio":"$554.37","CasaFarmaceutica":"Natural Health Supply"}
+{"ID":272,"Nombre":" CLARINS Extra-Comfort Broad Spectrum SPF 15 Sunscreen Tint 114","Cantidad":3,"Descripción":"Disp fx of med epicondyl of l humer, subs for fx w nonunion","Precio":"$801.17","CasaFarmaceutica":"Laboratoires Clarins S.A."}
+{"ID":273,"Nombre":" GENOTROPIN","Cantidad":13,"Descripción":"Disp fx of coronoid pro of l ulna, 7thF","Precio":"$398.60","CasaFarmaceutica":"Pharmacia and Upjohn Company"}
+{"ID":274,"Nombre":" VERELAN","Cantidad":15,"Descripción":"Poisoning by glucocort/synth analog, self-harm, sequela","Precio":"$248.23","CasaFarmaceutica":"UCB, Inc."}
+{"ID":275,"Nombre":" Pollens - Trees, Olive Olea europaea","Cantidad":15,"Descripción":"Corros first degree of unsp mult fngr, not inc thumb, subs","Precio":"$648.29","CasaFarmaceutica":"Jubilant HollisterStier LLC"}
+{"ID":276,"Nombre":" all day relief","Cantidad":3,"Descripción":"Other specified disorders of right middle ear and mastoid","Precio":"$447.66","CasaFarmaceutica":"Publix Super Markets Inc"}
+{"ID":277,"Nombre":" Vital HGH Immune Booster","Cantidad":12,"Descripción":"Traum rupt of volar plate of r idx fngr at MCP/IP jt, subs","Precio":"$405.85","CasaFarmaceutica":"Liddell Laboratories, Inc."}
+{"ID":278,"Nombre":" Adalat CC","Cantidad":14,"Descripción":"Cystocele, lateral","Precio":"$697.79","CasaFarmaceutica":"Bayer HealthCare Pharmaceuticals Inc."}
+{"ID":279,"Nombre":" Topamax","Cantidad":10,"Descripción":"Poisoning by otorhino drugs and prep, self-harm, init","Precio":"$444.15","CasaFarmaceutica":"Janssen Pharmaceuticals, Inc."}
+{"ID":280,"Nombre":" PROVIGIL","Cantidad":15,"Descripción":"Encounter for health supervision and care of foundling","Precio":"$733.41","CasaFarmaceutica":"Cephalon, Inc."}
+{"ID":281,"Nombre":" Good Sense lansoprazole","Cantidad":3,"Descripción":"Abrasion of unspecified back wall of thorax, subs encntr","Precio":"$786.42","CasaFarmaceutica":"L. Perrigo Company"}
+{"ID":282,"Nombre":" MSM (MoSaengMo)","Cantidad":5,"Descripción":"Displ commnt fx l patella, 7thF","Precio":"$274.24","CasaFarmaceutica":"Handock Cosmetics Inc"}
+{"ID":283,"Nombre":" Lorazepam","Cantidad":11,"Descripción":"Burns involving 90% or more of body surface","Precio":"$987.71","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":284,"Nombre":" Pleo Pin","Cantidad":5,"Descripción":"Varicose veins of right lower extremity with ulcer of thigh","Precio":"$272.77","CasaFarmaceutica":"Sanum Kehlbeck GmbH & Co. KG"}
+{"ID":285,"Nombre":" Glyburide","Cantidad":9,"Descripción":"Disp fx of head of unsp radius, subs for clos fx w malunion","Precio":"$187.09","CasaFarmaceutica":"Heritage Pharmaceuticals Inc."}
+{"ID":286,"Nombre":" Quinapril","Cantidad":13,"Descripción":"Fracture of nasal bones, subs encntr for fracture w nonunion","Precio":"$239.80","CasaFarmaceutica":"AvPAK"}
+{"ID":287,"Nombre":" Good Neighbor Pharmacy","Cantidad":9,"Descripción":"Toxic effect of cobra venom, intentional self-harm, sequela","Precio":"$24.85","CasaFarmaceutica":"AMERISOURCEBERGEN DRUG CORPORATION"}
+{"ID":288,"Nombre":" Colosode","Cantidad":15,"Descripción":"Athscl nonaut bio bypass of r leg w ulcer of heel and midft","Precio":"$744.80","CasaFarmaceutica":"Apotheca Company"}
+{"ID":289,"Nombre":" ELF Milk and Honey Cleansing Anti-bacterial Hand","Cantidad":10,"Descripción":"Frostbite with tissue necrosis of thorax, sequela","Precio":"$142.34","CasaFarmaceutica":"Hangzhou Facecare Cosmetics Co., Ltd."}
+{"ID":290,"Nombre":" Digoxin","Cantidad":1,"Descripción":"Poisoning by antitussives, undetermined, subs encntr","Precio":"$180.76","CasaFarmaceutica":"Major Pharmaceuticals"}
+{"ID":291,"Nombre":" Arterioforce","Cantidad":6,"Descripción":"Other hypoparathyroidism","Precio":"$775.77","CasaFarmaceutica":"BioActive Nutritional, Inc."}
+{"ID":292,"Nombre":" Primatene Mist Refill","Cantidad":9,"Descripción":"Burn of unsp deg mult fingers (nail), not including thumb","Precio":"$48.31","CasaFarmaceutica":"Armstrong Pharmaceuticals, Inc."}
+{"ID":293,"Nombre":" Vanilla","Cantidad":10,"Descripción":"Sprain of radiocarpal joint of right wrist, subs encntr","Precio":"$519.16","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":294,"Nombre":" Humalog 70/30","Cantidad":3,"Descripción":"Occupant of streetcar injured in unsp traffic accident, subs","Precio":"$982.86","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":295,"Nombre":" flormar REBORN BB SUNSCREEN BROAD SPECTRUM SPF 30 CP04 Rich Beige","Cantidad":8,"Descripción":"Retained (old) magnetic fb in vitreous body, right eye","Precio":"$861.78","CasaFarmaceutica":"Kosan Kozmetik Sanayi ve Ticaret A.S."}
+{"ID":296,"Nombre":" Acetaminophen","Cantidad":10,"Descripción":"Idiopathic aseptic necrosis of tibia and fibula","Precio":"$665.45","CasaFarmaceutica":"New World Imports, Inc"}
+{"ID":297,"Nombre":" Western Family Broad Spectrum Sunscreen","Cantidad":4,"Descripción":"Toxic effect of soaps","Precio":"$110.00","CasaFarmaceutica":"WESTERN FAMILY FOODS, INC."}
+{"ID":298,"Nombre":" Stomach Relief Anti Diarrheal","Cantidad":3,"Descripción":"Poisoning by antiallerg/antiemetic, assault, sequela","Precio":"$612.44","CasaFarmaceutica":"Select Corporation"}
+{"ID":299,"Nombre":" Banophen","Cantidad":12,"Descripción":"Mineralocorticoids and their antagonists","Precio":"$876.83","CasaFarmaceutica":"Major Pharmaceuticals"}
+{"ID":300,"Nombre":" Ketorolac Tromethamine","Cantidad":2,"Descripción":"Unsp inj msl/tnd lng flxr msl toe at ank/ft lev,unsp ft,sqla","Precio":"$696.90","CasaFarmaceutica":"Akorn"}
+{"ID":301,"Nombre":" Eron Healing Tonic","Cantidad":1,"Descripción":"Infct of amniotic sac and membrns, unsp, unsp tri, unsp","Precio":"$102.40","CasaFarmaceutica":"GS-TK Co., Ltd"}
+{"ID":302,"Nombre":" SudoGest","Cantidad":11,"Descripción":"Unspecified subluxation of unspecified foot, subs encntr","Precio":"$672.61","CasaFarmaceutica":"Major Pharmaceuticals"}
+{"ID":303,"Nombre":" Levofloxacin","Cantidad":15,"Descripción":"Collagenous colitis","Precio":"$342.39","CasaFarmaceutica":"West-Ward Pharmaceutical Corp"}
+{"ID":304,"Nombre":" MEDI-SULTING TOPICAL PAIN RELIEF","Cantidad":11,"Descripción":"Unsp fx head of r femr, 7thJ","Precio":"$264.17","CasaFarmaceutica":"Proficient Rx LP"}
+{"ID":305,"Nombre":" Moist SURE","Cantidad":11,"Descripción":"Traumatic amputation at elbow level","Precio":"$469.02","CasaFarmaceutica":"DSHealthcare"}
+{"ID":306,"Nombre":" KIDS RELIEF ARNICA","Cantidad":1,"Descripción":"Intcran inj w loss of consciousness of 6 hours to 24 hours","Precio":"$285.26","CasaFarmaceutica":"HOMEOLAB USA INC"}
+{"ID":307,"Nombre":" Testosterone Cypionate","Cantidad":3,"Descripción":"Malignant neoplasm of right fallopian tube","Precio":"$950.35","CasaFarmaceutica":"Hikma Farmaceutica"}
+{"ID":308,"Nombre":" Pamidronate Disodium","Cantidad":10,"Descripción":"Crushing injury of right shoulder and upper arm","Precio":"$866.59","CasaFarmaceutica":"Pfizer Laboratories Div Pfizer Inc"}
+{"ID":309,"Nombre":" Laxative Pills","Cantidad":15,"Descripción":"Sltr-haris Type III physl fx upr end l tibia, 7thP","Precio":"$484.69","CasaFarmaceutica":"TOP CARE (Topco Associates LLC)"}
+{"ID":310,"Nombre":" Butalbital, Acetaminophen and Caffeine","Cantidad":5,"Descripción":"Abrasion of left upper arm, initial encounter","Precio":"$409.13","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":311,"Nombre":" Simvastatin","Cantidad":12,"Descripción":"Obstetric damage to pelvic joints and ligaments","Precio":"$473.64","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":312,"Nombre":" Western Family","Cantidad":7,"Descripción":"Commercial fixed-wing aircraft explosion injuring occupant","Precio":"$186.56","CasaFarmaceutica":"Western Family Foods Inc"}
+{"ID":313,"Nombre":" Linden","Cantidad":1,"Descripción":"Unsp fracture of left patella, init for opn fx type I/2","Precio":"$375.97","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":314,"Nombre":" Bupropion hydrochloride","Cantidad":14,"Descripción":"Disp fx of anterior wall of right acetab, init for opn fx","Precio":"$752.50","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":315,"Nombre":" napoleon PERDIS SHEER GENIUS LIQUID FOUNDATION BROAD SPECTRUM SPF 20 Look 5","Cantidad":10,"Descripción":"Unspecified nondisp fx of fourth cervical vertebra, sequela","Precio":"$685.44","CasaFarmaceutica":"Napoleon Perdis Cosmetics, Inc"}
+{"ID":316,"Nombre":" CITOMIX","Cantidad":5,"Descripción":"Nondisp fx of posterior wall of left acetabulum, sequela","Precio":"$880.84","CasaFarmaceutica":"Guna spa"}
+{"ID":317,"Nombre":" Venlafaxine","Cantidad":9,"Descripción":"Complication of vein following a procedure, NEC, init","Precio":"$767.03","CasaFarmaceutica":"Aidarex Pharmaceuticals LLC"}
+{"ID":318,"Nombre":" Ibuprofen","Cantidad":4,"Descripción":"Disorders of amino-acid transport","Precio":"$396.04","CasaFarmaceutica":"Walgreen Company"}
+{"ID":319,"Nombre":" HZ Formula","Cantidad":14,"Descripción":"Corrosion of first degree of right thumb (nail), sequela","Precio":"$125.95","CasaFarmaceutica":"Apotheca Company"}
+{"ID":320,"Nombre":" SOMA Atocell","Cantidad":5,"Descripción":"Puncture wound w/o foreign body of left shoulder, init","Precio":"$97.43","CasaFarmaceutica":"SOMA Biotechnology Co., Ltd"}
+{"ID":321,"Nombre":" Ranitidine Hydrochloride","Cantidad":13,"Descripción":"Corrosion of second degree of right thumb (nail)","Precio":"$877.22","CasaFarmaceutica":"Select Brand"}
+{"ID":322,"Nombre":" Treatment Set TS346697","Cantidad":8,"Descripción":"Other injury of sigmoid colon, sequela","Precio":"$222.20","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":323,"Nombre":" TECHNIblock ULTRA SUNSCREEN","Cantidad":10,"Descripción":"Prsn brd/alit pk-up/van injured in collision w ped/anml","Precio":"$432.83","CasaFarmaceutica":"The Myles Group LLC"}
+{"ID":324,"Nombre":" HZ","Cantidad":1,"Descripción":"Oth osteopor w crnt path fx, unsp forearm, 7thP","Precio":"$899.02","CasaFarmaceutica":"Apotheca Company"}
+{"ID":325,"Nombre":" Lamotrigine","Cantidad":3,"Descripción":"Toxic effect of organic solvents, accidental, sequela","Precio":"$41.98","CasaFarmaceutica":"Wockhardt USA LLC."}
+{"ID":326,"Nombre":" Nabumetone","Cantidad":2,"Descripción":"Osteonecrosis due to drugs, left finger(s)","Precio":"$591.10","CasaFarmaceutica":"PD-Rx Pharmaceuticals, Inc."}
+{"ID":327,"Nombre":" Midazolam HCl","Cantidad":7,"Descripción":"Swimmer's ear, left ear","Precio":"$795.57","CasaFarmaceutica":"Cantrell Drug Company"}
+{"ID":328,"Nombre":" ESTRACE","Cantidad":1,"Descripción":"Accident to, on or involving land-yacht, initial encounter","Precio":"$423.11","CasaFarmaceutica":"Warner Chilcott (US), LLC"}
+{"ID":329,"Nombre":" Chemdetox","Cantidad":3,"Descripción":"Other conduct disorders","Precio":"$938.61","CasaFarmaceutica":"Restivo Chiropractic"}
+{"ID":330,"Nombre":" OXYCODONE AND ACETAMINOPHEN","Cantidad":5,"Descripción":"Unsp fx low end l tibia, 7thF","Precio":"$213.66","CasaFarmaceutica":"Lake Erie Medical DBA Quality Care Products LLC"}
+{"ID":331,"Nombre":" Dexamethasone","Cantidad":8,"Descripción":"Displaced oth extraarticular fracture of r calcaneus, init","Precio":"$289.04","CasaFarmaceutica":"A-S Medication Solutions LLC"}
+{"ID":332,"Nombre":" Olay Total Effects Anti-Aging Moisturizer","Cantidad":13,"Descripción":"Skeletal fluorosis, unspecified upper arm","Precio":"$527.80","CasaFarmaceutica":"Procter & Gamble Manufacturing Company"}
+{"ID":333,"Nombre":" Jute","Cantidad":3,"Descripción":"Toxic effect of herbicides and fungicides, self-harm, subs","Precio":"$733.84","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":334,"Nombre":" TRAMADOL HYDROCHLORIDE","Cantidad":7,"Descripción":"Unsp superficial injury of right little finger, init encntr","Precio":"$379.13","CasaFarmaceutica":"Sun Pharma Global FZE"}
+{"ID":335,"Nombre":" Minoxidil","Cantidad":6,"Descripción":"Maternal care for oth rhesus isoimmun, unsp tri, fetus 2","Precio":"$670.91","CasaFarmaceutica":"H E B"}
+{"ID":336,"Nombre":" Valsartan and hydrochlorothiazide","Cantidad":5,"Descripción":"Displ commnt fx shaft of r fibula, 7thM","Precio":"$900.36","CasaFarmaceutica":"Watson Laboratories, Inc."}
+{"ID":337,"Nombre":" FEIBA","Cantidad":5,"Descripción":"Toxic effect of chloroform, intentional self-harm","Precio":"$616.83","CasaFarmaceutica":"Baxter Healthcare Corporation"}
+{"ID":338,"Nombre":" Instant Hand Sanitizer","Cantidad":11,"Descripción":"Unspecified effects of drowning and nonfatal submersion","Precio":"$72.27","CasaFarmaceutica":"Harmon Stores Inc"}
+{"ID":339,"Nombre":" Lithium Carbonate","Cantidad":6,"Descripción":"Infect/inflm reaction due to periton dialysis cath, sequela","Precio":"$160.28","CasaFarmaceutica":"Glenmark Generics Inc., USA"}
+{"ID":340,"Nombre":" Aspergillus niger","Cantidad":8,"Descripción":"Nondisp fx of body of scapula, unsp shoulder, init","Precio":"$809.37","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":341,"Nombre":" Flavoxate Hydrochloride","Cantidad":9,"Descripción":"Nondisp midcervical fx l femr, 7thJ","Precio":"$629.39","CasaFarmaceutica":"TAGI Pharma, Inc."}
+{"ID":342,"Nombre":" Lasix","Cantidad":3,"Descripción":"Reform school as place","Precio":"$275.94","CasaFarmaceutica":"Sanofi-Aventis U.S. LLC"}
+{"ID":343,"Nombre":" Antibacterial Hand -Vanilla Brown Sugar","Cantidad":13,"Descripción":"Oth comp of spinal and epidural anesth during labor and del","Precio":"$655.98","CasaFarmaceutica":"Lonkey Overseas Inc."}
+{"ID":344,"Nombre":" Methadone Hydrochloride","Cantidad":8,"Descripción":"Inj extensor musc/fasc/tend l mid finger at forearm level","Precio":"$919.48","CasaFarmaceutica":"VistaPharm Inc"}
+{"ID":345,"Nombre":" TIGAN","Cantidad":10,"Descripción":"Contusion of unspecified hand, subsequent encounter","Precio":"$284.32","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":346,"Nombre":" Spinosad","Cantidad":14,"Descripción":"Unsp opn wnd right lesser toe(s) w damage to nail, init","Precio":"$243.02","CasaFarmaceutica":"Macoven Pharmaceuticals"}
+{"ID":347,"Nombre":" ck one airlight pressed powder spf 15","Cantidad":7,"Descripción":"Cystic fibrosis with other intestinal manifestations","Precio":"$478.32","CasaFarmaceutica":"Coty US LLC"}
+{"ID":348,"Nombre":" INTENSE CARE GALACTOMYCES WHITENING","Cantidad":2,"Descripción":"Cysts of left lower eyelid","Precio":"$464.67","CasaFarmaceutica":"TONYMOLY CO., LTD."}
+{"ID":349,"Nombre":" Allopurinol","Cantidad":14,"Descripción":"Laceration w/o fb of finger w/o damage to nail, sequela","Precio":"$375.48","CasaFarmaceutica":"Rebel Distributors Corp."}
+{"ID":350,"Nombre":" Alka-Seltzer Plus Severe Cold, Mucus and Congestion","Cantidad":4,"Descripción":"Bacterial infection of unspecified site","Precio":"$176.65","CasaFarmaceutica":"Bayer HealthCare LLC, Consumer Care"}
+{"ID":351,"Nombre":" Jantoven","Cantidad":3,"Descripción":"Unspecified injury of lung, unilateral, sequela","Precio":"$850.88","CasaFarmaceutica":"Cardinal Health"}
+{"ID":352,"Nombre":" mally Poreless Perfection Glowing Foundation Fair","Cantidad":3,"Descripción":"Accident to, on or involving land-yacht, subs encntr","Precio":"$428.67","CasaFarmaceutica":"MallyGirl, LLC"}
+{"ID":353,"Nombre":" Ibuprofen","Cantidad":14,"Descripción":"Inj ulnar artery at wrs/hnd lv of unsp arm, sequela","Precio":"$130.88","CasaFarmaceutica":"American Health Packaging"}
+{"ID":354,"Nombre":" Benazepril Hydrochloride and Hydrochlorothiazide","Cantidad":2,"Descripción":"Displaced articular fracture of head of unsp femur, init","Precio":"$567.66","CasaFarmaceutica":"Mylan Pharmaceuticals Inc."}
+{"ID":355,"Nombre":" AntiBac Foam Wash/Aerogreen","Cantidad":12,"Descripción":"Contusion of right forearm, initial encounter","Precio":"$184.08","CasaFarmaceutica":"Deb USA, Inc."}
+{"ID":356,"Nombre":" Hydroxyzine Hydrochloride","Cantidad":13,"Descripción":"Corros 80-89% of body surface w 80-89% third degree corros","Precio":"$118.30","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":357,"Nombre":" Terazosin Hydrochloride","Cantidad":10,"Descripción":"Unspecified superficial injury of unspecified thigh, sequela","Precio":"$27.80","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":358,"Nombre":" ethosuximide","Cantidad":5,"Descripción":"Pediculosis, unspecified","Precio":"$412.35","CasaFarmaceutica":"Mikart, Inc."}
+{"ID":359,"Nombre":" Furosemide","Cantidad":4,"Descripción":"Inj great saphenous at hip and thigh level, right leg, subs","Precio":"$884.49","CasaFarmaceutica":"Cardinal Health"}
+{"ID":360,"Nombre":" Smooth Brome","Cantidad":12,"Descripción":"Poisoning by oth drug/meds/biol subst, intentional self-harm","Precio":"$852.83","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":361,"Nombre":" Alloy","Cantidad":1,"Descripción":"Intermittent hydrarthrosis, hip","Precio":"$367.43","CasaFarmaceutica":"Melaleuca, Inc"}
+{"ID":362,"Nombre":" Nisoldipine","Cantidad":5,"Descripción":"Superficial foreign body of unsp front wall of thorax, subs","Precio":"$375.54","CasaFarmaceutica":"United Research Laboratories, Inc."}
+{"ID":363,"Nombre":" Furosemide","Cantidad":3,"Descripción":"Partial traum amp at level betw r shldr and elbow, sequela","Precio":"$685.82","CasaFarmaceutica":"McKesson Contract Packaging"}
+{"ID":364,"Nombre":" Childrens Ibuprofen","Cantidad":7,"Descripción":"Poisoning by unsp general anesthetics, accidental, init","Precio":"$891.57","CasaFarmaceutica":"Kinray Inc."}
+{"ID":365,"Nombre":" Licorice","Cantidad":14,"Descripción":"Nondisp fx of nk of scapula, l shldr, subs for fx w nonunion","Precio":"$906.77","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":366,"Nombre":" Viscum Crataegus","Cantidad":10,"Descripción":"Person outside 3-whl mv inj in clsn w nonmtr vehicle nontraf","Precio":"$640.97","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":367,"Nombre":" Clario Foaming Antibacterial Skin Cleanser","Cantidad":15,"Descripción":"Sltr-haris Type IV physeal fx lower end of right tibia","Precio":"$524.20","CasaFarmaceutica":"Betco Corporation, Ltd."}
+{"ID":368,"Nombre":" Salsalate","Cantidad":13,"Descripción":"Nondisp commnt fx shaft of humer, unsp arm, init for opn fx","Precio":"$117.11","CasaFarmaceutica":"Clinical Solutions Wholesale"}
+{"ID":369,"Nombre":" DiorSkin Nude 051 Dark Sand","Cantidad":15,"Descripción":"Nondisp unsp condyle fx low end r femr, 7thR","Precio":"$43.77","CasaFarmaceutica":"Parfums Christian Dior"}
+{"ID":370,"Nombre":" PRAVASTATIN SODIUM","Cantidad":4,"Descripción":"Oth fx shaft of r fibula, subs for clos fx w nonunion","Precio":"$196.90","CasaFarmaceutica":"Clinical Solutions Wholesale"}
+{"ID":371,"Nombre":" Teething - Colic","Cantidad":7,"Descripción":"Subluxation of C1/C2 cervical vertebrae, sequela","Precio":"$454.82","CasaFarmaceutica":"Newton Laboratories, Inc."}
+{"ID":372,"Nombre":" Otic Care Antipyrine and Benzocaine","Cantidad":1,"Descripción":"Olecranon bursitis","Precio":"$887.35","CasaFarmaceutica":"PureTek Corporation"}
+{"ID":373,"Nombre":" LEVOFLOXACIN","Cantidad":12,"Descripción":"Alcohol abuse with alcohol-induced anxiety disorder","Precio":"$389.00","CasaFarmaceutica":"Cardinal Health"}
+{"ID":374,"Nombre":" Ergocalciferol","Cantidad":9,"Descripción":"Fall from burning bldg in controlled fire, init","Precio":"$568.51","CasaFarmaceutica":"AvKARE, Inc."}
+{"ID":375,"Nombre":" TEMODAR","Cantidad":8,"Descripción":"Diffuse large B-cell lymphoma, intra-abdominal lymph nodes","Precio":"$755.80","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":376,"Nombre":" Degree","Cantidad":2,"Descripción":"Displaced fracture of neck of left radius","Precio":"$234.85","CasaFarmaceutica":"Conopco Inc. d/b/a Unilever"}
+{"ID":377,"Nombre":" ZIT ERASER","Cantidad":12,"Descripción":"Nondisp post arch fx first cervcal vertebra, init for opn fx","Precio":"$70.60","CasaFarmaceutica":"J. A. Cosmetics U.S. INC"}
+{"ID":378,"Nombre":" Metoprolol Tartrate","Cantidad":12,"Descripción":"Encntr screen for malignant neoplasm of respiratory organs","Precio":"$914.28","CasaFarmaceutica":"Bedford Laboratories"}
+{"ID":379,"Nombre":" TONG LUO QU TONG GAO","Cantidad":3,"Descripción":"Other forms of cryptococcosis","Precio":"$472.17","CasaFarmaceutica":"HENAN LINGRUI PHARMACEUTICAL CO LTD"}
+{"ID":380,"Nombre":" Citalopram","Cantidad":7,"Descripción":"Prsn brd/alit hv veh inj pick-up truck, pk-up/van, sequela","Precio":"$117.87","CasaFarmaceutica":"Teva Pharmaceuticals USA Inc"}
+{"ID":381,"Nombre":" Cosmeceutical Mask Pack","Cantidad":13,"Descripción":"Displaced fracture of trapezoid, left wrist","Precio":"$226.80","CasaFarmaceutica":"YBK Investment, INC"}
+{"ID":382,"Nombre":" TRIPLE ANTIBIOTIC","Cantidad":3,"Descripción":"Type 1 diab with mod nonp rtnop with macular edema, l eye","Precio":"$801.14","CasaFarmaceutica":"The Kroger Co."}
+{"ID":383,"Nombre":" BUPROBAN","Cantidad":8,"Descripción":"Ped on foot injured pick-up truck, pk-up/van, unsp, sequela","Precio":"$938.59","CasaFarmaceutica":"TEVA Pharmaceuticals USA Inc"}
+{"ID":384,"Nombre":" Morphine Sulfate","Cantidad":4,"Descripción":"Sltr-haris Type II physl fx upr end humer, r arm, 7thK","Precio":"$741.79","CasaFarmaceutica":"Upsher-Smith Laboratories, Inc."}
+{"ID":385,"Nombre":" Benztropine Mesylate","Cantidad":5,"Descripción":"Spermatocele of epididymis, unspecified","Precio":"$49.92","CasaFarmaceutica":"Bayshore Pharmaceuticals, LLC"}
+{"ID":386,"Nombre":" Kali Bichromicum Kit Refill","Cantidad":2,"Descripción":"Nondisp fx of med condyle of l tibia, 7thF","Precio":"$307.58","CasaFarmaceutica":"Washington Homeopathic Products"}
+{"ID":387,"Nombre":" NITETIME","Cantidad":4,"Descripción":"Cystic meniscus, unspecified meniscus, right knee","Precio":"$324.37","CasaFarmaceutica":"Publix Super Markets Inc"}
+{"ID":388,"Nombre":" Zep Professional Alcohol Hand Sanitizing","Cantidad":2,"Descripción":"Inj musc/fasc/tend long head of biceps, right arm, sequela","Precio":"$29.36","CasaFarmaceutica":"Zep Inc."}
+{"ID":389,"Nombre":" Levothyroxine sodium","Cantidad":2,"Descripción":"Lacerat unsp blood vessel at lower leg level, left leg, init","Precio":"$146.91","CasaFarmaceutica":"Sandoz Inc."}
+{"ID":390,"Nombre":" Dr. Jart Bounce Beauty Balm 01 Light-medium","Cantidad":9,"Descripción":"Partial traumatic amputation at elbow level, right arm, init","Precio":"$527.26","CasaFarmaceutica":"Have and Be Co., Ltd."}
+{"ID":391,"Nombre":" Childrens Fever Reducer and Pain Reliever","Cantidad":5,"Descripción":"Exposure to melting of oth clothing and apparel, init encntr","Precio":"$42.12","CasaFarmaceutica":"Rite Aid Corporation"}
+{"ID":392,"Nombre":" Tonic","Cantidad":14,"Descripción":"Nondisp commnt fx l patella, subs for clos fx w routn heal","Precio":"$747.72","CasaFarmaceutica":"CarePluss Pharma S.A. de C.V."}
+{"ID":393,"Nombre":" Cyclomydril","Cantidad":1,"Descripción":"Oth spon disruption of medial collateral ligament of knee","Precio":"$482.52","CasaFarmaceutica":"Alcon Laboratories, Inc."}
+{"ID":394,"Nombre":" tizanidine","Cantidad":4,"Descripción":"Unstbl burst fx fifth lum vertebra, subs for fx w delay heal","Precio":"$873.80","CasaFarmaceutica":"Preferred Pharmaceuticals, Inc."}
+{"ID":395,"Nombre":" RE-PB HYOS ELIXIR","Cantidad":6,"Descripción":"Unspecified kyphosis, site unspecified","Precio":"$804.02","CasaFarmaceutica":"KAISER FOUNDATION HOSPITALS"}
+{"ID":396,"Nombre":" Oxygen","Cantidad":10,"Descripción":"Foreign body in conjunctival sac, left eye, sequela","Precio":"$302.20","CasaFarmaceutica":"Mercy Home Care-HME"}
+{"ID":397,"Nombre":" Hydrogen Peroxide","Cantidad":8,"Descripción":"Animal-rider injured in unsp transport accident, subs encntr","Precio":"$761.91","CasaFarmaceutica":"Kinray Inc"}
+{"ID":398,"Nombre":" Western Family Broad Spectrum Sunscreen","Cantidad":10,"Descripción":"Unsp inj musc/tend the rotator cuff of l shoulder, sequela","Precio":"$417.09","CasaFarmaceutica":"WESTERN FAMILY FOODS, INC."}
+{"ID":399,"Nombre":" Flanax Pain Reliever","Cantidad":3,"Descripción":"Pedestrian injured nontraf involving oth and unsp mv","Precio":"$479.26","CasaFarmaceutica":"Belmora LLC"}
+{"ID":400,"Nombre":" Ampicillin","Cantidad":1,"Descripción":"Sulfonamides","Precio":"$456.71","CasaFarmaceutica":"AGILA SPECIALTIES PRIVATE LIMITED"}
+{"ID":401,"Nombre":" OXYGEN","Cantidad":8,"Descripción":"Contusion of eyeball and orbital tissues, left eye, subs","Precio":"$896.55","CasaFarmaceutica":"South East Alaska Medical Suppliers Inc."}
+{"ID":402,"Nombre":" Alendronate Sodium","Cantidad":3,"Descripción":"Nondisp suprcndl fx w/o intrcndl extn low end r femr, 7thH","Precio":"$162.98","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":403,"Nombre":" Black Willow Pollen","Cantidad":9,"Descripción":"Embolism due to cardiac prosth dev/grft, initial encounter","Precio":"$446.80","CasaFarmaceutica":"Allermed Laboratories, Inc."}
+{"ID":404,"Nombre":" Antifungal","Cantidad":14,"Descripción":"Bitten by crocodile, sequela","Precio":"$589.79","CasaFarmaceutica":"Safeway"}
+{"ID":405,"Nombre":" Apeaz Ultra","Cantidad":12,"Descripción":"Injury of thoracic sympathetic nervous system","Precio":"$871.01","CasaFarmaceutica":"Innovus Pharmaceuticals, Inc."}
+{"ID":406,"Nombre":" Metoclopramide","Cantidad":12,"Descripción":"Nondisp oblique fx shaft of l tibia, 7thB","Precio":"$128.62","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":407,"Nombre":" Triamterene and Hydrochlorothiazide Capsules","Cantidad":2,"Descripción":"Contact with or inhalation of liquid air","Precio":"$110.03","CasaFarmaceutica":"UDL Laboratories, Inc."}
+{"ID":408,"Nombre":" Leader Extra Strength Medicated Pain Relief Patch","Cantidad":10,"Descripción":"Superficial foreign body of unspecified wrist","Precio":"$715.23","CasaFarmaceutica":"Cardinal Health"}
+{"ID":409,"Nombre":" MAJOR ULTRA STRENGTH GAS RELIEF","Cantidad":10,"Descripción":"Oth fx shaft of unsp tibia, subs for clos fx w delay heal","Precio":"$20.91","CasaFarmaceutica":"Major Pharmaceuticals"}
+{"ID":410,"Nombre":" Diltiazem Hydrochloride","Cantidad":6,"Descripción":"Struck by other sports foot wear, initial encounter","Precio":"$337.47","CasaFarmaceutica":"State of Florida DOH Central Pharmacy"}
+{"ID":411,"Nombre":" MED NAP","Cantidad":8,"Descripción":"Galeazzi's fx l rad, subs for opn fx type I/2 w delay heal","Precio":"$936.43","CasaFarmaceutica":"Med-Nap LLC"}
+{"ID":412,"Nombre":" Terazosin Hydrochloride","Cantidad":12,"Descripción":"Other noninflammatory disorders of the testis","Precio":"$912.42","CasaFarmaceutica":"Major Pharmaceuticals"}
+{"ID":413,"Nombre":" Bio-Scriptives Lidum","Cantidad":12,"Descripción":"Leakage of internal prosth dev/grft, init","Precio":"$792.61","CasaFarmaceutica":"BioChemics, Inc"}
+{"ID":414,"Nombre":" Fluoxetine","Cantidad":11,"Descripción":"Acute angle-closure glaucoma, unspecified eye","Precio":"$409.98","CasaFarmaceutica":"Proficient Rx LP"}
+{"ID":415,"Nombre":" Trifluoperazine Hydrochloride","Cantidad":8,"Descripción":"Driver of bus injured pick-up truck, pk-up/van in traf, init","Precio":"$598.23","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":416,"Nombre":" LE BLANC","Cantidad":6,"Descripción":"Poisoning by emetics, undetermined","Precio":"$881.26","CasaFarmaceutica":"CHANEL PARFUMS BEAUTE"}
+{"ID":417,"Nombre":" ALLERGY RELIEF","Cantidad":5,"Descripción":"Driver of pk-up/van injured in clsn w oth mv in traf, subs","Precio":"$261.79","CasaFarmaceutica":"HOMEOLAB USA INC."}
+{"ID":418,"Nombre":" Hydrocortisone","Cantidad":5,"Descripción":"Fracture of one rib, left side, init for clos fx","Precio":"$584.90","CasaFarmaceutica":"NeoPharm Co., Ltd."}
+{"ID":419,"Nombre":" ANTACID","Cantidad":3,"Descripción":"Part traum amp at level betw unsp shldr and elbow, sequela","Precio":"$280.74","CasaFarmaceutica":"Target Corporation"}
+{"ID":420,"Nombre":" Prevent","Cantidad":14,"Descripción":"Laceration of unsp blood vessel at forarm lv, left arm, init","Precio":"$555.71","CasaFarmaceutica":"Pro Chem, Incorporated"}
+{"ID":421,"Nombre":" Diphenhydramine HCl","Cantidad":15,"Descripción":"Fracture of medial phalanx of lesser toe(s)","Precio":"$869.67","CasaFarmaceutica":"Softech Pharma Pvt. Ltd"}
+{"ID":422,"Nombre":" English Walnut Pollen","Cantidad":6,"Descripción":"Other specified dermatitis","Precio":"$103.53","CasaFarmaceutica":"Allermed Laboratories, Inc."}
+{"ID":423,"Nombre":" Olive Leaf Antibacterial Foaming Hand Wash","Cantidad":11,"Descripción":"Traumatic rupture of ligament of finger at MCP/IP jt, subs","Precio":"$368.38","CasaFarmaceutica":"SJ Creations, Inc."}
+{"ID":424,"Nombre":" Gehwol Fusskraft Nail and Skin Protection","Cantidad":14,"Descripción":"Displ transverse fx unsp patella, 7thC","Precio":"$88.50","CasaFarmaceutica":"Eduard Gerlach GmbH"}
+{"ID":425,"Nombre":" EyeClear Pro","Cantidad":11,"Descripción":"Precipitous drop in hematocrit","Precio":"$781.48","CasaFarmaceutica":"Native Remedies, LLC"}
+{"ID":426,"Nombre":" triamcinolone acetonide","Cantidad":1,"Descripción":"Unsp fracture of unsp patella, subs for clos fx w malunion","Precio":"$966.41","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":427,"Nombre":" safety coated aspirin","Cantidad":15,"Descripción":"Sltr-haris Type III physl fx low end rad, r arm, 7thD","Precio":"$678.49","CasaFarmaceutica":"Care One (American Sales Company)"}
+{"ID":428,"Nombre":" Natures Choice Cool Hot Ice","Cantidad":14,"Descripción":"Erosion of graft of urinary organ, subsequent encounter","Precio":"$285.82","CasaFarmaceutica":"Unipack, Inc."}
+{"ID":429,"Nombre":" Pleo Citro","Cantidad":11,"Descripción":"Toxic effects of corrosive alkalis and alk-like substances","Precio":"$264.25","CasaFarmaceutica":"Sanum Kehlbeck GmbH & Co. KG"}
+{"ID":430,"Nombre":" Care One Suphedrine Nasal Decongestant","Cantidad":8,"Descripción":"Disp fx of ant wall of unsp acetab, subs for fx w nonunion","Precio":"$610.78","CasaFarmaceutica":"American Sales Company"}
+{"ID":431,"Nombre":" Finasteride","Cantidad":1,"Descripción":"Rheu arthritis of right hand w involv of organs and systems","Precio":"$337.18","CasaFarmaceutica":"Aurobindo Pharma Limited"}
+{"ID":432,"Nombre":" Enviroclenz","Cantidad":4,"Descripción":"Oth fx third MC bone, left hand, subs for fx w malunion","Precio":"$866.54","CasaFarmaceutica":"Deseret Biologicals, Inc."}
+{"ID":433,"Nombre":" Amiodarone Hydrochloride","Cantidad":12,"Descripción":"Crushing inj unsp part(s) of l wrist, hand and fingers, init","Precio":"$149.57","CasaFarmaceutica":"Taro Pharmaceuticals U.S.A., Inc."}
+{"ID":434,"Nombre":" Metoclopramide","Cantidad":13,"Descripción":"Aortic aneurysm of unspecified site, without rupture","Precio":"$241.21","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":435,"Nombre":" Anti-Bacterial Hand","Cantidad":7,"Descripción":"Unspecified physeal fracture of left metatarsal, sequela","Precio":"$658.10","CasaFarmaceutica":"Bath & Body Works, Inc."}
+{"ID":436,"Nombre":" Imipramine Hydrochloride","Cantidad":1,"Descripción":"Personal history of urinary (tract) infections","Precio":"$196.80","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":437,"Nombre":" Children Acetaminophen","Cantidad":4,"Descripción":"Third degree hemorrhoids","Precio":"$38.97","CasaFarmaceutica":"A&Z Pharmaceutical, Inc."}
+{"ID":438,"Nombre":" Hydrogen Peroxide","Cantidad":7,"Descripción":"Poisoning by barbiturates, assault, sequela","Precio":"$561.42","CasaFarmaceutica":"Medline Industries, Inc."}
+{"ID":439,"Nombre":" METFORMIN HYDROCHLORIDE","Cantidad":13,"Descripción":"Superficial foreign body of breast, unsp breast, sequela","Precio":"$271.10","CasaFarmaceutica":"Preferred Pharmaceuticals, Inc."}
+{"ID":440,"Nombre":" FLU KIDS RELIEF","Cantidad":4,"Descripción":"Unspecified injury of liver, subsequent encounter","Precio":"$272.99","CasaFarmaceutica":"HOMEOLAB USA INC"}
+{"ID":441,"Nombre":" Escitalopram Oxalate","Cantidad":10,"Descripción":"Other mastoiditis and related conditions, right ear","Precio":"$198.35","CasaFarmaceutica":"Camber Pharmaceuticals, Inc."}
+{"ID":442,"Nombre":" ck one waterfresh face makeup spf 15","Cantidad":7,"Descripción":"Nondisp commnt fx shaft of l tibia, init for opn fx type I/2","Precio":"$344.39","CasaFarmaceutica":"Coty US LLC"}
+{"ID":443,"Nombre":" Alcohol","Cantidad":4,"Descripción":"Stress fracture, right hand","Precio":"$576.71","CasaFarmaceutica":"NANTONG STRIP MEDICAL SUPPLY CO.,LTD."}
+{"ID":444,"Nombre":" Aspirin","Cantidad":11,"Descripción":"Partial traumatic amputation of right midfoot, sequela","Precio":"$47.98","CasaFarmaceutica":"America Medic"}
+{"ID":445,"Nombre":" Risperidone","Cantidad":6,"Descripción":"Ped w convey injured in collision w hv veh, unsp, sequela","Precio":"$855.23","CasaFarmaceutica":"Teva Pharmaceuticals USA Inc"}
+{"ID":446,"Nombre":" Chlorhexidine Gluconate","Cantidad":6,"Descripción":"Maternal care for oth isoimmun, second trimester, unsp","Precio":"$507.26","CasaFarmaceutica":"Cardinal Health"}
+{"ID":447,"Nombre":" Amlodipine Besylate","Cantidad":12,"Descripción":"Fracture of fourth metatarsal bone","Precio":"$545.97","CasaFarmaceutica":"Cadila Healthcare Limited"}
+{"ID":448,"Nombre":" Cetirizine Hydrochloride","Cantidad":2,"Descripción":"Rupture of synovium, right ankle","Precio":"$831.70","CasaFarmaceutica":"CVS Pharmacy"}
+{"ID":449,"Nombre":" Careone","Cantidad":5,"Descripción":"Noise effects on inner ear","Precio":"$425.10","CasaFarmaceutica":"American Sales Company"}
+{"ID":450,"Nombre":" Healthy Hands Foaming Instant Hand Sanitizer","Cantidad":1,"Descripción":"Pain in joints of right hand","Precio":"$328.47","CasaFarmaceutica":"Deb USA, Inc."}
+{"ID":451,"Nombre":" CEDAX","Cantidad":5,"Descripción":"Anemia due to disorders of glycolytic enzymes","Precio":"$916.28","CasaFarmaceutica":"Pernix Therapeutics, LLC"}
+{"ID":452,"Nombre":" Treatment Set TS332091","Cantidad":9,"Descripción":"Poisoning by aspirin, undetermined, subsequent encounter","Precio":"$175.26","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":453,"Nombre":" CVS PHARMACY","Cantidad":2,"Descripción":"Low-tension glaucoma, left eye, stage unspecified","Precio":"$934.83","CasaFarmaceutica":"CVS PHARMACY"}
+{"ID":454,"Nombre":" Lidocaine","Cantidad":13,"Descripción":"Unspecified open wound of larynx, initial encounter","Precio":"$367.64","CasaFarmaceutica":"Darby Dental Supply, LLC"}
+{"ID":455,"Nombre":" Tamoxifen Citrate","Cantidad":8,"Descripción":"Pnctr w foreign body of l mid finger w damage to nail, subs","Precio":"$258.32","CasaFarmaceutica":"KAISER FOUNDATION HOSPITALS"}
+{"ID":456,"Nombre":" Lucky Instant Hand Sanitizer Citrus Zest","Cantidad":15,"Descripción":"Other superficial bite of lip, initial encounter","Precio":"$737.28","CasaFarmaceutica":"Delta Brands Inc"}
+{"ID":457,"Nombre":" Fentanyl - NOVAPLUS","Cantidad":6,"Descripción":"Inj axillary or brachial vein, left side, subs encntr","Precio":"$200.87","CasaFarmaceutica":"Watson Laboratories, Inc."}
+{"ID":458,"Nombre":" LAMICTAL","Cantidad":7,"Descripción":"Unsp fracture of left calcaneus, subs for fx w delay heal","Precio":"$190.11","CasaFarmaceutica":"Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC"}
+{"ID":459,"Nombre":" up and up ranitidine","Cantidad":14,"Descripción":"Oth traum nondisp spondylolysis of sixth cervcal vert, 7thG","Precio":"$698.06","CasaFarmaceutica":"Target Corporation"}
+{"ID":460,"Nombre":" APTIDINE","Cantidad":6,"Descripción":"Toxic effect of venom of other Australian snake, assault","Precio":"$44.30","CasaFarmaceutica":"A P J Laboratories Limited"}
+{"ID":461,"Nombre":" equate allergy relief","Cantidad":9,"Descripción":"Inflamed seborrheic keratosis","Precio":"$852.06","CasaFarmaceutica":"Wal-Mart Stores Inc"}
+{"ID":462,"Nombre":" SUNSCREEN","Cantidad":15,"Descripción":"Disp fx of post pro of right talus, subs for fx w routn heal","Precio":"$206.07","CasaFarmaceutica":"COSMOCEUTICAL RESEARCH CENTER INC"}
+{"ID":463,"Nombre":" Antibacterial","Cantidad":11,"Descripción":"Reiter's disease, hand","Precio":"$163.89","CasaFarmaceutica":"Personal Care Products LLC"}
+{"ID":464,"Nombre":" Losartan Potassium and Hydrochlorothiazide","Cantidad":10,"Descripción":"Oth osteoporosis w current pathological fracture, unsp site","Precio":"$77.22","CasaFarmaceutica":"Teva Pharmaceuticals USA Inc"}
+{"ID":465,"Nombre":" Mucor","Cantidad":2,"Descripción":"Transverse fracture of shaft of humerus","Precio":"$655.31","CasaFarmaceutica":"USPharmaCo"}
+{"ID":466,"Nombre":" Calcium Chloride","Cantidad":11,"Descripción":"Arthritis due to other bacteria, unspecified joint","Precio":"$679.70","CasaFarmaceutica":"General Injectables & Vaccines, Inc"}
+{"ID":467,"Nombre":" Terbinafine Hydochloride","Cantidad":11,"Descripción":"Sltr-haris Type IV physl fx upr end humer, unsp arm, 7thP","Precio":"$250.99","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":468,"Nombre":" CD DIORSKIN NUDE SKIN-GLOWING MAKEUP SUNSCREEN BROAD SPECTRUM SPF 15 063 Amber","Cantidad":3,"Descripción":"Cell of prison as place","Precio":"$416.53","CasaFarmaceutica":"Parfums Christian Dior"}
+{"ID":469,"Nombre":" Unithroid","Cantidad":14,"Descripción":"Burn of third degree of unspecified ankle, sequela","Precio":"$276.92","CasaFarmaceutica":"Gemini Laboratories, LLC"}
+{"ID":470,"Nombre":" Love and Beauty Peach Mango Anti-Bacterial Hand Sanitizer","Cantidad":7,"Descripción":"Bullous impetigo","Precio":"$373.60","CasaFarmaceutica":"ALILY (ZHANGZHOU) BATH PRODUCTS LTD."}
+{"ID":471,"Nombre":" Harmon Face Values Baby Healing","Cantidad":9,"Descripción":"Acquired epidermolysis bullosa, unspecified","Precio":"$79.97","CasaFarmaceutica":"Delta Pharma Inc."}
+{"ID":472,"Nombre":" Sulfamethoxazole and Trimethoprim","Cantidad":15,"Descripción":"Unspecified injury of blood vessel of right little finger","Precio":"$614.15","CasaFarmaceutica":"Gen-Source Rx"}
+{"ID":473,"Nombre":" Homeopathic Immunity Supporting Adjuvant","Cantidad":5,"Descripción":"Pilonidal cyst and sinus without abscess","Precio":"$624.85","CasaFarmaceutica":"Ortas International Group S.A."}
+{"ID":474,"Nombre":" Atorvastatin Calcium","Cantidad":2,"Descripción":"Surgical instrumnt, materials and opth devices assoc w incdt","Precio":"$100.77","CasaFarmaceutica":"Ranbaxy Pharmaceuticals Inc."}
+{"ID":475,"Nombre":" Leader Allerhist","Cantidad":3,"Descripción":"Osteolysis, right thigh","Precio":"$985.37","CasaFarmaceutica":"Cardinal Health"}
+{"ID":476,"Nombre":" Morphine Sulfate","Cantidad":5,"Descripción":"External constriction of unspecified thumb, init encntr","Precio":"$91.65","CasaFarmaceutica":"Hospira, Inc."}
+{"ID":477,"Nombre":" Baczol Expectorant","Cantidad":8,"Descripción":"Unspecified superficial injury of right thigh, sequela","Precio":"$513.77","CasaFarmaceutica":"Lex Inc"}
+{"ID":478,"Nombre":" TABCIN","Cantidad":13,"Descripción":"Poisoning by and adverse effect of heroin","Precio":"$270.82","CasaFarmaceutica":"Salimex, S.A."}
+{"ID":479,"Nombre":" Aspirin","Cantidad":5,"Descripción":"Cysts of right upper eyelid","Precio":"$612.44","CasaFarmaceutica":"Western Family Foods, Inc."}
+{"ID":480,"Nombre":" ECOLAB","Cantidad":5,"Descripción":"Perf due to fb acc left in body following kidney dialysis","Precio":"$511.04","CasaFarmaceutica":"Ecolab Inc."}
+{"ID":481,"Nombre":" acamprosate calcium","Cantidad":4,"Descripción":"Moderate laceration of right kidney","Precio":"$289.67","CasaFarmaceutica":"Forest Laboratories, Inc."}
+{"ID":482,"Nombre":" Finasteride","Cantidad":15,"Descripción":"Combined immunodeficiency, unspecified","Precio":"$566.88","CasaFarmaceutica":"Teva Pharmaceuticals USA Inc"}
+{"ID":483,"Nombre":" Sertraline Hydrochloride","Cantidad":8,"Descripción":"Nondisp suprcndl fx w/o intrcndl extn low end l femr, 7thR","Precio":"$133.36","CasaFarmaceutica":"Med-Health Pharma, LLC"}
+{"ID":484,"Nombre":" Topiramate","Cantidad":1,"Descripción":"Traum subdr hem w LOC w dth d/t brain inj bef reg consc,init","Precio":"$622.93","CasaFarmaceutica":"Hikma Pharmaceutical"}
+{"ID":485,"Nombre":" fexofenadine hydrochloride","Cantidad":1,"Descripción":"Swm-pool in sngl-fmly (private) house or garden as place","Precio":"$298.93","CasaFarmaceutica":"Western Family Foods Inc"}
+{"ID":486,"Nombre":" Spironolactone","Cantidad":5,"Descripción":"Unspecified open wound, unspecified hip, subs encntr","Precio":"$475.67","CasaFarmaceutica":"Aidarex Pharmaceuticals LLC"}
+{"ID":487,"Nombre":" Thuja occidentalis","Cantidad":15,"Descripción":"Other superficial bite of scrotum and testes, subs encntr","Precio":"$428.45","CasaFarmaceutica":"Natures Way Holding Co."}
+{"ID":488,"Nombre":" Polyethylene Glycol (3350)","Cantidad":10,"Descripción":"Sprain of interphalangeal joint of r little finger, sequela","Precio":"$564.14","CasaFarmaceutica":"CRH Medical Corporation"}
+{"ID":489,"Nombre":" LANOXIN","Cantidad":14,"Descripción":"Nondisp subtrochnt fx l femur, init for opn fx type 3A/B/C","Precio":"$867.02","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":490,"Nombre":" GUNA-STOMACH","Cantidad":13,"Descripción":"Inferior dislocation of unsp acromioclav jt, sequela","Precio":"$599.11","CasaFarmaceutica":"Guna spa"}
+{"ID":491,"Nombre":" hydrocortisone","Cantidad":9,"Descripción":"Toxic effect of chloroform, assault, subsequent encounter","Precio":"$642.16","CasaFarmaceutica":"E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc."}
+{"ID":492,"Nombre":" daytime","Cantidad":15,"Descripción":"Unspecified injury of tail of pancreas, subsequent encounter","Precio":"$92.37","CasaFarmaceutica":"Hannaford Brothers Company"}
+{"ID":493,"Nombre":" Clean and Clear Advantage Mark Treatment","Cantidad":7,"Descripción":"Oth fx upper end unsp tibia, subs for clos fx w routn heal","Precio":"$529.65","CasaFarmaceutica":"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc."}
+{"ID":494,"Nombre":" Sweet Golden Pear Antibacterial Foaming Hand Wash","Cantidad":6,"Descripción":"Complete traumatic transphalangeal amputation of l idx fngr","Precio":"$797.93","CasaFarmaceutica":"SJ Creations, Inc."}
+{"ID":495,"Nombre":" Glyburide","Cantidad":11,"Descripción":"Dislocation of right scapula","Precio":"$210.23","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":496,"Nombre":" Ipratropium Bromide and Albuterol Sulfate","Cantidad":14,"Descripción":"Heat syncope","Precio":"$979.85","CasaFarmaceutica":"Mylan Pharmaceuticals, Inc."}
+{"ID":497,"Nombre":" napoleon PERDIS CHINA DOLL FOUNDATION BROAD SPECTRUM SPF 15 Look 2B","Cantidad":15,"Descripción":"Osteonecrosis due to drugs, left ankle","Precio":"$635.18","CasaFarmaceutica":"Napoleon Perdis Cosmetics, Inc"}
+{"ID":498,"Nombre":" Duloxetine","Cantidad":7,"Descripción":"Perf due to fb acc left in body fol oth procedure, init","Precio":"$786.17","CasaFarmaceutica":"Cadila Healthcare Limited"}
+{"ID":499,"Nombre":" TAXODIUM DISTICHUM POLLEN","Cantidad":4,"Descripción":"Acquired total absence of pancreas","Precio":"$415.38","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":500,"Nombre":" Gelnique","Cantidad":10,"Descripción":"Puncture wound w foreign body of unsp part of head, init","Precio":"$649.69","CasaFarmaceutica":"Watson Pharma, Inc."}
+{"ID":501,"Nombre":" Desmopressin Acetate","Cantidad":12,"Descripción":"Drug-induced headache, not elsewhere classified, intractable","Precio":"$279.49","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":502,"Nombre":" Anticavity Fluoride Rinse","Cantidad":7,"Descripción":"Other Hodgkin lymphoma, lymph nodes of axilla and upper limb","Precio":"$714.82","CasaFarmaceutica":"Rite Aid"}
+{"ID":503,"Nombre":" Exchange Select Dark Tanning Sunscreen","Cantidad":7,"Descripción":"Abrasion, left thigh","Precio":"$104.41","CasaFarmaceutica":"ARMY AND AIR FORCE EXCHANGE SERVICE"}
+{"ID":504,"Nombre":" Enalapril Maleate and Hydrochlorothiazide","Cantidad":7,"Descripción":"Other intestinal malabsorption","Precio":"$104.66","CasaFarmaceutica":"Teva Pharmaceuticals USA Inc"}
+{"ID":505,"Nombre":" CUBA ORIGINAL LADIES ROLL ON ANTIPERSPIRANT DEODORANT","Cantidad":6,"Descripción":"Bariatric surgery status complicating the puerperium","Precio":"$889.21","CasaFarmaceutica":"BB TRADING WORLDWIDE, INC"}
+{"ID":506,"Nombre":" Acetaminophen and Codeine Phosphate","Cantidad":13,"Descripción":"Occup of hv veh injured in clsn w pedl cyc nontraf, init","Precio":"$767.22","CasaFarmaceutica":"Teva Pharmaceuticals USA Inc"}
+{"ID":507,"Nombre":" TYLENOL SINUS","Cantidad":9,"Descripción":"Coma scale, best motor response, abnormal, in the field","Precio":"$415.30","CasaFarmaceutica":"McNeil Consumer Healthcare Div McNeil-PPC, Inc"}
+{"ID":508,"Nombre":" Citalopram","Cantidad":9,"Descripción":"Crushing injury of knee","Precio":"$419.23","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":509,"Nombre":" Hectorol","Cantidad":6,"Descripción":"Fracture of unsp shoulder girdle, part unsp, init for opn fx","Precio":"$375.04","CasaFarmaceutica":"Genzyme Corporation"}
+{"ID":510,"Nombre":" Revatio","Cantidad":12,"Descripción":"Poisoning by oth opioids, accidental, sequela","Precio":"$414.64","CasaFarmaceutica":"Pfizer Laboratories Div Pfizer Inc"}
+{"ID":511,"Nombre":" Lombardy Poplar","Cantidad":9,"Descripción":"Herpesviral infection of other urogenital tract","Precio":"$148.64","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":512,"Nombre":" Bodycology white gardenia anti-bacterial scrubbing hand soap","Cantidad":10,"Descripción":"Laceration with foreign body of nose, initial encounter","Precio":"$715.04","CasaFarmaceutica":"American Blending and Filling"}
+{"ID":513,"Nombre":" Pleo Alb","Cantidad":13,"Descripción":"Other specified injuries of left ankle","Precio":"$715.80","CasaFarmaceutica":"Sanum Kehlbeck GmbH & Co. KG"}
+{"ID":514,"Nombre":" ZAREE All Kii Coconut Water","Cantidad":1,"Descripción":"Oth extrartic fx low end l rad, subs for clos fx w malunion","Precio":"$740.32","CasaFarmaceutica":"G & NATURE Co., Ltd."}
+{"ID":515,"Nombre":" Hydroxychloroquine Sulfate","Cantidad":12,"Descripción":"Vitreous hemorrhage","Precio":"$165.30","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":516,"Nombre":" Mandelay","Cantidad":9,"Descripción":"Disp fx of unsp ulna styloid pro, 7thM","Precio":"$128.58","CasaFarmaceutica":"Majestic Drug Co., INC."}
+{"ID":517,"Nombre":" Quack Grass","Cantidad":15,"Descripción":"Nondisp transverse fx shaft of r rad, 7thN","Precio":"$738.63","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":518,"Nombre":" Koh Gen Do Aqua Foundation","Cantidad":15,"Descripción":"Nondisp fx of lesser trochanter of right femur, init","Precio":"$402.36","CasaFarmaceutica":"Koh Gen Do USA, Inc"}
+{"ID":519,"Nombre":" ChloraPrep One-Step","Cantidad":8,"Descripción":"Unsp physl fx lower end unsp femur, subs for fx w delay heal","Precio":"$542.19","CasaFarmaceutica":"CareFusion 213 LLC"}
+{"ID":520,"Nombre":" Nabumetone","Cantidad":5,"Descripción":"War operations involving gasoline bomb, civilian, sequela","Precio":"$862.31","CasaFarmaceutica":"AvKARE, Inc."}
+{"ID":521,"Nombre":" Carbocaine","Cantidad":14,"Descripción":"Nondisp fx of shaft of 5th MC bone, r hand, 7thP","Precio":"$833.20","CasaFarmaceutica":"Hospira, Inc."}
+{"ID":522,"Nombre":" Phenazopyridine HCl","Cantidad":9,"Descripción":"Unspecified purulent endophthalmitis","Precio":"$297.63","CasaFarmaceutica":"A-S Medication Solutions LLC"}
+{"ID":523,"Nombre":" OXYGEN","Cantidad":3,"Descripción":"Unsp inj extn musc/fasc/tend r lit fngr at forarm lv, init","Precio":"$997.91","CasaFarmaceutica":"Advanced Apothecaries Inc. dba Health Depot"}
+{"ID":524,"Nombre":" Ciprofloxacin","Cantidad":9,"Descripción":"Nondisp fx of glenoid cav of scapula, r shldr, 7thP","Precio":"$783.23","CasaFarmaceutica":"Carlsbad Technology, Inc."}
+{"ID":525,"Nombre":" CENTER-AL - XANTHIUM STRUMARIUM POLLEN","Cantidad":8,"Descripción":"Oth osteopor w crnt path fx, r ank/ft, 7thG","Precio":"$603.23","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":526,"Nombre":" Estradiol","Cantidad":1,"Descripción":"Nondisp fx of nk of scapula, l shldr, subs for fx w nonunion","Precio":"$886.11","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":527,"Nombre":" Ibuprofen","Cantidad":6,"Descripción":"Subluxation of tarsal joint of unspecified foot, subs encntr","Precio":"$12.82","CasaFarmaceutica":"Healthy Accents (DZA Brands, LLC)"}
+{"ID":528,"Nombre":" Furosemide","Cantidad":8,"Descripción":"Laceration w/o fb of abd wall, l upr q w/o penet perit cav","Precio":"$368.88","CasaFarmaceutica":"Cardinal Health"}
+{"ID":529,"Nombre":" Frosted Berry Hand Sanitizer","Cantidad":13,"Descripción":"Malig neoplm of upper-outer quadrant of right female breast","Precio":"$805.77","CasaFarmaceutica":"Papermates, Inc. dba Noteworthy"}
+{"ID":530,"Nombre":" Oxaliplatin","Cantidad":3,"Descripción":"Newborn affected by incompetent cervix","Precio":"$572.11","CasaFarmaceutica":"Sandoz Inc"}
+{"ID":531,"Nombre":" VITALUMIERE AQUA","Cantidad":11,"Descripción":"Unspecified dislocation of unspecified toe(s), subs encntr","Precio":"$142.31","CasaFarmaceutica":"CHANEL PARFUMS BEAUTE"}
+{"ID":532,"Nombre":" Topiramate","Cantidad":15,"Descripción":"Toxic effect of sulfur dioxide, intentional self-harm, subs","Precio":"$511.04","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":533,"Nombre":" Aminophylline","Cantidad":1,"Descripción":"Toxic effect of unspecified spider venom","Precio":"$277.23","CasaFarmaceutica":"Cardinal Health"}
+{"ID":534,"Nombre":" Lorazepam","Cantidad":2,"Descripción":"Asphyx due to smothr under another person's body, acc, sqla","Precio":"$631.84","CasaFarmaceutica":"AvPAK"}
+{"ID":535,"Nombre":" Metformin Hydrochloride","Cantidad":4,"Descripción":"Nondisp seg fx shaft of humer, r arm, 7thD","Precio":"$141.55","CasaFarmaceutica":"Greenstone LLC"}
+{"ID":536,"Nombre":" BB Tinted Treatment 12-hour Primer Broad Spectrum SPF 30 Sunscreen","Cantidad":12,"Descripción":"Open bite of unspecified shoulder","Precio":"$773.20","CasaFarmaceutica":"Tarte, Inc"}
+{"ID":537,"Nombre":" Neostigmine Methylsulfate","Cantidad":13,"Descripción":"Nondisp intartic fx unsp calcaneus, subs for fx w nonunion","Precio":"$229.02","CasaFarmaceutica":"American Regent, Inc."}
+{"ID":538,"Nombre":" Nitrous Oxide","Cantidad":4,"Descripción":"Neoplasm of uncertain behavior of the major salivary glands","Precio":"$762.41","CasaFarmaceutica":"Praxair Distribution Southeast LLC"}
+{"ID":539,"Nombre":" Stoko Refresh","Cantidad":11,"Descripción":"Disorder of the skin and subcutaneous tissue, unspecified","Precio":"$638.91","CasaFarmaceutica":"Evonik Stockhausen, LLC"}
+{"ID":540,"Nombre":" Sodium Fluoride","Cantidad":13,"Descripción":"Fall into oth water striking wall causing oth injury, init","Precio":"$686.11","CasaFarmaceutica":"Shertech Laboratories, LLC"}
+{"ID":541,"Nombre":" 7 Select Childrens Allergy Relief","Cantidad":9,"Descripción":"Wrist drop, unspecified wrist","Precio":"$944.39","CasaFarmaceutica":"7-Eleven"}
+{"ID":542,"Nombre":" Triple Antibiotic","Cantidad":1,"Descripción":"Malignant neoplasm of ethmoidal sinus","Precio":"$48.44","CasaFarmaceutica":"New World Imports, Inc"}
+{"ID":543,"Nombre":" Sulwhasoo evenfair smoothing makeup base NO. 1","Cantidad":14,"Descripción":"Newborn aff by other morpholog and functn abnlt of placenta","Precio":"$922.18","CasaFarmaceutica":"AMOREPACIFIC"}
+{"ID":544,"Nombre":" ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, and DOXYLAMINE SUCCINATE","Cantidad":7,"Descripción":"Sedative, hypnotic or anxiolytic-related use, unspecified","Precio":"$292.02","CasaFarmaceutica":"SPIRIT PHARMACEUTICALS, LLC"}
+{"ID":545,"Nombre":" No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Vanilla","Cantidad":7,"Descripción":"Calcium deposit in bursa, right elbow","Precio":"$315.30","CasaFarmaceutica":"BCM Cosmetique SAS"}
+{"ID":546,"Nombre":" Toxoplasma Gondii Remedy","Cantidad":3,"Descripción":"Displ oblique fx shaft of l ulna, 7thK","Precio":"$202.09","CasaFarmaceutica":"Deseret Biologicals, Inc."}
+{"ID":547,"Nombre":" Carbidopa, Levodopa and Entacapone","Cantidad":9,"Descripción":"Aneurysmal bone cyst, left forearm","Precio":"$641.93","CasaFarmaceutica":"Sun Pharma Global FZE"}
+{"ID":548,"Nombre":" Citalopram","Cantidad":3,"Descripción":"Nondisp fx of l tibial tuberosity, init for opn fx type I/2","Precio":"$487.10","CasaFarmaceutica":"Amneal Pharmaceuticals of New York, LLC"}
+{"ID":549,"Nombre":" smart sense allergy and congestion relief","Cantidad":13,"Descripción":"Breakdown (mechanical) of urinary devices and implants, subs","Precio":"$144.35","CasaFarmaceutica":"Kmart Corporation"}
+{"ID":550,"Nombre":" Cefuroxime Axetil","Cantidad":1,"Descripción":"Car passenger injured in clsn w pick-up truck in traf, init","Precio":"$693.46","CasaFarmaceutica":"Aurobindo Pharma Limited"}
+{"ID":551,"Nombre":" Sisal","Cantidad":9,"Descripción":"Unspecified superficial injury of left foot","Precio":"$559.65","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":552,"Nombre":" Lisinopril with Hydrochlorothiazide","Cantidad":13,"Descripción":"Furuncle of left upper limb","Precio":"$571.15","CasaFarmaceutica":"West-Ward Pharmaceutical Corp"}
+{"ID":553,"Nombre":" Oxcarbazepine","Cantidad":8,"Descripción":"Bruising of scalp due to birth injury","Precio":"$569.40","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":554,"Nombre":" Mini Berry Lip Balm Blueberry","Cantidad":5,"Descripción":"Collapsed vertebra, NEC, lumbosacral region","Precio":"$798.40","CasaFarmaceutica":"TONYMOLY CO., LTD."}
+{"ID":555,"Nombre":" ARRID EXTRA EXTRA DRY XX","Cantidad":2,"Descripción":"Nondisp commnt fx r patella, subs for clos fx w delay heal","Precio":"$492.68","CasaFarmaceutica":"Church & Dwight Co., Inc."}
+{"ID":556,"Nombre":" Rimmel London","Cantidad":5,"Descripción":"Poisoning by tetracyclic antidepressants, undetermined","Precio":"$524.95","CasaFarmaceutica":"Lancaster S.A.M."}
+{"ID":557,"Nombre":" TRETIN.X","Cantidad":13,"Descripción":"Occup of bus injured in clsn w pedl cyc in traf, sequela","Precio":"$776.16","CasaFarmaceutica":"Onset Dermatologics LLC"}
+{"ID":558,"Nombre":" Equaline hemorrhoidal cooling","Cantidad":10,"Descripción":"Calculus of bile duct w acute cholangitis with obstruction","Precio":"$850.87","CasaFarmaceutica":"Supervalu Inc"}
+{"ID":559,"Nombre":" SHOPKO RELIEF","Cantidad":15,"Descripción":"Unsp nondisp fx of 4th cervcal vert, subs for fx w nonunion","Precio":"$401.54","CasaFarmaceutica":"HANLIM PHARM. CO., LTD."}
+{"ID":560,"Nombre":" MSM (MoSaengMo)","Cantidad":6,"Descripción":"External constriction, unspecified ankle, initial encounter","Precio":"$463.88","CasaFarmaceutica":"Handock Cosmetics Inc"}
+{"ID":561,"Nombre":" Cover Fx Blemish Treatment Concealer G Medium","Cantidad":13,"Descripción":"Displacement of internal fixation device of other bones","Precio":"$324.84","CasaFarmaceutica":"Cover FX Skin Care, Inc."}
+{"ID":562,"Nombre":" Blueberry","Cantidad":5,"Descripción":"Other vitreous opacities, right eye","Precio":"$161.14","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":563,"Nombre":" Pollens - Trees, Cedar, Mountain Juniperus ashei","Cantidad":15,"Descripción":"Underdosing of cardi-stim glycos/drug simlar act, sequela","Precio":"$675.43","CasaFarmaceutica":"Jubilant HollisterStier LLC"}
+{"ID":564,"Nombre":" Loratadine ODT","Cantidad":14,"Descripción":"Unsp fx head of l femr, 7thE","Precio":"$315.00","CasaFarmaceutica":"Premier Value"}
+{"ID":565,"Nombre":" Lovastatin","Cantidad":1,"Descripción":"Toxic effect of contact w sea anemone, undetermined, sequela","Precio":"$189.76","CasaFarmaceutica":"Teva Pharmaceuticals USA Inc"}
+{"ID":566,"Nombre":" Perfecting Liquid Foundation Soft Blush","Cantidad":5,"Descripción":"Unspecified sequelae of unspecified cerebrovascular disease","Precio":"$104.56","CasaFarmaceutica":"Arbonne International, LLC"}
+{"ID":567,"Nombre":" Ketorolac Tromethamine","Cantidad":6,"Descripción":"ABO incompatibility with hemolytic transfusion reaction","Precio":"$662.93","CasaFarmaceutica":"Hospira, Inc."}
+{"ID":568,"Nombre":" Somatuline Depot","Cantidad":8,"Descripción":"Occupant (driver) of 3-whl mv injured in unsp traf","Precio":"$57.63","CasaFarmaceutica":"Ipsen Biopharmaceuticals, Inc."}
+{"ID":569,"Nombre":" BAMBUSA AESCULUS","Cantidad":12,"Descripción":"Anemia due to enzyme disorder, unspecified","Precio":"$288.10","CasaFarmaceutica":"URIEL PHARMACY INC."}
+{"ID":570,"Nombre":" GLUCOVANCE","Cantidad":11,"Descripción":"Hypertrophy of bone, right femur","Precio":"$986.13","CasaFarmaceutica":"Bristol-Myers Squibb Company"}
+{"ID":571,"Nombre":" Corn Smut","Cantidad":2,"Descripción":"Inj flexor musc/fasc/tend right ring finger at forearm level","Precio":"$139.55","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":572,"Nombre":" 12 hour decongestant","Cantidad":13,"Descripción":"Periprosth fx around internal prosth r shoulder jt, subs","Precio":"$33.86","CasaFarmaceutica":"Meijer Distribution Inc"}
+{"ID":573,"Nombre":" Meteoric Iron Phosphorus Quartz","Cantidad":14,"Descripción":"Unstbl burst fx fourth lum vert, subs for fx w delay heal","Precio":"$73.80","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":574,"Nombre":" Loratadine","Cantidad":14,"Descripción":"Burn of first deg mult sites of left wrist and hand, init","Precio":"$944.89","CasaFarmaceutica":"American Health Packaging"}
+{"ID":575,"Nombre":" Fosphenytoin","Cantidad":6,"Descripción":"Other specified disorders of cartilage","Precio":"$974.82","CasaFarmaceutica":"Fresenius Kabi USA, LLC"}
+{"ID":576,"Nombre":" tizanidine","Cantidad":12,"Descripción":"Terrorism involving oth means, civilian injured, subs encntr","Precio":"$108.43","CasaFarmaceutica":"Apotex Corp."}
+{"ID":577,"Nombre":" Medline ReadyBath Luxe","Cantidad":2,"Descripción":"Retrobulbar neuritis","Precio":"$907.65","CasaFarmaceutica":"Medline Industries, Inc."}
+{"ID":578,"Nombre":" Calcium Acetate","Cantidad":2,"Descripción":"Asymptomatic varicose veins of left lower extremity","Precio":"$518.81","CasaFarmaceutica":"NCS HealthCare of KY, Inc dba Vangard Labs"}
+{"ID":579,"Nombre":" ADSOL Red Cell Preservation Solution System in Plastic Container (PL 146 Plastic)","Cantidad":5,"Descripción":"Cortical age-related cataract, bilateral","Precio":"$486.63","CasaFarmaceutica":"Fenwal, Inc."}
+{"ID":580,"Nombre":" Esopinio Topaz Phyto","Cantidad":13,"Descripción":"Nondisp midcervical fx l femur, init for opn fx type 3A/B/C","Precio":"$829.22","CasaFarmaceutica":"ZION SYNTHETIC FIBER CO., LTD."}
+{"ID":581,"Nombre":" Russian Olive","Cantidad":7,"Descripción":"Erosn implnt vaginal mesh to surrnd org/tiss, subs","Precio":"$15.74","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":582,"Nombre":" RISPERIDONE","Cantidad":8,"Descripción":"Burn due to fishing boat on fire, sequela","Precio":"$907.38","CasaFarmaceutica":"Caraco Pharmaceutical Laboratories, Ltd."}
+{"ID":583,"Nombre":" Palmers Amaranth","Cantidad":1,"Descripción":"Unspecified acquired deformity of hand","Precio":"$660.59","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":584,"Nombre":" Losartan Potassium","Cantidad":4,"Descripción":"Legionnaires' disease","Precio":"$348.19","CasaFarmaceutica":"NCS HealthCare of KY, Inc dba Vangard Labs"}
+{"ID":585,"Nombre":" Shopko Antibacterial Hand Sanitizer","Cantidad":9,"Descripción":"Other physeal fracture of lower end of unspecified femur","Precio":"$966.24","CasaFarmaceutica":"Jets, Sets, & Elephants Beauty Corp."}
+{"ID":586,"Nombre":" Finasteride","Cantidad":14,"Descripción":"Osteophyte, wrist","Precio":"$160.88","CasaFarmaceutica":"Cardinal Health"}
+{"ID":587,"Nombre":" CARE ONE","Cantidad":11,"Descripción":"Infct of amniotic sac and membrns, unsp, third tri, unsp","Precio":"$389.34","CasaFarmaceutica":"AMERICAN SALES COMPANY"}
+{"ID":588,"Nombre":" CAREONE","Cantidad":8,"Descripción":"Disp fx of dist phalanx of r great toe, 7thD","Precio":"$170.04","CasaFarmaceutica":"AMERICAN SALES COMPANY"}
+{"ID":589,"Nombre":" PENTOXIFYLLINE","Cantidad":11,"Descripción":"Unsp fx the low end r rad, 7thM","Precio":"$434.04","CasaFarmaceutica":"Aphena Pharma Solutions - Tennessee, LLC"}
+{"ID":590,"Nombre":" Fluconazole","Cantidad":3,"Descripción":"Pressure ulcer of right elbow, stage 2","Precio":"$115.30","CasaFarmaceutica":"Claris Lifesciences Inc."}
+{"ID":591,"Nombre":" Heavy Metal - Amalga Detox","Cantidad":5,"Descripción":"Unsp physl fx upr end humer, unsp arm, 7thG","Precio":"$195.79","CasaFarmaceutica":"Newton Laboratories, Inc."}
+{"ID":592,"Nombre":" Caffeic Acid","Cantidad":11,"Descripción":"Problems related to certain psychosocial circumstances","Precio":"$338.90","CasaFarmaceutica":"Apotheca Company"}
+{"ID":593,"Nombre":" Airmit Ace","Cantidad":7,"Descripción":"4-Aminophenol derivatives","Precio":"$216.31","CasaFarmaceutica":"Sato Pharmaceutical Co., Ltd."}
+{"ID":594,"Nombre":" CellCept","Cantidad":4,"Descripción":"Complication of renal artery following a procedure, NEC","Precio":"$531.34","CasaFarmaceutica":"Genentech, Inc."}
+{"ID":595,"Nombre":" CEFOTAXIME","Cantidad":8,"Descripción":"Lacerat unsp blood vess at ank/ft level, right leg, sequela","Precio":"$817.74","CasaFarmaceutica":"WOCKHARDT LIMITED"}
+{"ID":596,"Nombre":" Xartemis","Cantidad":13,"Descripción":"Erysipelas","Precio":"$330.76","CasaFarmaceutica":"PD-Rx Pharmaceuticals, Inc."}
+{"ID":597,"Nombre":" Sprayology Stress Relief","Cantidad":10,"Descripción":"Pain in left shoulder","Precio":"$779.55","CasaFarmaceutica":"Eight and Company"}
+{"ID":598,"Nombre":" Trichophyton mentagrophytes","Cantidad":1,"Descripción":"Subluxation of distal interphaln joint of l mid finger, subs","Precio":"$332.88","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":599,"Nombre":" Clarithromycin","Cantidad":5,"Descripción":"Injury of lateral plantar nerve, left leg, initial encounter","Precio":"$382.82","CasaFarmaceutica":"Rebel Distributors Corp."}
+{"ID":600,"Nombre":" Live Better","Cantidad":14,"Descripción":"Hidradenitis suppurativa","Precio":"$932.49","CasaFarmaceutica":"The Great Atlantic & Pacific Tea Company"}
+{"ID":601,"Nombre":" Zolpidem Tartrate","Cantidad":1,"Descripción":"Unsp inj flexor musc/fasc/tend at forarm lv, unsp arm, sqla","Precio":"$917.36","CasaFarmaceutica":"Cardinal Health"}
+{"ID":602,"Nombre":" LBEL NATURAL FINISH MOISTURIZING FOUNDATION SPF 25","Cantidad":11,"Descripción":"Sprain of metacarpophalangeal joint of unsp finger, subs","Precio":"$208.35","CasaFarmaceutica":"Ventura Corporation LTD"}
+{"ID":603,"Nombre":" Carisoprodol","Cantidad":9,"Descripción":"Nondisp segmental fx shaft of radius, unsp arm, init","Precio":"$408.51","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":604,"Nombre":" Nifedipine","Cantidad":1,"Descripción":"Strain flexor musc/fasc/tend l rng fngr at forarm lv, sqla","Precio":"$584.80","CasaFarmaceutica":"McKesson Packaging Services Business Unit of McKesson Corporation"}
+{"ID":605,"Nombre":" Gianvi","Cantidad":7,"Descripción":"External constriction of nose, subsequent encounter","Precio":"$416.73","CasaFarmaceutica":"MedVantx, Inc."}
+{"ID":606,"Nombre":" Sirolimus","Cantidad":14,"Descripción":"Burn of first degree of left wrist, sequela","Precio":"$728.92","CasaFarmaceutica":"Greenstone LLC"}
+{"ID":607,"Nombre":" Family Care Nasal Relief","Cantidad":12,"Descripción":"Poisoning by local astringents/detergents, accidental, init","Precio":"$613.48","CasaFarmaceutica":"United Exchange Corp"}
+{"ID":608,"Nombre":" Povidone-Iodine","Cantidad":2,"Descripción":"Sltr-haris Type I physeal fx phalanx of left toe, 7thB","Precio":"$66.18","CasaFarmaceutica":"Medline Industries, Inc."}
+{"ID":609,"Nombre":" Fentanyl Citrate, Bupivacaine HCl","Cantidad":12,"Descripción":"Displ commnt fx shaft of l femr, 7thN","Precio":"$576.29","CasaFarmaceutica":"Cantrell Drug Company"}
+{"ID":610,"Nombre":" Lorazepam","Cantidad":13,"Descripción":"Nondisp fx of 3rd metatarsal bone, r ft, 7thP","Precio":"$988.15","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":611,"Nombre":" CIPRODEX","Cantidad":1,"Descripción":"Disorders of muscle tone of newborn","Precio":"$979.99","CasaFarmaceutica":"Alcon, Inc."}
+{"ID":612,"Nombre":" Metronidazole","Cantidad":13,"Descripción":"Nondisp longitud fx r patella, 7thE","Precio":"$136.61","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":613,"Nombre":" PCXX ONE MINTE GEL ROOTBEER","Cantidad":4,"Descripción":"Oth mult gest w two or more monoamnio fetuses, second tri","Precio":"$252.46","CasaFarmaceutica":"Ross Healthcare Inc."}
+{"ID":614,"Nombre":" Monistat 3 Combination Pack","Cantidad":6,"Descripción":"Occupant of pk-up/van injured in oth trnsp acc, sequela","Precio":"$570.48","CasaFarmaceutica":"Insight Pharmaceuticals"}
+{"ID":615,"Nombre":" CISplatin","Cantidad":9,"Descripción":"Sltr-haris Type II physeal fx upper end of r fibula, init","Precio":"$895.98","CasaFarmaceutica":"WG Critical Care, LLC"}
+{"ID":616,"Nombre":" Paroxetine","Cantidad":5,"Descripción":"Nondisplaced bicondylar fracture of right tibia, sequela","Precio":"$994.47","CasaFarmaceutica":"Preferred Pharmaceuticals, Inc"}
+{"ID":617,"Nombre":" ARIZONA CYPRESS POLLEN","Cantidad":14,"Descripción":"Nondisp apophyseal fx l femr, 7thE","Precio":"$414.18","CasaFarmaceutica":"Allergy Laboratories, Inc."}
+{"ID":618,"Nombre":" Gnaphalium Stannum","Cantidad":1,"Descripción":"Retinal neovascularization, unspecified, left eye","Precio":"$933.60","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":619,"Nombre":" Neutrogena Wet Skin Kids Beach and Pool","Cantidad":11,"Descripción":"Poisoning by antirheumatics, NEC, assault, subs","Precio":"$118.87","CasaFarmaceutica":"Neutrogena Corporation"}
+{"ID":620,"Nombre":" Gastritis - Ulcer","Cantidad":15,"Descripción":"Unsp physl fx low end rad, unsp arm, 7thG","Precio":"$664.34","CasaFarmaceutica":"Newton Laboratories, Inc."}
+{"ID":621,"Nombre":" Humate-P","Cantidad":10,"Descripción":"Legal intervnt w inj by mch gun, law enforc offl inj, sqla","Precio":"$891.07","CasaFarmaceutica":"CSL Behring GmbH"}
+{"ID":622,"Nombre":" Miracle Ice","Cantidad":9,"Descripción":"Pnctr w fb of abd wall, periumb rgn w penet perit cav, subs","Precio":"$402.61","CasaFarmaceutica":"FDN Enterprises, LLC"}
+{"ID":623,"Nombre":" Nitrous Oxide","Cantidad":13,"Descripción":"Oth foreign object in pharynx causing asphyxiation, subs","Precio":"$940.08","CasaFarmaceutica":"Roberts Oxygen Company, Inc."}
+{"ID":624,"Nombre":" Levothyroxine Sodium","Cantidad":12,"Descripción":"Intermittent hydrarthrosis","Precio":"$579.03","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":625,"Nombre":" Butalbital, Acetaminophen and Caffeine","Cantidad":11,"Descripción":"Inj superficial palmar arch of right hand, init encntr","Precio":"$314.85","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":626,"Nombre":" Zolpidem Tartrate","Cantidad":13,"Descripción":"Toxic effect of unsp gases, fumes and vapors, acc, subs","Precio":"$453.91","CasaFarmaceutica":"Proficient Rx LP"}
+{"ID":627,"Nombre":" venlafaxine","Cantidad":8,"Descripción":"Kissing spine, lumbar region","Precio":"$211.00","CasaFarmaceutica":"Trigen Laboratories, LLC"}
+{"ID":628,"Nombre":" Cough DM","Cantidad":7,"Descripción":"Occup of amblnc/fire eng injured nontraf, subs","Precio":"$113.19","CasaFarmaceutica":"H E B"}
+{"ID":629,"Nombre":" PREMIER VALUE MEDICATED WIPES","Cantidad":8,"Descripción":"Sltr-haris Type II physl fx low end r fibula, 7thG","Precio":"$997.83","CasaFarmaceutica":"CHAIN DRUG CONSORTIUM, LLC"}
+{"ID":630,"Nombre":" Good Sense Pain and Fever","Cantidad":1,"Descripción":"Nondisp fx of post wall of r acetab, subs for fx w nonunion","Precio":"$360.30","CasaFarmaceutica":"L Perrigo Company"}
+{"ID":631,"Nombre":" SAIZEN CLICKEASY","Cantidad":1,"Descripción":"War op involving unsp effect of nuclear weapon, milt, subs","Precio":"$212.46","CasaFarmaceutica":"EMD Serono, Inc."}
+{"ID":632,"Nombre":" Childrens Allergy Relief","Cantidad":15,"Descripción":"Kaschin-Beck disease, left hand","Precio":"$479.51","CasaFarmaceutica":"AptaPharma Inc."}
+{"ID":633,"Nombre":" Lisinopril","Cantidad":7,"Descripción":"Adverse effect of antithrombotic drugs, initial encounter","Precio":"$898.36","CasaFarmaceutica":"Contract Pharmacy Services-PA"}
+{"ID":634,"Nombre":" Rayito de Sol","Cantidad":12,"Descripción":"Personal history of (corrected) congenital malformations","Precio":"$872.09","CasaFarmaceutica":"Siscom de Argentina S.A."}
+{"ID":635,"Nombre":" Naproxen Sodium","Cantidad":7,"Descripción":"Intermittent hydrarthrosis, left hand","Precio":"$810.95","CasaFarmaceutica":"Amneal Pharmaceuticals"}
+{"ID":636,"Nombre":" Monistat 3 Combination Pack","Cantidad":10,"Descripción":"Pedestrian on foot injured in collision w pedl cyc in traf","Precio":"$584.09","CasaFarmaceutica":"McNeil-PPC, Inc."}
+{"ID":637,"Nombre":" Ulta Lavender Woods Anti-Bacterial Hand Sanitizer","Cantidad":6,"Descripción":"Occup of 3-whl mv injured in clsn w oth mv in traf, init","Precio":"$303.94","CasaFarmaceutica":"Ulta"}
+{"ID":638,"Nombre":" PARAID Alcohol","Cantidad":9,"Descripción":"Nontraumatic ischemic infarction of muscle, forearm","Precio":"$804.15","CasaFarmaceutica":"Planet (Shanghai) International Co., Ltd."}
+{"ID":639,"Nombre":" Opana","Cantidad":3,"Descripción":"Myositis ossificans progressiva, right ankle","Precio":"$845.18","CasaFarmaceutica":"Endo Pharmaceuticals Inc."}
+{"ID":640,"Nombre":" Glandulae Suprarenales Lien","Cantidad":4,"Descripción":"Disp fx of r radial styloid pro, subs for clos fx w nonunion","Precio":"$360.53","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":641,"Nombre":" NARS FOUNDATION","Cantidad":10,"Descripción":"Scombroid fish poisoning, undetermined","Precio":"$345.18","CasaFarmaceutica":"NARS Cosmetics"}
+{"ID":642,"Nombre":" Colgate Proclinical Refreshing Mint","Cantidad":1,"Descripción":"Dislocation of T3/T4 thoracic vertebra","Precio":"$951.83","CasaFarmaceutica":"Colgate-Palmolive Canada"}
+{"ID":643,"Nombre":" Focalin","Cantidad":3,"Descripción":"Disorder of ligament, wrist","Precio":"$75.63","CasaFarmaceutica":"Novartis Pharmaceuticals Corporation"}
+{"ID":644,"Nombre":" CVS Medicated Chest Rub Roll-On","Cantidad":5,"Descripción":"Nondisp fx of post wall of r acetab, subs for fx w nonunion","Precio":"$156.53","CasaFarmaceutica":"CVS Pharmacy"}
+{"ID":645,"Nombre":" MEIJER OIL FREE FACES SPF 30","Cantidad":15,"Descripción":"Personal history of psychological abuse in childhood","Precio":"$330.75","CasaFarmaceutica":"Meijer Distribution Inc"}
+{"ID":646,"Nombre":" CARE ONE","Cantidad":15,"Descripción":"Laceration of liver, unspecified degree","Precio":"$199.86","CasaFarmaceutica":"AMERICAN SALES COMPANY"}
+{"ID":647,"Nombre":" Paroxetine","Cantidad":10,"Descripción":"Nondisp fx of lateral malleolus of r fibula, 7thM","Precio":"$499.16","CasaFarmaceutica":"Contract Pharmacy Services-PA"}
+{"ID":648,"Nombre":" Timolol Maleate","Cantidad":1,"Descripción":"Abn immunolog findings in specmn from male genital organs","Precio":"$684.31","CasaFarmaceutica":"Bausch & Lomb Incorporated"}
+{"ID":649,"Nombre":" Smart Sense ibuprofen","Cantidad":8,"Descripción":"Laceration of dorsal vein of unspecified foot, sequela","Precio":"$749.20","CasaFarmaceutica":"Kmart Corporation"}
+{"ID":650,"Nombre":" Antacid","Cantidad":12,"Descripción":"Open bite of abd wall, right upper q w/o penet perit cav","Precio":"$403.19","CasaFarmaceutica":"Western Family Foods Inc"}
+{"ID":651,"Nombre":" Ibuprofen softgels","Cantidad":5,"Descripción":"Unsp open wound of r rng fngr w damage to nail, sequela","Precio":"$82.06","CasaFarmaceutica":"AmerisourceBergen Drug Corporation (Good Neighbor Pharmacy)"}
+{"ID":652,"Nombre":" Clearasil","Cantidad":6,"Descripción":"Unsp open wound of oth finger w damage to nail, subs encntr","Precio":"$34.97","CasaFarmaceutica":"Reckitt Benckiser LLC"}
+{"ID":653,"Nombre":" Amlodipine Besylate and Benazepril Hydrochloride","Cantidad":7,"Descripción":"Toxic effect of venom of oth arthropod, undetermined, subs","Precio":"$87.60","CasaFarmaceutica":"BluePoint Laboratories"}
+{"ID":654,"Nombre":" Senna S","Cantidad":10,"Descripción":"Abn lev drug/meds/biol subst in specimens from oth org/tiss","Precio":"$317.54","CasaFarmaceutica":"EQUATE (Walmart Stores, Inc.)"}
+{"ID":655,"Nombre":" Crest Pro-Health","Cantidad":2,"Descripción":"Oth fx lower end of unsp ulna, subs for clos fx w routn heal","Precio":"$892.52","CasaFarmaceutica":"Procter & Gamble Manufacturing Company"}
+{"ID":656,"Nombre":" Benzonatate","Cantidad":1,"Descripción":"Unsp focal TBI w/o loss of consciousness, init","Precio":"$945.30","CasaFarmaceutica":"NCS HealthCare of KY, Inc dba Vangard Labs"}
+{"ID":657,"Nombre":" sore throat","Cantidad":10,"Descripción":"Tox eff of corrosv alkalis and alk-like substnc, asslt, init","Precio":"$975.18","CasaFarmaceutica":"Kroger Company"}
+{"ID":658,"Nombre":" Russian Olive","Cantidad":13,"Descripción":"Diffuse follicle center lymphoma, spleen","Precio":"$842.02","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":659,"Nombre":" Cymbalta","Cantidad":12,"Descripción":"Crushing injury of abdomen, lower back, and pelvis, init","Precio":"$787.03","CasaFarmaceutica":"Lake Erie Medical DBA Quality Care Products LLC"}
+{"ID":660,"Nombre":" Organoplex Special Order","Cantidad":15,"Descripción":"Toxic effect of ketones, undetermined, subsequent encounter","Precio":"$318.31","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":661,"Nombre":" Mary Kay Tinted Moisturizer Sunscreen SPF 20 Beige 1","Cantidad":11,"Descripción":"Drug induced retention of urine","Precio":"$119.11","CasaFarmaceutica":"Mary Kay Inc."}
+{"ID":662,"Nombre":" SAD Soother","Cantidad":10,"Descripción":"Other disorders of bladder","Precio":"$859.19","CasaFarmaceutica":"Native Remedies, LLC"}
+{"ID":663,"Nombre":" Zyprexa","Cantidad":15,"Descripción":"Toxic effect of paints and dyes, NEC, intentional self-harm","Precio":"$525.75","CasaFarmaceutica":"Dispensing Solutions, Inc."}
+{"ID":664,"Nombre":" Topcare Dayhist Allergy","Cantidad":9,"Descripción":"Intraductal carcinoma in situ of unspecified breast","Precio":"$210.14","CasaFarmaceutica":"Topco Associates LLC"}
+{"ID":665,"Nombre":" Male plus","Cantidad":11,"Descripción":"Fall from burning bldg in controlled fire, subs","Precio":"$618.20","CasaFarmaceutica":"VIATREXX BIO INCORPORATED"}
+{"ID":666,"Nombre":" Ascorbic Acid","Cantidad":10,"Descripción":"Toxic effect of harmful algae and algae toxins, self-harm","Precio":"$281.67","CasaFarmaceutica":"The Torrance Company"}
+{"ID":667,"Nombre":" INDOCIN","Cantidad":8,"Descripción":"Displ Maisonneuve's fx unsp leg, 7thF","Precio":"$966.04","CasaFarmaceutica":"Iroko Pharmaceuticals, LLC"}
+{"ID":668,"Nombre":" IMITREX","Cantidad":11,"Descripción":"Capsular glaucoma with pseudoexfoliation of lens, bilateral","Precio":"$575.05","CasaFarmaceutica":"Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC"}
+{"ID":669,"Nombre":" PhysiciansCare Cold and Cough","Cantidad":5,"Descripción":"Laceration w foreign body of oth part of head, subs encntr","Precio":"$735.72","CasaFarmaceutica":"Acme United Corporation"}
+{"ID":670,"Nombre":" Neutrogena MoistureShine Lip Soother","Cantidad":5,"Descripción":"Contact w hot heating appliances, radiators and pipes, init","Precio":"$47.66","CasaFarmaceutica":"Neutrogena Corporation"}
+{"ID":671,"Nombre":" COTTON FIBER","Cantidad":2,"Descripción":"Sublux of proximal interphaln joint of l little finger, subs","Precio":"$419.98","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":672,"Nombre":" health mart naproxen sodium","Cantidad":3,"Descripción":"Burn of first deg mult sites of right ankle and foot","Precio":"$180.29","CasaFarmaceutica":"McKesson"}
+{"ID":673,"Nombre":" NITROGEN","Cantidad":2,"Descripción":"Puncture wound w/o foreign body of left shoulder, subs","Precio":"$620.88","CasaFarmaceutica":"Aspen Air US Corp"}
+{"ID":674,"Nombre":" Agaricus Phosphorus","Cantidad":15,"Descripción":"Toxic effect of venom of N & S American snake, undetermined","Precio":"$245.42","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":675,"Nombre":" LBel","Cantidad":9,"Descripción":"Oth spon disrupt of posterior cruciate ligament of left knee","Precio":"$842.80","CasaFarmaceutica":"VENTURA INTERNATIONAL LTD.,"}
+{"ID":676,"Nombre":" AHC Revitalizing Special Gen Cream","Cantidad":10,"Descripción":"Contusion of nose","Precio":"$520.26","CasaFarmaceutica":"Carver Korea Co.,Ltd"}
+{"ID":677,"Nombre":" Simethicone","Cantidad":6,"Descripción":"Open bite of left index finger w/o damage to nail, sequela","Precio":"$356.62","CasaFarmaceutica":"Softech Pharma Pvt. Ltd"}
+{"ID":678,"Nombre":" Mentholatum for Kids","Cantidad":1,"Descripción":"Laceration of unsp blood vessel at wrs/hnd lv of unsp arm","Precio":"$229.47","CasaFarmaceutica":"The Mentholatum Company"}
+{"ID":679,"Nombre":" Umcka ColdCare FastActives Mint-Menthol","Cantidad":11,"Descripción":"Corrosion of third degree of unsp lower leg, init encntr","Precio":"$371.21","CasaFarmaceutica":"Nature's Way Products, Inc."}
+{"ID":680,"Nombre":" AZITHROMYCIN","Cantidad":3,"Descripción":"Pnctr w/o fb of unsp great toe w damage to nail, sequela","Precio":"$634.03","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":681,"Nombre":" mark","Cantidad":7,"Descripción":"Inj intrinsic msl/tnd at ankle and foot level, right foot","Precio":"$909.35","CasaFarmaceutica":"Avon Products, Inc"}
+{"ID":682,"Nombre":" FLUOROURACIL","Cantidad":10,"Descripción":"Path fx in oth disease, r humerus, subs for fx w delay heal","Precio":"$811.80","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":683,"Nombre":" Iodine Bush","Cantidad":10,"Descripción":"Benign carcinoid tumor of the thymus","Precio":"$612.10","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":684,"Nombre":" Saline Laxative","Cantidad":15,"Descripción":"Disp fx of hook pro of hamate bone, l wrs, 7thP","Precio":"$793.41","CasaFarmaceutica":"Supervalu Inc"}
+{"ID":685,"Nombre":" Oxycodone and Acetaminophen","Cantidad":14,"Descripción":"Other assault by drowning and submersion, initial encounter","Precio":"$396.96","CasaFarmaceutica":"Amneal Pharmaceuticals, LLC"}
+{"ID":686,"Nombre":" Bupivacaine Hydrochloride","Cantidad":5,"Descripción":"Displacement of umbrella device, subsequent encounter","Precio":"$726.47","CasaFarmaceutica":"Hospira, Inc."}
+{"ID":687,"Nombre":" GOAT MILK AND LAVENDER SUN","Cantidad":4,"Descripción":"Toxic effect of other seafood, assault, initial encounter","Precio":"$700.37","CasaFarmaceutica":"SKINFOOD CO., LTD."}
+{"ID":688,"Nombre":" Moexipril Hydrochloride and Hydrochlorothiazide","Cantidad":12,"Descripción":"Nondisp fx of l tibial tuberosity, 7thK","Precio":"$652.54","CasaFarmaceutica":"Teva Pharmaceuticals USA Inc"}
+{"ID":689,"Nombre":" RUE21 Doughnut Sprinkles Antibacterial Hand Sanitizer","Cantidad":4,"Descripción":"Nondisp unsp condyle fx low end l femr, 7thD","Precio":"$468.84","CasaFarmaceutica":"ENCHANTE ACCESSORIES INC."}
+{"ID":690,"Nombre":" Clean and Clear","Cantidad":8,"Descripción":"Unsp inflammatory spondylopathy, multiple sites in spine","Precio":"$138.84","CasaFarmaceutica":"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc."}
+{"ID":691,"Nombre":" ARTEMISIA FRIGIDA POLLEN","Cantidad":9,"Descripción":"Strain of flexor musc/fasc/tend finger at wrs/hnd lv, subs","Precio":"$378.71","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":692,"Nombre":" Levothyroxine","Cantidad":11,"Descripción":"Burn 3rd deg mu sites of shldr/up lmb, except wrs/hnd, subs","Precio":"$531.88","CasaFarmaceutica":"Northwind Pharmaceuticals, LLC"}
+{"ID":693,"Nombre":" acid reducer","Cantidad":2,"Descripción":"Nondisp fx of base of unsp MC bone, subs for fx w routn heal","Precio":"$662.08","CasaFarmaceutica":"HyVee Inc"}
+{"ID":694,"Nombre":" Triazolam","Cantidad":3,"Descripción":"Unspecified blood type","Precio":"$688.56","CasaFarmaceutica":"Roxane Laboratories, Inc."}
+{"ID":695,"Nombre":" Oxygen","Cantidad":7,"Descripción":"Nasal polyp, unspecified","Precio":"$579.29","CasaFarmaceutica":"Youngstown Oxygen & Welding Supply, Inc."}
+{"ID":696,"Nombre":" Methenamine Hippurate","Cantidad":4,"Descripción":"Occupant of 3-whl mv injured in collision w nonmtr vehicle","Precio":"$865.07","CasaFarmaceutica":"Rising Pharmaceuticals Inc"}
+{"ID":697,"Nombre":" clonidine hydrochloride","Cantidad":5,"Descripción":"Adverse effect of opium","Precio":"$353.49","CasaFarmaceutica":"NorthStar RxLLC"}
+{"ID":698,"Nombre":" Lymphdrainex","Cantidad":9,"Descripción":"Obstructed labor due to face presentation, unsp","Precio":"$340.85","CasaFarmaceutica":"Energique, Inc."}
+{"ID":699,"Nombre":" Up and Up alcohol","Cantidad":5,"Descripción":"Sltr-haris Type I physl fx upr end rad, unsp arm, 7thG","Precio":"$621.11","CasaFarmaceutica":"Target Corporation"}
+{"ID":700,"Nombre":" Flu Rescue","Cantidad":8,"Descripción":"Unspecified lesions of oral mucosa","Precio":"$442.02","CasaFarmaceutica":"Apotheca Company"}
+{"ID":701,"Nombre":" Verapamil Hydrochloride","Cantidad":12,"Descripción":"Pnctr w fb of abd wall, left lower q w penet perit cav, init","Precio":"$795.65","CasaFarmaceutica":"PD-Rx Pharmaceuticals, Inc."}
+{"ID":702,"Nombre":" Metformin Hydrochloride","Cantidad":13,"Descripción":"Dislocation of interphaln joint of right great toe, subs","Precio":"$559.82","CasaFarmaceutica":"Amneal Pharmaceuticals"}
+{"ID":703,"Nombre":" Degree","Cantidad":15,"Descripción":"Sublux of proximal interphaln joint of left thumb, sequela","Precio":"$991.86","CasaFarmaceutica":"Conopco Inc. d/b/a Unilever"}
+{"ID":704,"Nombre":" Xarelto","Cantidad":7,"Descripción":"Other specified injury of brachial artery","Precio":"$863.16","CasaFarmaceutica":"Janssen Pharmaceuticals, Inc."}
+{"ID":705,"Nombre":" Lac-Hydrin","Cantidad":11,"Descripción":"Other injury due to other accident to fishing boat","Precio":"$753.87","CasaFarmaceutica":"Ranbaxy Laboratories Inc."}
+{"ID":706,"Nombre":" Quetiapine fumarate","Cantidad":6,"Descripción":"Athscl unsp type bypass of the extrm w intrmt claud, bi legs","Precio":"$791.68","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":707,"Nombre":" UltrasolSunscreen","Cantidad":6,"Descripción":"Presence of coronary angioplasty implant and graft","Precio":"$754.08","CasaFarmaceutica":"Fischer Pharmaceuticals Ltd"}
+{"ID":708,"Nombre":" Ziprasidone hydrochloride","Cantidad":7,"Descripción":"Major osseous defect, lower leg","Precio":"$507.15","CasaFarmaceutica":"TYA Pharmaceuticals"}
+{"ID":709,"Nombre":" Meloxicam","Cantidad":12,"Descripción":"Unspecified disp fx of seventh cervical vertebra, sequela","Precio":"$915.91","CasaFarmaceutica":"ReadyMeds"}
+{"ID":710,"Nombre":" Allergy","Cantidad":2,"Descripción":"Strain of other muscles and tendons at lower leg level","Precio":"$790.22","CasaFarmaceutica":"Medicine Shoppe International Inc"}
+{"ID":711,"Nombre":" Mycobutin","Cantidad":10,"Descripción":"Generalized abdominal tenderness","Precio":"$412.62","CasaFarmaceutica":"Pharmacia and Upjohn Company"}
+{"ID":712,"Nombre":" Gentamicin Sulfate","Cantidad":4,"Descripción":"Other physeal fracture of phalanx of left toe, 7thK","Precio":"$995.02","CasaFarmaceutica":"Perrigo New York Inc"}
+{"ID":713,"Nombre":" Hydralazine Hydrochloride","Cantidad":5,"Descripción":"Unspecified fracture of left talus, sequela","Precio":"$374.53","CasaFarmaceutica":"Ascend Laboratories, LLC"}
+{"ID":714,"Nombre":" Dukal Alcohol Prep Pad","Cantidad":9,"Descripción":"Nondisp fx of med condyle of l femr, 7thR","Precio":"$242.33","CasaFarmaceutica":"Dukal Corporation"}
+{"ID":715,"Nombre":" Oxygen","Cantidad":1,"Descripción":"Pretrm prem ROM, onset labor w/n 24 hours of rupt, third tri","Precio":"$58.09","CasaFarmaceutica":"Banner Home Care of Arizona"}
+{"ID":716,"Nombre":" Lip Smacker SPF Cherry Berry Ball","Cantidad":11,"Descripción":"Legal intervnt w firearm disch, law enforc offl inj, init","Precio":"$286.27","CasaFarmaceutica":"Bonne Bell LLC"}
+{"ID":717,"Nombre":" Childrens Pain Relief","Cantidad":3,"Descripción":"Burn third degree of head, face, and neck, unsp site, subs","Precio":"$353.76","CasaFarmaceutica":"Shopko Stores Operating Co., LLC"}
+{"ID":718,"Nombre":" ATOMY TOOTHPASTE","Cantidad":6,"Descripción":"Small cell B-cell lymphoma, intrathoracic lymph nodes","Precio":"$571.18","CasaFarmaceutica":"ATOMY CO LTD"}
+{"ID":719,"Nombre":" Doxycycline Hyclate","Cantidad":15,"Descripción":"Injury of nerves at shoulder and upper arm level","Precio":"$531.05","CasaFarmaceutica":"Chartwell RX LLC"}
+{"ID":720,"Nombre":" Scott-Vincent Borba","Cantidad":9,"Descripción":"Felty's syndrome, unspecified shoulder","Precio":"$147.69","CasaFarmaceutica":"Scott-Vincent Borba"}
+{"ID":721,"Nombre":" RIBASPHERE RibaPak","Cantidad":9,"Descripción":"Mech compl of oth urinary devices and implants, init encntr","Precio":"$883.29","CasaFarmaceutica":"PAR Pharmaceutical Companies, Inc."}
+{"ID":722,"Nombre":" Ironman Glory","Cantidad":2,"Descripción":"Breakdown (mechanical) of int fix of vertebrae","Precio":"$185.43","CasaFarmaceutica":"Avon Products, Inc."}
+{"ID":723,"Nombre":" PRAVASTATIN SODIUM","Cantidad":11,"Descripción":"Unspecified sprain of unspecified finger, subs encntr","Precio":"$924.88","CasaFarmaceutica":"St Marys Medical Park Pharmacy"}
+{"ID":724,"Nombre":" enema","Cantidad":13,"Descripción":"Infect/inflm reaction due to int fix of right femur, subs","Precio":"$516.86","CasaFarmaceutica":"Meijer Distribution Inc"}
+{"ID":725,"Nombre":" Nisoldipine","Cantidad":1,"Descripción":"Adverse effect of slctv serotonin reuptake inhibtr, sequela","Precio":"$53.21","CasaFarmaceutica":"Prasco Laboratories"}
+{"ID":726,"Nombre":" Hydrochlorothiazide","Cantidad":9,"Descripción":"Other spinal muscular atrophies and related syndromes","Precio":"$614.04","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":727,"Nombre":" Losartan Potassium","Cantidad":8,"Descripción":"Oth fx head/neck of l femr, 7thF","Precio":"$752.03","CasaFarmaceutica":"Cadila Healthcare Limited"}
+{"ID":728,"Nombre":" Levothyroxine Sodium","Cantidad":1,"Descripción":"Campylobacter enteritis","Precio":"$84.00","CasaFarmaceutica":"Northwind Pharmaceuticals, LLC"}
+{"ID":729,"Nombre":" Fenofibrate","Cantidad":12,"Descripción":"Discitis, unspecified, occipito-atlanto-axial region","Precio":"$632.43","CasaFarmaceutica":"American Health Packaging"}
+{"ID":730,"Nombre":" povidine iodine","Cantidad":15,"Descripción":"Epidural hemorrhage w LOC >24 hr w ret consc lev, sequela","Precio":"$986.14","CasaFarmaceutica":"Dynarex Corporation"}
+{"ID":731,"Nombre":" topiramate","Cantidad":8,"Descripción":"Barton's fracture of unspecified radius, sequela","Precio":"$131.86","CasaFarmaceutica":"American Health Packaging"}
+{"ID":732,"Nombre":" Methscopolamine Bromide","Cantidad":14,"Descripción":"Corrosion of unspecified degree of right foot, init encntr","Precio":"$471.33","CasaFarmaceutica":"E. Fougera & Co. a division of Fougera Pharmaceuticals Inc."}
+{"ID":733,"Nombre":" Degree","Cantidad":2,"Descripción":"Unspecified dislocation of left acromioclavicular joint","Precio":"$419.64","CasaFarmaceutica":"Conopco Inc. d/b/a Unilever"}
+{"ID":734,"Nombre":" Alka-Seltzer Fruit Chews","Cantidad":14,"Descripción":"Laceration w/o foreign body of r rng fngr w damage to nail","Precio":"$350.37","CasaFarmaceutica":"Bayer HealthCare LLC, Consumer Care"}
+{"ID":735,"Nombre":" Ocean Potion Instant Dry 30 Mist Water Sport Sunscreen","Cantidad":14,"Descripción":"Body mass index (BMI) 31.0-31.9, adult","Precio":"$354.90","CasaFarmaceutica":"Sun & Skin Care Research, LLC"}
+{"ID":736,"Nombre":" Carvedilol","Cantidad":6,"Descripción":"Congenital unstable hip","Precio":"$869.23","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":737,"Nombre":" Silk Antibacterial Foaming Hand Fresh Pear","Cantidad":9,"Descripción":"Nondisp fx of prox phalanx of r mid finger, init for opn fx","Precio":"$305.80","CasaFarmaceutica":"Blue Cross Laboratories, Inc."}
+{"ID":738,"Nombre":" IVA ANNUA VAR ANNUA POLLEN","Cantidad":4,"Descripción":"Vestibular neuronitis, left ear","Precio":"$505.16","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":739,"Nombre":" RABBIT HAIR AND EPITHELIA","Cantidad":1,"Descripción":"Puncture wound with foreign body, left knee","Precio":"$902.55","CasaFarmaceutica":"Allergy Laboratories, Inc."}
+{"ID":740,"Nombre":" COREG","Cantidad":4,"Descripción":"Lesion of radial nerve, left upper limb","Precio":"$665.63","CasaFarmaceutica":"GlaxoSmithKline LLC"}
+{"ID":741,"Nombre":" Wakefern","Cantidad":1,"Descripción":"Other spondylosis with radiculopathy, site unspecified","Precio":"$403.69","CasaFarmaceutica":"Wakefern"}
+{"ID":742,"Nombre":" TRILYTE","Cantidad":10,"Descripción":"Unsp traum displ spondylolysis of fourth cervcal vertebra","Precio":"$517.72","CasaFarmaceutica":"Alaven Pharmaceutical LLC"}
+{"ID":743,"Nombre":" ibuprofen","Cantidad":6,"Descripción":"Malig neoplm of ovrlp sites of heart, mediastinum and pleura","Precio":"$389.50","CasaFarmaceutica":"Publix Super Markets Inc"}
+{"ID":744,"Nombre":" Temovate","Cantidad":15,"Descripción":"Sltr-haris Type I physl fx upper end radius, left arm, init","Precio":"$410.95","CasaFarmaceutica":"PharmaDerm A division of Fougera Pharmaceuticals Inc."}
+{"ID":745,"Nombre":" White Pine","Cantidad":8,"Descripción":"Person injured wh brd/alit from special agri vehicle, init","Precio":"$544.19","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":746,"Nombre":" Night Time Original","Cantidad":12,"Descripción":"Sltr-haris Type I physeal fx unspecified metatarsal, sequela","Precio":"$943.36","CasaFarmaceutica":"Nash-Finch Company"}
+{"ID":747,"Nombre":" Methocarbamol","Cantidad":6,"Descripción":"Carnitine deficiency due to inborn errors of metabolism","Precio":"$152.10","CasaFarmaceutica":"H.J. Harkins Company, Inc."}
+{"ID":748,"Nombre":" Assured Day time Cold and Cough","Cantidad":15,"Descripción":"Poisoning by other viral vaccines, assault, sequela","Precio":"$146.82","CasaFarmaceutica":"Bio-Pharm, Inc."}
+{"ID":749,"Nombre":" Cocklebur","Cantidad":4,"Descripción":"Unspecified open wound, right ankle, initial encounter","Precio":"$975.78","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":750,"Nombre":" Isopropyl Alcohol","Cantidad":3,"Descripción":"Sprain of unspecified ligament of left ankle","Precio":"$467.67","CasaFarmaceutica":"Kroger Co"}
+{"ID":751,"Nombre":" KONSYL Sugar Free Orange Flavor Psyllium Fiber","Cantidad":12,"Descripción":"Dislocation of tarsometatarsal joint of right foot, sequela","Precio":"$779.84","CasaFarmaceutica":"Konsyl Pharmaceuticals, Inc."}
+{"ID":752,"Nombre":" Ziprasidone Hydrochloride","Cantidad":14,"Descripción":"Unspecified injury of dorsal vein of left foot, subs encntr","Precio":"$737.20","CasaFarmaceutica":"Lupin Pharmaceuticals, Inc."}
+{"ID":753,"Nombre":" Childrens Mucus Relief Expectorant Grape","Cantidad":8,"Descripción":"Lac w/o fb of abd wall, l upr q w/o penet perit cav, subs","Precio":"$272.84","CasaFarmaceutica":"Good Neighbor Pharmacy"}
+{"ID":754,"Nombre":" SPONGIA TOSTA","Cantidad":5,"Descripción":"Other physeal fracture of right metatarsal, 7thG","Precio":"$840.56","CasaFarmaceutica":"Hyland's"}
+{"ID":755,"Nombre":" Piroxicam","Cantidad":4,"Descripción":"Interstitial myositis, unspecified hand","Precio":"$241.22","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":756,"Nombre":" Rohto Relief","Cantidad":1,"Descripción":"Open bite of unspecified breast, initial encounter","Precio":"$876.96","CasaFarmaceutica":"The Mentholatum Company"}
+{"ID":757,"Nombre":" HEPAR SULPHURIS CALCAREUM","Cantidad":6,"Descripción":"Nondisp intertroch fx r femr, 7thF","Precio":"$696.23","CasaFarmaceutica":"REMEDY MAKERS"}
+{"ID":758,"Nombre":" Cerafill Retaliate","Cantidad":8,"Descripción":"Strain of musc/fasc/tend long head of biceps, unsp arm, subs","Precio":"$565.21","CasaFarmaceutica":"L'oreal Usa, Inc."}
+{"ID":759,"Nombre":" BeneFIX","Cantidad":15,"Descripción":"Superficial foreign body, unspecified knee, init encntr","Precio":"$902.34","CasaFarmaceutica":"Wyeth BioPharma Division of Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc."}
+{"ID":760,"Nombre":" edarbi","Cantidad":3,"Descripción":"Nondisp oblique fx shaft of r ulna, 7thN","Precio":"$210.69","CasaFarmaceutica":"Takeda Pharmaceuticals America, Inc."}
+{"ID":761,"Nombre":" Prednisolone Sodium Phosphate","Cantidad":9,"Descripción":"Corrosion of unspecified degree of right wrist, init encntr","Precio":"$415.17","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":762,"Nombre":" Hydromorphone Hydrochloride","Cantidad":9,"Descripción":"Unsp fx second MC bone, right hand, subs for fx w delay heal","Precio":"$160.02","CasaFarmaceutica":"Mallinckrodt, Inc."}
+{"ID":763,"Nombre":" Nicotine UN1654","Cantidad":9,"Descripción":"Osteonecrosis in diseases classified elsewhere, right thigh","Precio":"$924.17","CasaFarmaceutica":"Nicobrand LTD"}
+{"ID":764,"Nombre":" Atenolol","Cantidad":2,"Descripción":"Struck by falling object on oth powered watercraft, subs","Precio":"$609.38","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":765,"Nombre":" TAVIST","Cantidad":5,"Descripción":"Unspecified kyphosis, cervicothoracic region","Precio":"$879.64","CasaFarmaceutica":"Novartis Consumer Health, Inc."}
+{"ID":766,"Nombre":" Pramipexole Dihydrochloride","Cantidad":14,"Descripción":"Toxic effect of phosphorus and its compounds, self-harm","Precio":"$430.66","CasaFarmaceutica":"Breckenridge Pharmaceutical, Inc."}
+{"ID":767,"Nombre":" Desferal","Cantidad":8,"Descripción":"Athscl native arteries of extrm w gangrene, unsp extremity","Precio":"$534.56","CasaFarmaceutica":"Novartis Pharmaceuticals Corporation"}
+{"ID":768,"Nombre":" Invirase","Cantidad":3,"Descripción":"Disp fx of lateral end l clavicle, subs for fx w routn heal","Precio":"$860.51","CasaFarmaceutica":"Genentech, Inc."}
+{"ID":769,"Nombre":" Ranitidine","Cantidad":6,"Descripción":"Abrasion of unspecified ear, initial encounter","Precio":"$772.26","CasaFarmaceutica":"Unit Dose Services"}
+{"ID":770,"Nombre":" ziprasidone hydrochloride","Cantidad":7,"Descripción":"Breakdown of vascular dialysis catheter, sequela","Precio":"$403.23","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":771,"Nombre":" Ultra Nutrition Eye","Cantidad":8,"Descripción":"Oth disrd of bone density and structure, right shoulder","Precio":"$18.74","CasaFarmaceutica":"AMI Cosmetic Co.,Ltd."}
+{"ID":772,"Nombre":" GENOTROPIN","Cantidad":11,"Descripción":"Unspecified subluxation of unspecified hip, sequela","Precio":"$712.47","CasaFarmaceutica":"Pharmacia and Upjohn Company"}
+{"ID":773,"Nombre":" Levothyroxine sodium","Cantidad":1,"Descripción":"Displaced fracture of neck of unspecified metacarpal bone","Precio":"$686.28","CasaFarmaceutica":"Sandoz Inc."}
+{"ID":774,"Nombre":" Micro-K Extencaps","Cantidad":4,"Descripción":"Sltr-haris Type III physl fx low end unsp tibia, 7thK","Precio":"$890.91","CasaFarmaceutica":"Ther-Rx Corporation"}
+{"ID":775,"Nombre":" DiorSkin Nude 052 Rosy Bronze","Cantidad":1,"Descripción":"Other fracture of unspecified femur","Precio":"$106.27","CasaFarmaceutica":"Parfums Christian Dior"}
+{"ID":776,"Nombre":" Thymupar","Cantidad":9,"Descripción":"Zygomatic fracture, left side, 7thB","Precio":"$196.62","CasaFarmaceutica":"Apotheca Company"}
+{"ID":777,"Nombre":" pain relief pm","Cantidad":7,"Descripción":"Orbital myositis, right orbit","Precio":"$694.24","CasaFarmaceutica":"Meijer Distribution Inc"}
+{"ID":778,"Nombre":" modafinil","Cantidad":8,"Descripción":"Dislocation of proximal interphaln joint of l idx fngr, subs","Precio":"$936.81","CasaFarmaceutica":"Aphena Pharma Solutions - Tennessee, LLC"}
+{"ID":779,"Nombre":" Hand Wash Nettoyant Pour Les Mains Vallina Tuberose","Cantidad":10,"Descripción":"Motorcycle rider injured in collision w oth nonmotor vehicle","Precio":"$959.68","CasaFarmaceutica":"Xiamen Anna Global Co., Ltd"}
+{"ID":780,"Nombre":" Rimmel London","Cantidad":4,"Descripción":"Displ suprcndl fx w intrcndl extn low end unsp femr, 7thN","Precio":"$190.67","CasaFarmaceutica":"Lancaster S.A.M."}
+{"ID":781,"Nombre":" Hand Wash Nettoyant Pour Les Mains Orange Pekoe","Cantidad":6,"Descripción":"Unspecified abdominal hernia without obstruction or gangrene","Precio":"$123.50","CasaFarmaceutica":"Xiamen Anna Global Co., Ltd"}
+{"ID":782,"Nombre":" Cetirizine Hydrochloride","Cantidad":10,"Descripción":"Corrosion of unsp degree of unspecified palm, init encntr","Precio":"$568.93","CasaFarmaceutica":"Pack Pharmaceuticals LLC"}
+{"ID":783,"Nombre":" Moisturizer SPF15","Cantidad":13,"Descripción":"Dyshidrosis [pompholyx]","Precio":"$314.33","CasaFarmaceutica":"Goodier Cosmetics LP"}
+{"ID":784,"Nombre":" age renewal deep wrinkle moisturizer","Cantidad":8,"Descripción":"Other physeal fracture of left calcaneus","Precio":"$26.98","CasaFarmaceutica":"AMCOL Health and Beauty Solutions, Inc."}
+{"ID":785,"Nombre":" Carvedilol","Cantidad":3,"Descripción":"Other sprain of left elbow","Precio":"$437.59","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":786,"Nombre":" Nortriptyline Hydrochloride","Cantidad":12,"Descripción":"Nondisp Rolando's fracture, l hand, subs for fx w nonunion","Precio":"$597.92","CasaFarmaceutica":"Clinical Solutions Wholesale"}
+{"ID":787,"Nombre":" Ludent","Cantidad":8,"Descripción":"Soft tissue disorder, unspecified","Precio":"$126.77","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":788,"Nombre":" Carvedilol","Cantidad":3,"Descripción":"Passenger on bus injured in clsn w unsp mv nontraf, init","Precio":"$623.31","CasaFarmaceutica":"Aurobindo Pharma Limited"}
+{"ID":789,"Nombre":" Aspirin Free Pain Relief","Cantidad":9,"Descripción":"Other premature separation of placenta, first trimester","Precio":"$708.54","CasaFarmaceutica":"Safeway"}
+{"ID":790,"Nombre":" Quinapril Hydrochloride and Hydrochlorothiazide","Cantidad":10,"Descripción":"Pnctr w/o foreign body of finger w/o damage to nail, subs","Precio":"$553.96","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":791,"Nombre":" CLINDAMYCIN","Cantidad":6,"Descripción":"Toxic effect of corrosive organic compounds, undet, sequela","Precio":"$955.38","CasaFarmaceutica":"General Injectables & Vaccines, Inc"}
+{"ID":792,"Nombre":" Loperamide Hydrochloride","Cantidad":8,"Descripción":"War operations involving explosion of torpedo, milt, subs","Precio":"$87.67","CasaFarmaceutica":"Cardinal Health"}
+{"ID":793,"Nombre":" Antimicrobial Hand","Cantidad":3,"Descripción":"Collapsed vertebra, NEC, lumbosacral region, sqla","Precio":"$334.43","CasaFarmaceutica":"Moore Medical LLC"}
+{"ID":794,"Nombre":" Folic Acid","Cantidad":5,"Descripción":"Other disorders of tooth development","Precio":"$876.29","CasaFarmaceutica":"Qualitest Pharmaceuticals"}
+{"ID":795,"Nombre":" GORILLA WARFARE","Cantidad":8,"Descripción":"Diseases of the nervous sys comp pregnancy, third trimester","Precio":"$473.68","CasaFarmaceutica":"G.S. COSMECEUTICAL USA, INC."}
+{"ID":796,"Nombre":" Morphine Sulfate","Cantidad":12,"Descripción":"Disp fx of med wall of unsp acetab, subs for fx w routn heal","Precio":"$253.30","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":797,"Nombre":" Goldlove Hand Sanitizer","Cantidad":6,"Descripción":"Inj oth blood vessels at wrist and hand level of left arm","Precio":"$314.36","CasaFarmaceutica":"Cixi Zhixin Bird Clean-care Product Co., Ltd."}
+{"ID":798,"Nombre":" Edarbyclor","Cantidad":4,"Descripción":"Toxic effect of tobacco cigarettes, self-harm, sequela","Precio":"$574.02","CasaFarmaceutica":"Arbor Pharmaceuticals Ireland Limited"}
+{"ID":799,"Nombre":" Green Guard Ibupro Relief","Cantidad":15,"Descripción":"Other specified disorders of synovium, right elbow","Precio":"$818.74","CasaFarmaceutica":"Unifirst First Aid Corporation"}
+{"ID":800,"Nombre":" rea lo 40","Cantidad":7,"Descripción":"Unsp fx low end unsp ulna, 7thH","Precio":"$806.18","CasaFarmaceutica":"Crown Laboratories"}
+{"ID":801,"Nombre":" Liothyronine sodium","Cantidad":3,"Descripción":"Matern care for known or susp placntl insuff, 2nd tri, unsp","Precio":"$904.96","CasaFarmaceutica":"Mylan Pharmaceuticals Inc."}
+{"ID":802,"Nombre":" ACONITUM NAPELLUS","Cantidad":13,"Descripción":"Oth fx shaft of l femur, subs for opn fx type I/2 w nonunion","Precio":"$491.22","CasaFarmaceutica":"HOMEOLAB USA INC"}
+{"ID":803,"Nombre":" Sween 24","Cantidad":11,"Descripción":"Unsp injury of muscle, fascia and tendon of abdomen, sequela","Precio":"$802.86","CasaFarmaceutica":"Coloplast Manufacturing US, LLC"}
+{"ID":804,"Nombre":" Dopamine Hydrochloride and Dextrose","Cantidad":4,"Descripción":"Inj oth blood vessels at lower leg level, left leg, sequela","Precio":"$851.74","CasaFarmaceutica":"Hospira, Inc."}
+{"ID":805,"Nombre":" Lortab","Cantidad":13,"Descripción":"Dual sensory impairment","Precio":"$261.52","CasaFarmaceutica":"A-S Medication Solutions LLC"}
+{"ID":806,"Nombre":" Doxorubicin Hydrochloride","Cantidad":13,"Descripción":"Type II occipital condyle fracture, unspecified side, 7thB","Precio":"$337.55","CasaFarmaceutica":"Sun Pharma Global FZE"}
+{"ID":807,"Nombre":" Tiger Balm","Cantidad":5,"Descripción":"Blister (nonthermal) of right upper arm, subs encntr","Precio":"$504.42","CasaFarmaceutica":"Haw Par Healthcare Ltd."}
+{"ID":808,"Nombre":" Bengay Ultra Strength Pain Relieving","Cantidad":6,"Descripción":"Disp fx of head of r rad, 7thN","Precio":"$969.75","CasaFarmaceutica":"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc."}
+{"ID":809,"Nombre":" Octreotide acetate","Cantidad":3,"Descripción":"Nondisp seg fx shaft of humer, l arm, 7thD","Precio":"$41.07","CasaFarmaceutica":"Wockhardt USA LLC."}
+{"ID":810,"Nombre":" Calcipotriene","Cantidad":7,"Descripción":"Strain extensor musc/fasc/tend l rng fngr at forarm lv, init","Precio":"$62.89","CasaFarmaceutica":"G & W Laboratories, Inc."}
+{"ID":811,"Nombre":" Levothyroxine Sodium","Cantidad":13,"Descripción":"Acanthosis nigricans","Precio":"$380.36","CasaFarmaceutica":"PD-Rx Pharmaceuticals, Inc."}
+{"ID":812,"Nombre":" SHISEIDO BENEFIANCE NUTRIPERFECT DAY","Cantidad":3,"Descripción":"Toxic effect of venom of snake, accidental, subs","Precio":"$364.20","CasaFarmaceutica":"SHISEIDO AMERICA INC."}
+{"ID":813,"Nombre":" Antiseptic","Cantidad":7,"Descripción":"Calcific tendinitis of unspecified shoulder","Precio":"$14.81","CasaFarmaceutica":"Onpoint, Inc"}
+{"ID":814,"Nombre":" Lisinopril","Cantidad":11,"Descripción":"Unspecified perichondritis of right external ear","Precio":"$754.90","CasaFarmaceutica":"Aurobindo Pharma Limited"}
+{"ID":815,"Nombre":" Drink Ease","Cantidad":7,"Descripción":"Unsp injury of blood vessels at wrs/hnd lv of left arm, subs","Precio":"$656.06","CasaFarmaceutica":"LC Industries"}
+{"ID":816,"Nombre":" Nobac Plus AB-F","Cantidad":11,"Descripción":"Passenger on bus injured in clsn w oth and unsp mv nontraf","Precio":"$787.99","CasaFarmaceutica":"Mason Chemical Company"}
+{"ID":817,"Nombre":" Vapor Plus","Cantidad":14,"Descripción":"Postprocedural urethral stricture, female","Precio":"$722.85","CasaFarmaceutica":"Pharmadel LLC"}
+{"ID":818,"Nombre":" Treatment Set TS340053","Cantidad":13,"Descripción":"Milt op involving oth explosn and fragmt, civilian, sequela","Precio":"$913.75","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":819,"Nombre":" SyGest","Cantidad":1,"Descripción":"Filamentary keratitis, left eye","Precio":"$904.04","CasaFarmaceutica":"Syntrion GmbH"}
+{"ID":820,"Nombre":" Nystatin","Cantidad":3,"Descripción":"Degeneration of pupillary margin, left eye","Precio":"$16.54","CasaFarmaceutica":"Preferred Pharmaceuticals, Inc"}
+{"ID":821,"Nombre":" Levothyroxine Sodium","Cantidad":8,"Descripción":"Carbuncle of limb","Precio":"$590.85","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":822,"Nombre":" L-Methylfolate Calcium","Cantidad":10,"Descripción":"Burn unsp degree of unsp mult fngr, not inc thumb, sqla","Precio":"$198.61","CasaFarmaceutica":"Virtus Pharmaceuticals"}
+{"ID":823,"Nombre":" ANTIBACTERIAL WIPES Candy Apple","Cantidad":10,"Descripción":"Congenital absence, atresia and stenosis of jejunum","Precio":"$681.10","CasaFarmaceutica":"BB17, LLC"}
+{"ID":824,"Nombre":" SaniSuds Foam Hand Sanitizer","Cantidad":1,"Descripción":"Paralytic calcifcn and ossification of muscle, right ank/ft","Precio":"$851.75","CasaFarmaceutica":"Palmer Fixture Company"}
+{"ID":825,"Nombre":" LBEL","Cantidad":2,"Descripción":"Activities involving computer tech and electrnc devices","Precio":"$478.51","CasaFarmaceutica":"Ventura Corporation LTD."}
+{"ID":826,"Nombre":" NITROGEN","Cantidad":9,"Descripción":"Inj unsp blood vess at hip and thi lev, left leg, sequela","Precio":"$63.44","CasaFarmaceutica":"Welders Supply Company"}
+{"ID":827,"Nombre":" Health Mart Mucus ER","Cantidad":14,"Descripción":"Oth diseases and conditions compl preg/chldbrth","Precio":"$542.49","CasaFarmaceutica":"McKesson"}
+{"ID":828,"Nombre":" Pandanus Calc. carb.","Cantidad":3,"Descripción":"Unsp injury of ulnar artery at wrs/hnd lv of right arm, subs","Precio":"$254.40","CasaFarmaceutica":"Uriel Pharmacy Inc."}
+{"ID":829,"Nombre":" Desert Sage","Cantidad":12,"Descripción":"Sprain of tarsometatarsal ligament of unsp foot, subs encntr","Precio":"$97.02","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":830,"Nombre":" Diphenoxylate Hydrochloride and Atropine Sulfate","Cantidad":4,"Descripción":"Displacement of artificial heart, subsequent encounter","Precio":"$959.81","CasaFarmaceutica":"Greenstone LLC"}
+{"ID":831,"Nombre":" METOPROLOL SUCCINATE","Cantidad":11,"Descripción":"Unsp fracture of shaft of humerus, left arm, init for opn fx","Precio":"$734.62","CasaFarmaceutica":"Major Pharmaceuticals"}
+{"ID":832,"Nombre":" promethazine hydrochloride","Cantidad":2,"Descripción":"Secondary lacrimal gland atrophy, unspecified lacrimal gland","Precio":"$90.32","CasaFarmaceutica":"Caraco Pharmaceutical Laboratories, Ltd."}
+{"ID":833,"Nombre":" Tiazac Extended Release","Cantidad":9,"Descripción":"Bent bone of left ulna","Precio":"$850.33","CasaFarmaceutica":"Cardinal Health"}
+{"ID":834,"Nombre":" Soliris","Cantidad":1,"Descripción":"Hypospadias, penile","Precio":"$758.80","CasaFarmaceutica":"Alexion Pharmaceuticals Inc."}
+{"ID":835,"Nombre":" Allergy Relief","Cantidad":15,"Descripción":"Other dislocation of left knee, initial encounter","Precio":"$159.05","CasaFarmaceutica":"Mckesson (Sunmark)"}
+{"ID":836,"Nombre":" Triple Antibiotic Plus Pain Relief","Cantidad":8,"Descripción":"Other complications of anesthesia during labor and delivery","Precio":"$262.72","CasaFarmaceutica":"Valu Merchandisers, Co."}
+{"ID":837,"Nombre":" Aspirin","Cantidad":4,"Descripción":"Displ avuls fracture (chip fracture) of right talus, sequela","Precio":"$774.06","CasaFarmaceutica":"CVS Pharmacy"}
+{"ID":838,"Nombre":" Anacardium Homaccord","Cantidad":14,"Descripción":"Nondisp longitud fx l patella, subs for clos fx w routn heal","Precio":"$246.89","CasaFarmaceutica":"Heel Inc"}
+{"ID":839,"Nombre":" Fanatrex","Cantidad":15,"Descripción":"Unsp injury of anterior tibial artery, left leg, sequela","Precio":"$596.60","CasaFarmaceutica":"Fusion Pharmaceuticals LLC"}
+{"ID":840,"Nombre":" STRIDEX","Cantidad":12,"Descripción":"Spontaneous rupture of other tendons, thigh","Precio":"$264.97","CasaFarmaceutica":"Blistex inc"}
+{"ID":841,"Nombre":" Adderall","Cantidad":9,"Descripción":"Disp fx of medial epicondyle of r humerus, init for opn fx","Precio":"$121.45","CasaFarmaceutica":"Teva Select Brands"}
+{"ID":842,"Nombre":" Tramadol Hydrochloride","Cantidad":1,"Descripción":"Puncture wound with foreign body, right knee","Precio":"$350.99","CasaFarmaceutica":"Rhodes Pharmaceuticals L.P."}
+{"ID":843,"Nombre":" QCare Rx Oral Cleansing and Suctioning System, Q2","Cantidad":4,"Descripción":"Exposure to bed fire due to other burning material","Precio":"$154.48","CasaFarmaceutica":"Sage Products LLC"}
+{"ID":844,"Nombre":" allergy","Cantidad":11,"Descripción":"Injury of peritoneum, sequela","Precio":"$907.47","CasaFarmaceutica":"Kroger Company"}
+{"ID":845,"Nombre":" PHAZYME","Cantidad":13,"Descripción":"Displ commnt fx shaft of humer, r arm, 7thG","Precio":"$761.71","CasaFarmaceutica":"Preferred Pharmaceuticals, Inc"}
+{"ID":846,"Nombre":" Spascupreel","Cantidad":9,"Descripción":"Disp fx of head of right radius, subs for clos fx w malunion","Precio":"$45.09","CasaFarmaceutica":"Hameln Pharma GmbH"}
+{"ID":847,"Nombre":" ARANESP","Cantidad":10,"Descripción":"Other fracture of lesser toe(s)","Precio":"$415.33","CasaFarmaceutica":"Amgen Inc"}
+{"ID":848,"Nombre":" Doxepin Hydrochloride","Cantidad":4,"Descripción":"Hypochondriacal disorder, unspecified","Precio":"$531.29","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":849,"Nombre":" Flecainide Acetate","Cantidad":2,"Descripción":"Disp fx of anterior wall of right acetabulum, sequela","Precio":"$797.24","CasaFarmaceutica":"Roxane Laboratories, Inc."}
+{"ID":850,"Nombre":" Phenylephrine HCl","Cantidad":5,"Descripción":"Unspecified sprain of sternum, sequela","Precio":"$826.24","CasaFarmaceutica":"Cantrell Drug Company"}
+{"ID":851,"Nombre":" BROMUS INERMIS POLLEN","Cantidad":2,"Descripción":"Breakdown (mechanical) of indwelling urethral catheter, init","Precio":"$896.56","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":852,"Nombre":" iBaba","Cantidad":1,"Descripción":"Insect bite of right eyelid and periocular area, init","Precio":"$211.39","CasaFarmaceutica":"Feelgood Health"}
+{"ID":853,"Nombre":" PREP PLUS PRIME BB BEAUTY BALM COMPACT","Cantidad":4,"Descripción":"Enteropathic arthropathies, unspecified hip","Precio":"$609.51","CasaFarmaceutica":"MAKEUP ART COSMETICS"}
+{"ID":854,"Nombre":" Insomnia","Cantidad":1,"Descripción":"Unspecified injury of popliteal vein, right leg, init encntr","Precio":"$979.00","CasaFarmaceutica":"Liddell Laboratories, Inc."}
+{"ID":855,"Nombre":" LOreal Paris Visible Lift Repair Absolute Rapid Age Reversing Makeup Broad Spectrum SPF 16 Sunscreen","Cantidad":10,"Descripción":"Concussion w LOC of 30 minutes or less, sequela","Precio":"$522.70","CasaFarmaceutica":"L'Oreal USA Products Inc"}
+{"ID":856,"Nombre":" PROMETHAZINE HYDROCHLORIDE","Cantidad":11,"Descripción":"Felty's syndrome, unspecified knee","Precio":"$287.71","CasaFarmaceutica":"Direct Rx"}
+{"ID":857,"Nombre":" Lysol","Cantidad":4,"Descripción":"Atresia of esophagus with tracheo-esophageal fistula","Precio":"$111.44","CasaFarmaceutica":"Reckitt Benckiser LLC"}
+{"ID":858,"Nombre":" DOCTORS CHOICE","Cantidad":4,"Descripción":"Expsr to resdnce or prolonged visit at high altitude, subs","Precio":"$693.85","CasaFarmaceutica":"Massco Dental A Division of Dunagin Pharmaceuticals"}
+{"ID":859,"Nombre":" Pleo Art U","Cantidad":8,"Descripción":"Conductive hear loss, uni, with restricted hear cntra side","Precio":"$924.13","CasaFarmaceutica":"Sanum Kehlbeck GmbH & Co. KG"}
+{"ID":860,"Nombre":" Lymphdrainex","Cantidad":5,"Descripción":"Burn of first degree of left foot","Precio":"$363.52","CasaFarmaceutica":"Energique, Inc."}
+{"ID":861,"Nombre":" Doxepin Hydrochloride","Cantidad":13,"Descripción":"Disp fx of posterior wall of right acetabulum, init","Precio":"$554.18","CasaFarmaceutica":"H.J. Harkins Company, Inc."}
+{"ID":862,"Nombre":" Simvastatin","Cantidad":10,"Descripción":"Oth fx upr end l ulna, subs for opn fx type I/2 w delay heal","Precio":"$509.77","CasaFarmaceutica":"Ranbaxy Pharmaceuticals Inc."}
+{"ID":863,"Nombre":" Baby Butz","Cantidad":1,"Descripción":"Non-prs chr ulcer of left heel and midft lmt to brkdwn skin","Precio":"$788.76","CasaFarmaceutica":"Olen Cosmetics Corporation"}
+{"ID":864,"Nombre":" Depo-Testosterone","Cantidad":14,"Descripción":"Other superficial bite of right lesser toe(s), sequela","Precio":"$498.12","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":865,"Nombre":" Chewable Aspirin","Cantidad":7,"Descripción":"Chronic periodontitis, generalized, severe","Precio":"$247.24","CasaFarmaceutica":"VALUE MERCHANDISERS COMPANY, INC."}
+{"ID":866,"Nombre":" Absolute Total BB SPF37 PA 3Plus","Cantidad":5,"Descripción":"Intestinal obstruction due to inspissated milk","Precio":"$786.70","CasaFarmaceutica":"WIZCOZ CORPORATION LTD"}
+{"ID":867,"Nombre":" DIBROMM","Cantidad":4,"Descripción":"Torus fracture of lower end of unspecified ulna","Precio":"$181.62","CasaFarmaceutica":"Major Pharmaceuticals"}
+{"ID":868,"Nombre":" FIRST BXN Mouthwash","Cantidad":7,"Descripción":"Disorder of pancreatic internal secretion, unspecified","Precio":"$757.16","CasaFarmaceutica":"CutisPharma, Inc"}
+{"ID":869,"Nombre":" Sweet Gum","Cantidad":4,"Descripción":"Nondisp fx of shaft of third MC bone, right hand, sequela","Precio":"$339.75","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":870,"Nombre":" RACHEL K MINERAL CC","Cantidad":7,"Descripción":"Displaced dome fx right talus, subs for fx w delay heal","Precio":"$277.17","CasaFarmaceutica":"RACHEL K COSMETICS PTE. LTD."}
+{"ID":871,"Nombre":" Glimepiride","Cantidad":10,"Descripción":"Other specified perinatal digestive system disorders","Precio":"$523.03","CasaFarmaceutica":"Blenheim Pharmacal, Inc."}
+{"ID":872,"Nombre":" Spironolactone","Cantidad":3,"Descripción":"Unspecified hearing loss, bilateral","Precio":"$506.28","CasaFarmaceutica":"UDL Laboratories, Inc."}
+{"ID":873,"Nombre":" Throat Care","Cantidad":7,"Descripción":"Physeal arrest, femur","Precio":"$156.82","CasaFarmaceutica":"Newton Laboratories, Inc."}
+{"ID":874,"Nombre":" Folic Acid","Cantidad":9,"Descripción":"Underdosing of other systemic antibiotics, sequela","Precio":"$19.91","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":875,"Nombre":" ESIKA","Cantidad":4,"Descripción":"Spontaneous rupture of other tendons, lower leg","Precio":"$21.79","CasaFarmaceutica":"Ventura Corporation (San Juan, P.R)"}
+{"ID":876,"Nombre":" Furosemide","Cantidad":13,"Descripción":"Sprain of interphalangeal joint of right great toe","Precio":"$89.93","CasaFarmaceutica":"Cardinal Health"}
+{"ID":877,"Nombre":" Arthritis Pain Reliever","Cantidad":12,"Descripción":"Unspecified adult maltreatment, confirmed, subs encntr","Precio":"$538.87","CasaFarmaceutica":"Ohm Laboratories Inc."}
+{"ID":878,"Nombre":" Neutrogena Clear Face Break-Out Free Sunscreen","Cantidad":3,"Descripción":"Traumatic spondylopathy, occipito-atlanto-axial region","Precio":"$437.75","CasaFarmaceutica":"Neutrogena Corporation"}
+{"ID":879,"Nombre":" CAREALL Bacitracin","Cantidad":10,"Descripción":"Lac w fb of abd wall, right lower q w penet perit cav, init","Precio":"$471.36","CasaFarmaceutica":"New World Imports, Inc"}
+{"ID":880,"Nombre":" Pilocarpine Hydrochloride","Cantidad":15,"Descripción":"Nondisp fx of capitate bone, right wrist, init for clos fx","Precio":"$104.99","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":881,"Nombre":" Leader Allerhist","Cantidad":8,"Descripción":"Torus fracture of lower end of unsp ulna, init for clos fx","Precio":"$726.85","CasaFarmaceutica":"Cardinal Health"}
+{"ID":882,"Nombre":" DAYWEAR","Cantidad":13,"Descripción":"Coma scale, eyes open, spontaneous, EMR","Precio":"$578.57","CasaFarmaceutica":"ESTEE LAUDER INC"}
+{"ID":883,"Nombre":" RITE AID RENEWAL","Cantidad":8,"Descripción":"Sltr-haris Type I physeal fx lower end of ulna, right arm","Precio":"$972.41","CasaFarmaceutica":"RITE AID CORPORATION"}
+{"ID":884,"Nombre":" Dye-Free Wal-Dryl","Cantidad":13,"Descripción":"Laceration w fb of abd wall, epigst rgn w penet perit cav","Precio":"$540.04","CasaFarmaceutica":"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED"}
+{"ID":885,"Nombre":" Lovastatin","Cantidad":11,"Descripción":"Explosion of bicycle tire, initial encounter","Precio":"$66.03","CasaFarmaceutica":"Mylan Pharmaceuticals Inc."}
+{"ID":886,"Nombre":" Divalproex Sodium","Cantidad":15,"Descripción":"Pnctr w fb of right lesser toe(s) w/o damage to nail, subs","Precio":"$983.99","CasaFarmaceutica":"Lake Erie Medical DBA Quality Care Products LLC"}
+{"ID":887,"Nombre":" Lovastatin","Cantidad":15,"Descripción":"Unspecified dislocation of unspecified hip, subs encntr","Precio":"$454.23","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":888,"Nombre":" Naproxen Sodium","Cantidad":13,"Descripción":"Nondisp fx of prox 3rd of navic bone of l wrs, 7thP","Precio":"$175.97","CasaFarmaceutica":"Keltman Pharmaceuticals Inc."}
+{"ID":889,"Nombre":" athletes foot","Cantidad":10,"Descripción":"Cutaneous abscess of left axilla","Precio":"$376.10","CasaFarmaceutica":"Walgreen Company"}
+{"ID":890,"Nombre":" Oatmeal Daily Moisturizing","Cantidad":1,"Descripción":"Lacerat msl/tnd lng extn msl toe at ank/ft lev, r foot, sqla","Precio":"$351.63","CasaFarmaceutica":"Davion, Inc"}
+{"ID":891,"Nombre":" Aluminum Hydroxide","Cantidad":14,"Descripción":"Poisoning by oth nonsteroid anti-inflam drugs, undetermined","Precio":"$975.04","CasaFarmaceutica":"LLC Federal Solutions"}
+{"ID":892,"Nombre":" SPF-60","Cantidad":7,"Descripción":"Displ Maisonneuve's fx unsp leg, 7thQ","Precio":"$957.12","CasaFarmaceutica":"Neutraderm, Inc."}
+{"ID":893,"Nombre":" Pitressin","Cantidad":3,"Descripción":"Coma scale, best verbal response, inappropriate words, admit","Precio":"$189.79","CasaFarmaceutica":"Cardinal Health"}
+{"ID":894,"Nombre":" Isopropyl alcohol","Cantidad":7,"Descripción":"Underdosing of inhaled anesthetics, initial encounter","Precio":"$619.70","CasaFarmaceutica":"QUALITY CHOICE (Chain Drug Marketing Association)"}
+{"ID":895,"Nombre":" Low-Ogestrel","Cantidad":5,"Descripción":"Bather struck by nonpowered watercraft, initial encounter","Precio":"$403.16","CasaFarmaceutica":"Watson Pharma, Inc."}
+{"ID":896,"Nombre":" nighttime cold and flu relief","Cantidad":1,"Descripción":"Displ commnt fx shaft of unsp tibia, 7thQ","Precio":"$95.26","CasaFarmaceutica":"Walgreen Company"}
+{"ID":897,"Nombre":" USTILAGO MAYDIS","Cantidad":8,"Descripción":"Displ bicondylar fx l tibia, 7thM","Precio":"$126.36","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":898,"Nombre":" SESAME SEED","Cantidad":5,"Descripción":"Frostbite w tissue necrosis of left knee and lower leg, subs","Precio":"$948.30","CasaFarmaceutica":"Allergy Laboratories, Inc."}
+{"ID":899,"Nombre":" Amlodipine Besylate","Cantidad":11,"Descripción":"Nondisplaced dome fracture of left acetabulum, sequela","Precio":"$875.38","CasaFarmaceutica":"REMEDYREPACK INC."}
+{"ID":900,"Nombre":" All Day Allergy Relief","Cantidad":12,"Descripción":"Burn third degree of unsp single finger except thumb, init","Precio":"$85.26","CasaFarmaceutica":"OUR FAMILY (NASH FINCH COMPANY)"}
+{"ID":901,"Nombre":" SEAWEED MEDICLEAR MASK","Cantidad":3,"Descripción":"Diuretics and oth and unsp drug/meds/biol subst","Precio":"$601.16","CasaFarmaceutica":"AMI Cosmetic Co.,Ltd."}
+{"ID":902,"Nombre":" Duramorph","Cantidad":8,"Descripción":"Matern care for disproprtn of mixed matern and fetal origin","Precio":"$243.46","CasaFarmaceutica":"West-Ward Pharmaceutical Corp."}
+{"ID":903,"Nombre":" LIDODERM","Cantidad":13,"Descripción":"Pnctr w/o foreign body of unsp cheek and TMJ area, sequela","Precio":"$736.10","CasaFarmaceutica":"STAT Rx USA LLC"}
+{"ID":904,"Nombre":" Extra-Virt Plus DHA","Cantidad":3,"Descripción":"Presence of endocrine implants","Precio":"$418.23","CasaFarmaceutica":"Virtus Pharmaceuticals LLC"}
+{"ID":905,"Nombre":" LEADER Cough Drops Menthol Flavor","Cantidad":6,"Descripción":"Visual deprivation nystagmus","Precio":"$726.50","CasaFarmaceutica":"Cardinal Health"}
+{"ID":906,"Nombre":" ZyPram","Cantidad":13,"Descripción":"Major laceration of right internal jugular vein, subs encntr","Precio":"$251.82","CasaFarmaceutica":"Vertical Pharmaceuticals, Inc"}
+{"ID":907,"Nombre":" Sisal","Cantidad":6,"Descripción":"Diabetes due to underlying condition w hyprosm w coma","Precio":"$949.46","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":908,"Nombre":" Pleo Chelate","Cantidad":6,"Descripción":"Other spacecraft accident injuring occupant, init encntr","Precio":"$388.59","CasaFarmaceutica":"Sanum Kehlbeck GmbH & Co. KG"}
+{"ID":909,"Nombre":" Etodolac","Cantidad":6,"Descripción":"Nicotine dependence, other tobacco product","Precio":"$456.91","CasaFarmaceutica":"Rebel Distributors Corp"}
+{"ID":910,"Nombre":" Henry Schein Acetaminophen","Cantidad":13,"Descripción":"Subluxation of unspecified thoracic vertebra, subs encntr","Precio":"$399.40","CasaFarmaceutica":"Henry Schein, Inc."}
+{"ID":911,"Nombre":" TIAZAC","Cantidad":15,"Descripción":"Other psychoactive substance use, unsp with withdrawal","Precio":"$942.28","CasaFarmaceutica":"Valeant Pharmaceuticals North America LLC"}
+{"ID":912,"Nombre":" Giant Ragweed","Cantidad":5,"Descripción":"Corrosion of third degree of oth site of trunk, subs encntr","Precio":"$922.71","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":913,"Nombre":" Lisinopril","Cantidad":2,"Descripción":"Nondisplaced fracture of trapezium, left wrist, sequela","Precio":"$50.80","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":914,"Nombre":" Soothe and Cool Free","Cantidad":3,"Descripción":"Encounter for exam of eyes and vision w abnormal findings","Precio":"$218.68","CasaFarmaceutica":"Medline Industries, Inc."}
+{"ID":915,"Nombre":" LES BEIGES","Cantidad":7,"Descripción":"Acquired absence of unspecified breast and nipple","Precio":"$474.40","CasaFarmaceutica":"CHANEL PARFUMS BEAUTE"}
+{"ID":916,"Nombre":" FLOVENT","Cantidad":14,"Descripción":"Legal intervnt w firearm disch, law enforc offl inj, sequela","Precio":"$389.91","CasaFarmaceutica":"GlaxoSmithKline LLC"}
+{"ID":917,"Nombre":" DawnMist Deodorant Bar No. 3","Cantidad":12,"Descripción":"Laceration w foreign body of left cheek and TMJ area, init","Precio":"$22.62","CasaFarmaceutica":"Donovan Industries, Inc"}
+{"ID":918,"Nombre":" Acetaminophen","Cantidad":6,"Descripción":"Other disorders of patella, right knee","Precio":"$176.83","CasaFarmaceutica":"A&Z Pharmaceutical, Inc."}
+{"ID":919,"Nombre":" Ibuprofen 200","Cantidad":8,"Descripción":"Poisoning by opth drugs and preparations, undetermined, init","Precio":"$262.67","CasaFarmaceutica":"WALGREEN CO."}
+{"ID":920,"Nombre":" CENTER-AL - ATRIPLEX WRIGHTII POLLEN","Cantidad":14,"Descripción":"Other superficial bite of left wrist","Precio":"$915.09","CasaFarmaceutica":"ALK-Abello, Inc."}
+{"ID":921,"Nombre":" Cialis","Cantidad":5,"Descripción":"Severely displaced Zone I fx sacrum, subs for fx w nonunion","Precio":"$574.10","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":922,"Nombre":" Azathioprine","Cantidad":8,"Descripción":"Oth soft tissue disorders related to use/pressure of forearm","Precio":"$759.17","CasaFarmaceutica":"Mylan Institutional Inc."}
+{"ID":923,"Nombre":" Peach","Cantidad":3,"Descripción":"Corros third degree of unsp mult fngr (nail), not inc thumb","Precio":"$165.10","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":924,"Nombre":" Nauzene","Cantidad":11,"Descripción":"Aggressive periodontitis, localized, severe","Precio":"$38.16","CasaFarmaceutica":"Alva-Amco Pharmacal Companies, Inc."}
+{"ID":925,"Nombre":" CARE ONE","Cantidad":6,"Descripción":"Unspecified subluxation of right wrist and hand, sequela","Precio":"$699.60","CasaFarmaceutica":"AMERICAN SALES COMPANY"}
+{"ID":926,"Nombre":" Peptic Relief","Cantidad":14,"Descripción":"Injury of nerves at shldr/up arm, unsp arm, sequela","Precio":"$107.66","CasaFarmaceutica":"Good Neighbor Pharmacy"}
+{"ID":927,"Nombre":" ARC FIRST AID Contains 1000 PIECES","Cantidad":6,"Descripción":"Complete traumatic MCP amputation of r mid finger, sequela","Precio":"$118.32","CasaFarmaceutica":"American Red Cross"}
+{"ID":928,"Nombre":" Tretinoin","Cantidad":1,"Descripción":"Laceration w fb of unsp great toe w damage to nail, sequela","Precio":"$939.06","CasaFarmaceutica":"Triax Pharmaceuticals, LLC"}
+{"ID":929,"Nombre":" Oat Grain","Cantidad":3,"Descripción":"Unsp fx the low end l rad, 7thE","Precio":"$192.94","CasaFarmaceutica":"Nelco Laboratories, Inc."}
+{"ID":930,"Nombre":" Cold Remedy Gan Mao Ling","Cantidad":11,"Descripción":"Corrosion of unspecified degree of left knee, init encntr","Precio":"$484.08","CasaFarmaceutica":"International Nature Nutraceuticals"}
+{"ID":931,"Nombre":" Fentanyl","Cantidad":10,"Descripción":"Spontaneous rupture of flexor tendons, forearm","Precio":"$272.77","CasaFarmaceutica":"Bryant Ranch Prepack"}
+{"ID":932,"Nombre":" FLEBEAUTE COLLAGENIC MAKE UP BASE","Cantidad":14,"Descripción":"Frostbite w tissue necrosis of right finger(s), subs encntr","Precio":"$44.08","CasaFarmaceutica":"THEFACESHOP CO., LTD."}
+{"ID":933,"Nombre":" Amlodipine Besylate and Benazepril Hydrochloride","Cantidad":7,"Descripción":"Posterior dislocation of unspecified hip, sequela","Precio":"$183.01","CasaFarmaceutica":"Lake Erie Medical DBA Quality Care Products LLC"}
+{"ID":934,"Nombre":" NUCYNTA","Cantidad":7,"Descripción":"Acute embolism and thombos unsp deep veins of low extrm, bi","Precio":"$506.44","CasaFarmaceutica":"Janssen Pharmaceuticals, Inc."}
+{"ID":935,"Nombre":" Synalar","Cantidad":4,"Descripción":"Other disorders of bone development and growth, left femur","Precio":"$984.25","CasaFarmaceutica":"Medimetriks Pharmaceuticals, Inc."}
+{"ID":936,"Nombre":" Furosemide","Cantidad":14,"Descripción":"Driver of hv veh injured in clsn w pedl cyc nontraf, subs","Precio":"$175.23","CasaFarmaceutica":"Aphena Pharma Solutions - Tennessee, LLC"}
+{"ID":937,"Nombre":" Neutrogena Healthy Skin Enhancer","Cantidad":15,"Descripción":"MERRF syndrome","Precio":"$507.63","CasaFarmaceutica":"Neutrogena Corporation"}
+{"ID":938,"Nombre":" Fentanyl","Cantidad":13,"Descripción":"Placenta percreta, first trimester","Precio":"$631.73","CasaFarmaceutica":"Actavis Pharma, Inc."}
+{"ID":939,"Nombre":" ropinirole hydrochloride","Cantidad":2,"Descripción":"Unil femoral hernia, w/o obst or gangrene, not spcf as recur","Precio":"$240.63","CasaFarmaceutica":"Cadila Healthcare Limited"}
+{"ID":940,"Nombre":" Childrens Triacting Nighttime Cold and Cough","Cantidad":6,"Descripción":"Milt op involving explosn of marine weapons, civilian, subs","Precio":"$659.63","CasaFarmaceutica":"QUALITY CHOICE (Chain Drug Marketing Association)"}
+{"ID":941,"Nombre":" INDOCIN","Cantidad":9,"Descripción":"Bent bone of unsp ulna, 7thE","Precio":"$407.65","CasaFarmaceutica":"Iroko Pharmaceuticals, LLC"}
+{"ID":942,"Nombre":" Painful Urination","Cantidad":3,"Descripción":"Disorders of magnesium metabolism, unspecified","Precio":"$27.87","CasaFarmaceutica":"Washington Homeopathic Products"}
+{"ID":943,"Nombre":" Metformin Hydrochloride","Cantidad":9,"Descripción":"Burn of first degree of unspecified lower leg, init encntr","Precio":"$376.72","CasaFarmaceutica":"Aurobindo Pharma Limited"}
+{"ID":944,"Nombre":" Treatment Set TS337026","Cantidad":14,"Descripción":"Underdosing of unspecified topical agent, initial encounter","Precio":"$449.51","CasaFarmaceutica":"Antigen Laboratories, Inc."}
+{"ID":945,"Nombre":" Cefuroxime Axetil","Cantidad":14,"Descripción":"Burn of first degree of left ankle, sequela","Precio":"$263.11","CasaFarmaceutica":"Apotex Corp."}
+{"ID":946,"Nombre":" PAUL AND JOE SILKY SMOOTH FOUNDATION UV 201","Cantidad":13,"Descripción":"Superficial foreign body of left thumb, initial encounter","Precio":"$14.80","CasaFarmaceutica":"Albion Co., Ltd"}
+{"ID":947,"Nombre":" C-Plus","Cantidad":7,"Descripción":"Burn 2nd deg mul sites of right lower limb, ex ank/ft, subs","Precio":"$113.13","CasaFarmaceutica":"Hyland's"}
+{"ID":948,"Nombre":" IOSAT","Cantidad":5,"Descripción":"Convulsions, not elsewhere classified","Precio":"$43.88","CasaFarmaceutica":"Anbex Inc."}
+{"ID":949,"Nombre":" Baclofen","Cantidad":4,"Descripción":"Sprain of radiocarpal joint of unsp wrist, init encntr","Precio":"$88.77","CasaFarmaceutica":"Northstar RxLLC"}
+{"ID":950,"Nombre":" Varico HP","Cantidad":5,"Descripción":"Amniotic fluid embolism in the puerperium","Precio":"$396.62","CasaFarmaceutica":"Natural Creations, Inc."}
+{"ID":951,"Nombre":" Fentanyl Citrate","Cantidad":14,"Descripción":"Disp fx of proximal phalanx of unsp thumb, init for opn fx","Precio":"$986.16","CasaFarmaceutica":"West-ward Pharmaceutical Corp."}
+{"ID":952,"Nombre":" Colds Flu","Cantidad":11,"Descripción":"Legal intervention involving injury by rubber bullet","Precio":"$992.09","CasaFarmaceutica":"Natural Health Supply"}
+{"ID":953,"Nombre":" Acyclovir","Cantidad":3,"Descripción":"Toxic effect of strychnine and its salts","Precio":"$380.10","CasaFarmaceutica":"Aidarex Pharmaceuticals LLC"}
+{"ID":954,"Nombre":" Double Tussin Intense Cough Reliever","Cantidad":12,"Descripción":"Displ oblique fx shaft of humer, r arm, 7thK","Precio":"$604.23","CasaFarmaceutica":"Reese Pharmaceutical Co"}
+{"ID":955,"Nombre":" Magnesium Sulfate","Cantidad":15,"Descripción":"Unsp superficial injury of unspecified forearm, init encntr","Precio":"$535.31","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":956,"Nombre":" Glycopyrrolate","Cantidad":10,"Descripción":"Fx unsp carpal bone, right wrist, subs for fx w delay heal","Precio":"$687.95","CasaFarmaceutica":"American Regent, Inc."}
+{"ID":957,"Nombre":" Acetaminophen, Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride","Cantidad":13,"Descripción":"Atopic dermatitis","Precio":"$26.34","CasaFarmaceutica":"AAA Pharmaceutical, Inc."}
+{"ID":958,"Nombre":" Direct Safety Extra Strength Aspirin Free","Cantidad":2,"Descripción":"Other injury of superior mesenteric artery, sequela","Precio":"$459.12","CasaFarmaceutica":"Conney Safety Products, LLC"}
+{"ID":959,"Nombre":" Salonpas pain relieving PATCH HOT","Cantidad":4,"Descripción":"Thrombosis due to nervous system prosth dev/grft, sequela","Precio":"$971.57","CasaFarmaceutica":"Hisamitsu Pharmaceutical Co., Inc."}
+{"ID":960,"Nombre":" flu and severe cold and cough","Cantidad":15,"Descripción":"Obs & eval of NB for suspected genetic condition ruled out","Precio":"$608.90","CasaFarmaceutica":"Safeway"}
+{"ID":961,"Nombre":" Shopko Antibacterial Hand Sanitizer","Cantidad":12,"Descripción":"Burn unsp degree of unsp mult fngr, not inc thumb, init","Precio":"$376.19","CasaFarmaceutica":"Jets, Sets, & Elephants Beauty Corp."}
+{"ID":962,"Nombre":" Gabapentin","Cantidad":8,"Descripción":"Asphyx d/t being trap in a (discarded) refrig, slf-hrm, sqla","Precio":"$308.90","CasaFarmaceutica":"NCS HealthCare of KY, Inc dba Vangard Labs"}
+{"ID":963,"Nombre":" CVS Moisturizing Lubricating Eye","Cantidad":1,"Descripción":"Postproc hematoma of eye and adnexa fol other procedure","Precio":"$984.36","CasaFarmaceutica":"CVS Pharmacy"}
+{"ID":964,"Nombre":" PROAIR","Cantidad":3,"Descripción":"Nontoxic diffuse goiter","Precio":"$39.45","CasaFarmaceutica":"Preferred Pharmaceuticals, Inc"}
+{"ID":965,"Nombre":" ANTI-AGING HAND SANITIZER","Cantidad":15,"Descripción":"Underdosing of emetics","Precio":"$25.85","CasaFarmaceutica":"CVS PHARMACY"}
+{"ID":966,"Nombre":" Estropipate","Cantidad":13,"Descripción":"Duodenitis","Precio":"$284.29","CasaFarmaceutica":"Physicians Total Care, Inc."}
+{"ID":967,"Nombre":" Olay Regenerist","Cantidad":7,"Descripción":"Disp fx of r ulna styloid pro, 7thH","Precio":"$537.98","CasaFarmaceutica":"Procter & Gamble Manufacturing Company"}
+{"ID":968,"Nombre":" Neutrogena SkinClearing","Cantidad":1,"Descripción":"Personal history of other diseases and conditions","Precio":"$78.61","CasaFarmaceutica":"Neutrogena Corporation"}
+{"ID":969,"Nombre":" Escitalopram Oxalate","Cantidad":1,"Descripción":"Other subluxation of unspecified shoulder joint","Precio":"$851.86","CasaFarmaceutica":"Aurobindo Pharma Limited"}
+{"ID":970,"Nombre":" Zarontin","Cantidad":10,"Descripción":"Unspecified open wound, unspecified ankle, subs encntr","Precio":"$44.92","CasaFarmaceutica":"Parke-Davis Div of Pfizer Inc"}
+{"ID":971,"Nombre":" SEROQUEL","Cantidad":11,"Descripción":"Minor laceration of unsp internal jugular vein, init encntr","Precio":"$343.93","CasaFarmaceutica":"Cardinal Health"}
+{"ID":972,"Nombre":" BETHANECHOL CHLORIDE","Cantidad":14,"Descripción":"Unsp fracture of left toe(s), init encntr for open fracture","Precio":"$866.12","CasaFarmaceutica":"Golden State Medical Supply, Inc."}
+{"ID":973,"Nombre":" SAGE MIX, COMMON/DARK-LEAVED/DRAGON/PASTURE POLLEN","Cantidad":13,"Descripción":"Nondisp spiral fx shaft of unsp tibia, 7thQ","Precio":"$12.34","CasaFarmaceutica":"Allergy Laboratories, Inc."}
+{"ID":974,"Nombre":" Head and Shoulders Conditioner","Cantidad":2,"Descripción":"Traum hemor cereb, w LOC w dth d/t oth cause bf consc, sqla","Precio":"$374.31","CasaFarmaceutica":"Procter & Gamble Manufacturing Co."}
+{"ID":975,"Nombre":" MORPHINE SULFATE","Cantidad":1,"Descripción":"Burn of third degree of left thigh, initial encounter","Precio":"$759.21","CasaFarmaceutica":"Mallinckrodt, Inc."}
+{"ID":976,"Nombre":" COUMADIN","Cantidad":14,"Descripción":"Functional disorders of polymorphonuclear neutrophils","Precio":"$388.71","CasaFarmaceutica":"Aphena Pharma Solutions - Tennessee, Inc."}
+{"ID":977,"Nombre":" ADVATE","Cantidad":6,"Descripción":"Hydroxyapatite deposition disease, hand","Precio":"$882.67","CasaFarmaceutica":"Baxter Healthcare Corporation"}
+{"ID":978,"Nombre":" TACT","Cantidad":11,"Descripción":"Displ intertroch fx l femr, 7thM","Precio":"$742.43","CasaFarmaceutica":"Sato Pharmaceutical Inc., Ltd."}
+{"ID":979,"Nombre":" Methylprednisolone","Cantidad":10,"Descripción":"Wedge comprsn fx unsp thor vert, subs for fx w routn heal","Precio":"$19.44","CasaFarmaceutica":"JUBILANT CADISTA PHARMACEUTICALS, INC."}
+{"ID":980,"Nombre":" Lumene Time Freeze Anti-Age CC Color Correcting SPF 20 Sunscreen Broad Spectrum LIGHT","Cantidad":1,"Descripción":"Traum rupt of palmar ligmt of r little finger at MCP/IP jt","Precio":"$677.85","CasaFarmaceutica":"LUMENE OY"}
+{"ID":981,"Nombre":" vecuronium bromide","Cantidad":12,"Descripción":"Displ commnt fx unsp patella, init for opn fx type 3A/B/C","Precio":"$674.76","CasaFarmaceutica":"Cardinal Health"}
+{"ID":982,"Nombre":" Primidone","Cantidad":4,"Descripción":"Displ spiral fx shaft of ulna, r arm, 7thN","Precio":"$646.77","CasaFarmaceutica":"McKesson Contract Packaging"}
+{"ID":983,"Nombre":" DYSPEPSIA HEADACHE","Cantidad":8,"Descripción":"Obstructed labor due to breech presentation","Precio":"$310.45","CasaFarmaceutica":"Natural Health Supply"}
+{"ID":984,"Nombre":" Day Time Gelcap","Cantidad":13,"Descripción":"Drug-induced chronic gout, right shoulder, with tophus","Precio":"$767.46","CasaFarmaceutica":"Kareway Product, Inc."}
+{"ID":985,"Nombre":" Film Coated Ibuprofen","Cantidad":3,"Descripción":"Subluxation of tarsal joint of left foot, sequela","Precio":"$236.45","CasaFarmaceutica":"Family Dollar"}
+{"ID":986,"Nombre":" Aluminum Hydroxide","Cantidad":3,"Descripción":"Unsp injury of musc/fasc/tend at forarm lv, right arm, subs","Precio":"$645.30","CasaFarmaceutica":"LLC Federal Solutions"}
+{"ID":987,"Nombre":" DONEPEZIL HYDROCHLORIDE","Cantidad":5,"Descripción":"Injury of facial nerve, right side, sequela","Precio":"$173.17","CasaFarmaceutica":"Accord Healthcare, Inc."}
+{"ID":988,"Nombre":" Metformin Hydrochloride","Cantidad":4,"Descripción":"Non-prs chronic ulcer oth prt unsp lower leg w unsp severity","Precio":"$116.98","CasaFarmaceutica":"Amneal Pharmaceuticals of New York, LLC"}
+{"ID":989,"Nombre":" ropinirole","Cantidad":6,"Descripción":"Drug-induced chronic gout, unspecified shoulder, with tophus","Precio":"$85.61","CasaFarmaceutica":"Glenmark Generics Inc., USA"}
+{"ID":990,"Nombre":" Lansoprazole","Cantidad":5,"Descripción":"Follicular lymphoma grade IIIa, unspecified site","Precio":"$969.99","CasaFarmaceutica":"Wockhardt Limited"}
+{"ID":991,"Nombre":" Senna-Lax","Cantidad":15,"Descripción":"Drowning and submersion due to watercraft overturning","Precio":"$24.12","CasaFarmaceutica":"McKesson Contract Packaging"}
+{"ID":992,"Nombre":" ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20","Cantidad":14,"Descripción":"Complete traumatic trnsphal amp of r idx fngr, sequela","Precio":"$215.89","CasaFarmaceutica":"Ventura Corporation LTD"}
+{"ID":993,"Nombre":" Clarins Rouge Hydra Nude - 02 Nude Coral","Cantidad":11,"Descripción":"Fx unsp metatarsal bone(s), right foot, init for opn fx","Precio":"$270.61","CasaFarmaceutica":"Laboratoires Clarins S.A."}
+{"ID":994,"Nombre":" Benzphetamine Hydrochloride","Cantidad":10,"Descripción":"Nondisp trimalleol fx l low leg, init for opn fx type I/2","Precio":"$598.19","CasaFarmaceutica":"Paddock Laboratories, Inc."}
+{"ID":995,"Nombre":" SESAME SEED","Cantidad":4,"Descripción":"Cutaneous listeriosis","Precio":"$552.01","CasaFarmaceutica":"Allergy Laboratories, Inc."}
+{"ID":996,"Nombre":" NAPROXEN","Cantidad":10,"Descripción":"Synovial hypertrophy, not elsewhere classified, left thigh","Precio":"$308.21","CasaFarmaceutica":"West-Ward Pharmaceutical Corp"}
+{"ID":997,"Nombre":" Ibuprofen and Pseudoephedrine Hydrochloride","Cantidad":15,"Descripción":"Strain flexor musc/fasc/tend r mid fngr at wrs/hnd lv, init","Precio":"$76.86","CasaFarmaceutica":"Topco Associates LLC"}
+{"ID":998,"Nombre":" Meijer Sport SPF 50","Cantidad":15,"Descripción":"Displ apophyseal fx unsp femr, 7thF","Precio":"$197.66","CasaFarmaceutica":"Meijer Distribution Inc"}
+{"ID":999,"Nombre":" equaline hair regrowth treatment","Cantidad":7,"Descripción":"Strain of unsp musc/tend at lower leg level, right leg, init","Precio":"$916.77","CasaFarmaceutica":"Supervalu Inc"}
+{"ID":1000,"Nombre":" CICLOPIROX","Cantidad":1,"Descripción":"Other fracture of shaft of radius, left arm, sequela","Precio":"$767.09","CasaFarmaceutica":"Paddock Laboratories, Inc."}

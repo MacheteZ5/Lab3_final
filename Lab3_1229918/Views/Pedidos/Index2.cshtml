@@ -1,0 +1,74 @@
+﻿@using Lab3_1229918.Models;
+@model IEnumerable<Inventario>
+@{
+    ViewBag.Title = "Index2";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>LecturaDeArchivo</title>
+    <style type="text/css">
+        body {
+            font-family: Arial;
+            font-size: 10pt;
+        }
+
+        table {
+            border: 1px solid #0026ff;
+            border-collapse: collapse;
+            background-color: aqua;
+        }
+
+            table th {
+                background-color: aquamarine;
+                color: crimson;
+                font-weight: bold;
+            }
+
+            table th, table td {
+                padding: Spx;
+                border: 1px solid #ccc;
+            }
+
+            table, table table td {
+                border: 0px solid #ccc;
+            }
+    </style>
+</head>
+<body>
+
+    @if (Model.Count() > 0)
+    {
+        <hr />
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Descripción</th>
+                <th>Casa Productora</th>
+                <th>Precio</th>
+            </tr>
+            @foreach (Inventario inventario in Model)
+            {
+                <tr>
+                    <td>@inventario.ID</td>
+                    <td>@inventario.Nombre</td>
+                    <td>@inventario.Descripción</td>
+                    <td>@inventario.CasaFarmaceutica</td>
+                    <td>@inventario.Precio</td>
+                    <td>@inventario.Cantidad</td>
+                </tr>
+            }
+        </table>
+    }
+</body>
+</html>
+<br />
+<div>
+    <form action="ConecciónB" method="post">
+        <input type="submit" name="enviar" value="Regresar al Menú" />
+    </form>
+</div>
